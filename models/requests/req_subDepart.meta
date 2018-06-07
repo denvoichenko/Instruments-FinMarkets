@@ -1,0 +1,27 @@
+{
+ "caption": "subDepartment", // entity name
+ "description": "subDepartment",  // entity description
+ "descriptionAttribute": "name",
+ "attributes": {
+   "name": {
+     "dataType": "String",
+     "size": 255,
+     "caption": "SubDepartment Name",
+     "description": "SubDepartment Name",
+     "allowNull": false,
+     "isMultiLang": false
+   },
+   "department":{
+      "dataType": "Entity",
+      "associatedEntity": "req_depart",
+      "caption": "department",
+      "allowNull": false
+       }
+
+    },
+ "mixins": { // the mandatory section (can be empty)
+     "mStorage": {
+         "safeDelete": true //add attr mi_deleteDate and mi_createUset to entity
+     }
+ }
+}

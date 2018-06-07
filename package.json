@@ -1,0 +1,24 @@
+{
+  "name": "cityportal",
+  "version": "1.0.0",
+  "description": "IASA course project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lorderot/unity_base.git"
+  },
+  "author": "Mykola Holovatskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lorderot/unity_base/issues"
+  },
+  "homepage": "https://github.com/Lorderot/unity_base#readme",
+  "dependencies": {
+    "@ub-e/ube-pub": "^4.2.6",
+    "@unitybase/adminui-pub": "^4.3.1",
+    "@unitybase/ubq": "^4.3.1"
+  }
+}

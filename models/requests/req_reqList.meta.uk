@@ -1,0 +1,40 @@
+{
+ "caption": "Заявки", // entity name
+ "description": "Заявки",  // entity description
+ "attributes": {
+   "reqDate": {
+     "caption": "Дата заявки",
+     "description": "Дата заявки"
+   },
+   "applicantPhone": {
+     "caption": "Номер телефону заявника",
+     "description": "Номер телефону заявника"
+   },
+   "applicantInfo": {
+     "caption": "Контактні дані заявника",
+     "description": "Контактні дані заявника"
+   },
+
+   "department": { // name of attributes (column name on AdminUI)
+     "caption": "Департамент заявки" // caption of the object on AdminUI  
+   },
+   "subDepartment": { // name of attributes (column name on AdminUI)
+     "caption": "Підрозділ" // caption of the object on AdminUI  
+   },
+   "reqText": {
+     "caption": "Текст заявки",
+     "description": "Текст заявки"
+   } ,
+   "reqDoc":{
+    "caption":"Додаток",
+    "description" :"Документ"
+    },
+   "answer": {
+        "caption": "Відповідь на заяву",
+        "description": "Відповідь на заяву"
+    },
+   "status": {
+    "caption": "Статус заяви"
+    }
+  }
+} 

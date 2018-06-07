@@ -1,0 +1,55 @@
+<!--@name "Closed request current month"-->
+<!--@model "RequestList"-->
+
+
+
+<!--%pageOrientation:portrait-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center;"><span style="font-size: 18pt;"><strong>Request List current month</strong></span></p>
+<p>current month: {{curMonth}} , year: {{curYear}}</p>
+<p><span style="font-size: 14pt;">Closed requests</span></p>
+<table style="word-break: break-all;" border="1px" width="773" cellspacing="0" cellpadding="3px">
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>Request data</strong></td>
+<td style="text-align: center;"><strong>Applicant Info</strong></td>
+<td style="text-align: center;"><strong>Request text</strong></td>
+<td style="text-align: center;"><strong>Answer</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">{{reqDate}}</td>
+<td style="text-align: center;">{{applicantInfo}}</td>
+<td style="text-align: center;">{{reqText}}</td>
+<td style="text-align: center;">{{answer}}</td>
+</tr>
+</tbody>
+</table>
