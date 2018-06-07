@@ -1,0 +1,2941 @@
+c:\UnityBase\UB.exe 4.0.0.0 (2018-02-22 16:30:16)Host=WDFN34211327A User=D071860 CPU=4*9-6-19971:FFFBCBBF8373DAFEBF6F9C0000 OS=23.0=10.0.15063 Wow64=1 Freq=2437498Environment variables=ALLUSERSPROFILE=C:\ProgramData	ANSICON=121x32766 (121x26)	ANSICON_DEF=7	APPDATA=C:\Users\D071860\AppData\Roaming	CommonProgramFiles=C:\Program Files (x86)\Common Files	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files	CommonProgramW6432=C:\Program Files\Common Files	COMPUTERNAME=WDFN34211327A	ComSpec=C:\WINDOWS\system32\cmd.exe	ConEmuANSI=ON	ConEmuAnsiLog=	ConEmuArgs=	ConEmuArgs2=	ConEmuBackHWND=0x001105EE	ConEmuBaseDir=C:\Program Files\ConEmu\ConEmu	ConEmuBaseDirShort=C:\PROGRA~1\ConEmu\ConEmu	ConEmuBuild=180411	ConEmuCfgDir=	ConEmuConfig=	ConEmuDir=C:\Program Files\ConEmu	ConEmuDrawHWND=0x001B0306	ConEmuDrive=C:	ConEmuHooks=Enabled	ConEmuHWND=0x001904C6	ConEmuPalette=<ConEmu>	ConEmuPID=1208	ConEmuPrompt0=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S	ConEmuPrompt1=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S$E[92m$P$E[90m	ConEmuPrompt2=$_$E[90m$G	ConEmuPrompt3=$E[m$S$E]9;12$E\	ConEmuServerPID=5468	ConEmuTask={Shells::cmd}	ConEmuWorkDir=C:\Users\D071860	ConEmuWorkDrive=C:	DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Security\Logs	HOMEDRIVE=C:	homeloc=D_WDF	HOMEPATH=\Users\D071860	KUBECONFIG=C:\Practice\kubernetes\RUSLAN-KUBECONFIG	LOCALAPPDATA=C:\Users\D071860\AppData\Local	LOGONSERVER=\\DS2WDF0004	NUMBER_OF_PROCESSORS=4	OneDrive=C:\Users\D071860\OneDrive	OS=Windows_NT	Path=C:\Program Files\ConEmu\ConEmu\Scripts;C:\Program Files\ConEmu;C:\Program Files\ConEmu\ConEmu;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Docker\Docker\Resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Minikube;C:\Program Files\Kubernetes;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;c:\UnityBase;C:\Users\D071860\AppData\Local\Microsoft\WindowsApps;C:\Users\D071860\AppData\Roaming\npm	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JSE;.WSF;.WSH;.MSC	PROCESSOR_ARCHITECTURE=x86	PROCESSOR_ARCHITEW6432=AMD64	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel	PROCESSOR_LEVEL=6	PROCESSOR_REVISION=4e03	ProgramData=C:\ProgramData	ProgramFiles=C:\Program Files (x86)	ProgramFiles(x86)=C:\Program Files (x86)	ProgramW6432=C:\Program Files	PROMPT=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S$E[92m$P$E[90m$_$E[90m$G$E[m$S$E]9;12$E\	PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell	PUBLIC=C:\Users\Public	SESSIONNAME=Console	SNC_LIB=C:\Program Files (x86)\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SNC_LIB_64=C:\Program Files\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SSF_LIBRARY_PATH=C:\Program Files (x86)\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SSF_LIBRARY_PATH_64=C:\Program Files\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SystemDrive=C:	SystemRoot=C:\WINDOWS	TEMP=C:\Users\D071860\AppData\Local\Temp	TMP=C:\Users\D071860\AppData\Local\Temp	UATDATA=C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77	UB_HOME=c:\UnityBase	USERDNSDOMAIN=GLOBAL.CORP.SAP	USERDOMAIN=GLOBAL	USERDOMAIN_ROAMINGPROFILE=GLOBAL	USERNAME=D071860	USERPROFILE=C:\Users\D071860	windir=C:\WINDOWSTubLog 1.18.3488 FTS3 2018-04-16T10:16:2220180416 10162238  ! warn  WebSocket support are disabled because WSServer.host = '' in config
+20180416 10162238  !  +    ubServer.TubServer(042274E8).008863DB 
+20180416 10162238  !  +    	Init app
+20180416 10162238  ! srvr  		FTS is disabled
+20180416 10162238  ! info  		Check blob store "avatars" folder "C:\ubProject\CityPortal\avatars\": folder exists
+20180416 10162238  ! info  		Check blob store "attach" folder "C:\ubProject\CityPortal\docs\attach\": folder exists
+20180416 10162238  !  -    	00.000.597
+20180416 10162238  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ub\ modified
+20180416 10162238  !  +    		ubCommonClasses.TubThreadSafeCache(02D5CB08).removeStartsWith
+20180416 10162238  !  -    		00.000.004
+20180416 10162238  !  -    	00.000.009
+20180416 10162238  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\uba\ modified
+20180416 10162238  !  +    		ubCommonClasses.TubThreadSafeCache(02D5CB08).removeStartsWith
+20180416 10162238  !  -    		00.000.000
+20180416 10162238  !  -    	00.000.004
+20180416 10162238  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ubs\ modified
+20180416 10162238  !  +    		ubCommonClasses.TubThreadSafeCache(02D5CB08).removeStartsWith
+20180416 10162238  !  -    		00.000.000
+20180416 10162238  !  -    	00.000.004
+20180416 10162238  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ubm\ modified
+20180416 10162238  !  +    		ubCommonClasses.TubThreadSafeCache(02D5CB08).removeStartsWith
+20180416 10162238  !  -    		00.000.000
+20180416 10162238  !  -    	00.000.003
+20180416 10162238  !  +    	Folder C:\ubProject\CityPortal\_public_only_\ modified
+20180416 10162238  !  +    		ubCommonClasses.TubThreadSafeCache(02D5CB08).removeStartsWith
+20180416 10162238  !  -    		00.000.000
+20180416 10162238  !  -    	00.000.003
+20180416 10162238  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\adminui-reg\ modified
+20180416 10162238  !  +    		ubCommonClasses.TubThreadSafeCache(02D5CB08).removeStartsWith
+20180416 10162238  !  -    		00.000.000
+20180416 10162238  !  -    	00.000.004
+20180416 10162238  !  +    	Folder C:\ubProject\CityPortal\models\requests\ modified
+20180416 10162238  !  +    		ubCommonClasses.TubThreadSafeCache(02D5CB08).removeStartsWith
+20180416 10162238  !  -    		00.000.000
+20180416 10162238  !  -    	00.000.003
+20180416 10162239  !  +    	ubApp.TubApp(02CC3EE0).init
+20180416 10162239  ! srvr  		Mime converters are disabled
+20180416 10162239  !  -    	00.000.003
+20180416 10162239  ! srvr  	Enable zip compresison
+20180416 10162239  ! srvr  	Send initialization request to http://localhost:888/init
+20180416 10162239  "  +    InitializationRequest
+20180416 10162239  "  +    	init
+20180416 10162239  " srvr  		Start application intialization...
+20180416 10162239  " info  		Loading domain...
+20180416 10162239  " info  		Loading model "UB" from "C:\ubProject\CityPortal\node_modules\@unitybase\ub\"
+20180416 10162239  " info  		Loading model "UBA" from "C:\ubProject\CityPortal\node_modules\@unitybase\uba\"
+20180416 10162240  " info  		Loading model "UBS" from "C:\ubProject\CityPortal\node_modules\@unitybase\ubs\"
+20180416 10162241  " info  		Loading model "UBM" from "C:\ubProject\CityPortal\node_modules\@unitybase\ubm\"
+20180416 10162242  " info  		Loading model "adminui-reg" from "C:\ubProject\CityPortal\node_modules\@unitybase\adminui-reg\"
+20180416 10162242  " info  		Loading model "RequestList" from "C:\ubProject\CityPortal\models\requests\"
+20180416 10162242  "  +    		ubApp.TubDataStore(041C0010).Init
+20180416 10162242  "  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162242  "  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162242  "  +    					00856EC2 
+20180416 10162242  "  -    					00.002.618
+20180416 10162242  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D76F10) PRAGMA foreign_keys = ON
+20180416 10162242  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D76910) SELECT A01.ID,A01.entity,A01.state,A01.attribute,A01.roleName,A01.actions  FROM uba_als A01  ORDER BY A01.entity ASC
+20180416 10162242  "  -    				00.002.779
+20180416 10162242  "  -    			00.002.818
+20180416 10162242  " debug 			Query result for entity "uba_als" into data name "": row count=0
+20180416 10162242  "  -    		00.002.858
+20180416 10162242  " srvr  		The domain loaded successfully with 3 entities
+20180416 10162242  " debug 		Create new JavaScript Engine for thread 59648
+20180416 10162256  "  +    		008C234A 
+20180416 10162256  "  +    			ubApp.TubDataStore(06D75378).Init
+20180416 10162256  "  +    				ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162256  "  +    					ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162256  " SQL   						ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D77270) SELECT A01.ID,A01.name,A01.sessionTimeout,A01.allowedAppMethods  FROM uba_role A01 
+20180416 10162256  "  -    					00.000.069
+20180416 10162256  "  -    				00.000.160
+20180416 10162256  " debug 				Query result for entity "uba_role" into data name "": row count=9
+20180416 10162256  "  -    			00.000.171
+20180416 10162256  "  +    			ubApp.TubDataStore(06D753F0).Init
+20180416 10162256  "  +    				ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162256  "  +    					ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162256  " SQL   						ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D77210) SELECT A01.ID,A01.entityMask,A01.methodMask,A01.ruleType,A01.ruleRole,A01.disabled,A01.code  FROM uba_els A01 
+20180416 10162256  "  -    					00.000.030
+20180416 10162256  "  -    				00.000.153
+20180416 10162256  " debug 				Query result for entity "uba_els" into data name "": row count=88
+20180416 10162256  "  -    			00.000.187
+20180416 10162256  "  -    		00.002.305
+20180416 10162256  " auth  		New session admin/147256080 created at 127.0.0.1/-288230370246129667 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180416 10162256  " auth  		New session anonymous/147256083 created at 127.0.0.1/-288230370246129667 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180416 10162256  "  +    		ubApp.TubDataStore(06D75558).Init
+20180416 10162256  "  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162256  "  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162256  " debug 					P1: String(34)	UBA.passwordPolicy.maxDurationDays
+20180416 10162256  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D77330) select settingValue from ubs_settings where settingKey =?
+20180416 10162256  "  -    				00.000.029
+20180416 10162256  "  -    			00.000.067
+20180416 10162256  " debug 			Query result for entity "ubs_settings" into data name "": row count=1
+20180416 10162256  "  -    		00.000.075
+20180416 10162256  "  +    		ubApp.TubDataStore(06D75558).Init
+20180416 10162256  "  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162256  "  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162256  " debug 					P1: String(37)	UBA.passwordPolicy.maxInvalidAttempts
+20180416 10162256  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D77330) select settingValue from ubs_settings where settingKey =?
+20180416 10162256  "  -    				00.000.006
+20180416 10162256  "  -    			00.000.018
+20180416 10162256  " debug 			Query result for entity "ubs_settings" into data name "": row count=1
+20180416 10162256  "  -    		00.000.024
+20180416 10162256  "  -    	00.270.748
+20180416 10162256  "  -    00.270.768
+20180416 10162256  ! srvr  	ubServer.TubServer(042274E8) {"THttpApiServer(02C8A990)":{"Cloned":false,"RegisteredUrl":"http://+:888/","HTTPQueueLength":1000,"MaxBandwidth":-1,"MaxConnections":-1,"APIVersion":"HTTP API 2.0","ServerName":"UnityBase","ProcessName":""}} initialized
+20180416 10162256  !  -    00.279.436
+20180416 10162257  "  +    getAppInfo
+20180416 10162257  " http  	127.0.0.1 -> GET getAppInfo
+20180416 10162257  " call  	endpoint getAppInfo
+20180416 10162257  " http  	127.0.0.1 <- 200
+20180416 10162257  "  -    00.000.613
+20180416 10162257  #  +    auth?AUTHTYPE=UB&userName=admin
+20180416 10162257  # http  	127.0.0.1 -> GET auth?AUTHTYPE=UB&userName=admin
+20180416 10162257  # debug 	Create new JavaScript Engine for thread 51576
+20180416 10162307  # call  	endpoint auth
+20180416 10162307  # http  	127.0.0.1 <- 200
+20180416 10162307  #  -    00.211.902
+20180416 10162307  $  +    auth?AUTHTYPE=UB&clientNonce=8d63999b02942d75ee91bca002a1454f367e57555e9939e1cf4237c35c778ec1&password=145eb1748ab7778bd4d9dfd8156cd55deb6b96a65f96c5c10f29841b550ad4ea&userName=admin
+20180416 10162307  $ http  	127.0.0.1 -> GET auth?AUTHTYPE=UB&clientNonce=8d63999b02942d75ee91bca002a1454f367e57555e9939e1cf4237c35c778ec1&password=145eb1748ab7778bd4d9dfd8156cd55deb6b96a65f96c5c10f29841b550ad4ea&userName=admin
+20180416 10162307  $ debug 	Create new JavaScript Engine for thread 4492
+20180416 10162320  $ call  	endpoint auth
+20180416 10162320  $  +    	ubApp.TubDataStore(06D7A8C8).Init
+20180416 10162320  $  +    		ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162320  $  +    			ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162320  $  +    				00856EC2 
+20180416 10162320  $  -    				00.002.259
+20180416 10162320  $ SQL   				ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D780B0) PRAGMA foreign_keys = ON
+20180416 10162320  $ debug 				P1: String(5)	admin
+20180416 10162320  $ SQL   				ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D77A50) select id, name, uPasswordHashHexa, uData, isPending, trustedIP from UBA_USER where name=? and disabled=0
+20180416 10162320  $  -    			00.002.306
+20180416 10162320  $  -    		00.002.354
+20180416 10162320  $ debug 		Query result for entity "uba_user" into data name "": row count=1
+20180416 10162320  $  -    	00.002.379
+20180416 10162320  $  +    	ubApp.TubDataStore(06D7A8C8).Init
+20180416 10162320  $  +    		ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162320  $  +    			ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162320  $ debug 				P1: Int64		10
+20180416 10162320  $ SQL   				ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D780B0) SELECT lastPasswordChangeDate FROM uba_user WHERE id=?
+20180416 10162320  $  -    			00.000.018
+20180416 10162320  $  -    		00.000.042
+20180416 10162320  $ debug 		Query result for entity "uba_user" into data name "__expireDate": row count=1
+20180416 10162320  $  -    	00.000.050
+20180416 10162320  $  +    	ubApp.TubDataStore(07E96368).Init
+20180416 10162320  $  +    		ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162320  $  +    			ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162320  $ debug 				P1: Int64		10
+20180416 10162320  $ SQL   				ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D78170) SELECT A01.roleID,A02.name,A02.description  FROM uba_userrole A01  INNER JOIN uba_role A02 ON A02.ID=A01.roleID  WHERE A01.userID=?
+20180416 10162320  $  -    			00.000.041
+20180416 10162320  $  -    		00.000.078
+20180416 10162320  $ debug 		Query result for entity "uba_userrole" into data name "": row count=1
+20180416 10162320  $  -    	00.000.085
+20180416 10162320  $ auth  	New session admin/147256082 created at 127.0.0.1/-288230370246129667 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180416 10162320  $  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 10162320  $ debug 		uba_user.select(TubStorageMixin)
+20180416 10162320  $  +    		ubApp.TubDataStore(07E96368).Init
+20180416 10162320  $  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162320  $  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162320  $ debug 					P1: Int64		10
+20180416 10162320  $ SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D78290) SELECT A01.name  FROM uba_user A01  WHERE A01.ID=?
+20180416 10162320  $  -    				00.000.036
+20180416 10162320  $  -    			00.000.076
+20180416 10162320  $ debug 			Query result for entity "uba_user" into data name "": row count=1
+20180416 10162320  $  -    		00.000.084
+20180416 10162320  $  -    	00.000.155
+20180416 10162323  $  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 10162323  $ debug 		uba_advSecurity.select(TubStorageMixin)
+20180416 10162323  $  +    		ubApp.TubDataStore(07E96368).Init
+20180416 10162323  $  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162323  $  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162323  $ debug 					P1: Int64		10
+20180416 10162323  $ SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D782F0) SELECT A01.ID,A01.allowedIP,A01.refreshIP,A01.fp,A01.refreshFp,A01.keyMediaName,A01.refreshKeyMedia,A01.mi_modifyDate  FROM uba_advSecurity A01  WHERE A01.userID=?
+20180416 10162323  $  -    				00.000.060
+20180416 10162323  $  -    			00.000.124
+20180416 10162323  $ debug 			Query result for entity "uba_advSecurity" into data name "": row count=0
+20180416 10162323  $  -    		00.000.135
+20180416 10162323  $  -    	00.000.276
+20180416 10162323  $  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 10162323  $ debug 		uba_userrole.select(TubStorageMixin)
+20180416 10162323  $  +    		ubApp.TubDataStore(07E96368).Init
+20180416 10162323  $  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162323  $  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162323  $ debug 					P1: Int64		10
+20180416 10162323  $ SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D78350) SELECT A01.ID,A02.name,A01.roleID  FROM uba_userrole A01  INNER JOIN uba_role A02 ON A02.ID=A01.roleID  WHERE A01.userID=?
+20180416 10162323  $  -    				00.000.064
+20180416 10162323  $  -    			00.000.150
+20180416 10162323  $ debug 			Query result for entity "uba_userrole" into data name "": row count=1
+20180416 10162323  $  -    		00.000.160
+20180416 10162323  $  -    	00.000.237
+20180416 10162323  $  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 10162323  $ debug 		uba_audit.beforeinsert(TubStorageMixin)
+20180416 10162323  $  -    	00.000.008
+20180416 10162323  $  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 10162323  $ debug 		uba_audit.insert(TubStorageMixin)
+20180416 10162323  $  +    		ubApp.TubDataStore(06D7A6C0).TubDataStore.ExecuteInsertFromList
+20180416 10162323  $  +    			ubApp.TubDataStore(06D7A6C0).TubDataStore.ExecuteInsertFromSQL
+20180416 10162323  $  +    				ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162323  $  +    					ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162323  $ debug 						P1: String(8)	uba_user
+20180416 10162323  $ debug 						P2: Int64		10
+20180416 10162323  $ debug 						P3: String(5)	LOGIN
+20180416 10162323  $ debug 						P4: Int64		10
+20180416 10162323  $ debug 						P5: DateTime	2018-04-16T10:16:23
+20180416 10162323  $ debug 						P6: String(9)	127.0.0.1
+20180416 10162323  $ debug 						P7: String(5)	admin
+20180416 10162323  $ debug 						P8: String(0)	
+20180416 10162323  $ debug 						P9: Int64		335793332617217
+20180416 10162323  $ debug 						P10: String(313..)	Cache-Control: no-cache  Connection: Keep-Alive  Pragma: no-cache  Accept: */*  Accept-Encoding: gzi...
+20180416 10162323  $ DB    						StartTransaction for connection "main"
+20180416 10162323  $ SQL   						ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D78410) INSERT INTO uba_audit (entity,entityinfo_id,actionType,actionUser,actionTime,remoteIP,targetUser,targetRole,ID,fromValue) VALUES (?,?,?,?,?,?,?,?,?,?)
+20180416 10162323  $  -    					00.000.153
+20180416 10162323  $  -    				00.000.155
+20180416 10162323  $  -    			00.000.254
+20180416 10162323  $  -    		00.000.265
+20180416 10162323  $  -    	00.000.273
+20180416 10162323  $  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 10162323  $ debug 		uba_audit.afterinsert(TubStorageMixin)
+20180416 10162323  $  -    	00.000.003
+20180416 10162323  $ DB    	Commit connection "main"
+20180416 10162323  $ http  	127.0.0.1 <- 200
+20180416 10162323  $  -    00.246.799
+20180416 10162323  %  +    getDomainInfo?extended=true&userName=admin&v=4
+20180416 10162323  % http  	127.0.0.1 -> GET getDomainInfo?extended=true&userName=admin&v=4
+20180416 10162323  % debug 	Create new JavaScript Engine for thread 58808
+20180416 10162336  % auth  	admin/147256082
+20180416 10162336  % call  	endpoint getDomainInfo
+20180416 10162336  % http  	127.0.0.1 <- 200
+20180416 10162336  %  -    00.212.327
+20180416 10162342  &  +    runSQL?CONNECTION=main
+20180416 10162342  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162342  & http  	select name, tbl_name as caption from sqlite_master where type='table' and name not like 'sqlite_%'
+20180416 10162342  & debug 	Create new JavaScript Engine for thread 65048
+20180416 10162355  & auth  	admin/147256082
+20180416 10162355  & call  	endpoint runSQL
+20180416 10162355  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162355  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162355  &  +    			00856EC2 
+20180416 10162355  &  -    			00.007.686
+20180416 10162355  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D79130) PRAGMA foreign_keys = ON
+20180416 10162355  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D78AD0) select name, tbl_name as caption from sqlite_master where type='table' and name not like 'sqlite_%'
+20180416 10162355  &  -    		00.007.726
+20180416 10162355  &  -    	00.007.802
+20180416 10162355  & http  	127.0.0.1 <- 200
+20180416 10162355  &  -    00.213.859
+20180416 10162355  '  +    runSQL?CONNECTION=main
+20180416 10162355  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162355  ' http  	PRAGMA table_info('uba_user')
+20180416 10162355  ' debug 	Create new JavaScript Engine for thread 60480
+20180416 10162406  ' auth  	admin/147256082
+20180416 10162406  ' call  	endpoint runSQL
+20180416 10162406  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162406  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162406  '  +    			00856EC2 
+20180416 10162406  '  -    			00.002.231
+20180416 10162406  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D79A30) PRAGMA foreign_keys = ON
+20180416 10162406  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D793D0) PRAGMA table_info('uba_user')
+20180416 10162406  '  -    		00.002.264
+20180416 10162406  '  -    	00.002.302
+20180416 10162406  ' http  	127.0.0.1 <- 200
+20180416 10162406  '  -    00.205.219
+20180416 10162406  (  +    runSQL?CONNECTION=main
+20180416 10162406  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162406  ( http  	PRAGMA foreign_key_list('uba_user')
+20180416 10162406  ( debug 	Create new JavaScript Engine for thread 52504
+20180416 10162419  ( auth  	admin/147256082
+20180416 10162419  ( call  	endpoint runSQL
+20180416 10162419  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162419  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162419  (  +    			00856EC2 
+20180416 10162419  (  -    			00.002.290
+20180416 10162419  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A390) PRAGMA foreign_keys = ON
+20180416 10162419  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D79D30) PRAGMA foreign_key_list('uba_user')
+20180416 10162419  (  -    		00.002.329
+20180416 10162419  (  -    	00.002.402
+20180416 10162419  ( http  	127.0.0.1 <- 200
+20180416 10162419  (  -    00.209.889
+20180416 10162419  )  +    runSQL?CONNECTION=main
+20180416 10162419  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162419  ) http  	PRAGMA index_list('uba_user')
+20180416 10162419  ) debug 	Create new JavaScript Engine for thread 63624
+20180416 10162432  ) auth  	admin/147256082
+20180416 10162432  ) call  	endpoint runSQL
+20180416 10162432  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162432  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162432  )  +    			00856EC2 
+20180416 10162432  )  -    			00.002.345
+20180416 10162432  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7AC90) PRAGMA foreign_keys = ON
+20180416 10162432  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_user')
+20180416 10162432  )  -    		00.002.368
+20180416 10162432  )  -    	00.002.393
+20180416 10162432  ) http  	127.0.0.1 <- 200
+20180416 10162432  )  -    00.205.168
+20180416 10162432  "  +    runSQL?CONNECTION=main
+20180416 10162432  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162432  " http  	PRAGMA index_xinfo(IDX_USR_MI_MODIFYUSER)
+20180416 10162432  " auth  	admin/147256082
+20180416 10162432  " call  	endpoint runSQL
+20180416 10162432  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162432  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162432  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USR_MI_MODIFYUSER)
+20180416 10162432  "  -    		00.000.025
+20180416 10162432  "  -    	00.000.106
+20180416 10162432  " http  	127.0.0.1 <- 200
+20180416 10162432  "  -    00.000.316
+20180416 10162432  #  +    runSQL?CONNECTION=main
+20180416 10162432  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162432  # http  	PRAGMA index_xinfo(IDX_USR_MI_CREATEUSER)
+20180416 10162432  # auth  	admin/147256082
+20180416 10162432  # call  	endpoint runSQL
+20180416 10162432  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162432  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162432  #  +    			00856EC2 
+20180416 10162433  #  -    			00.002.329
+20180416 10162433  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7B290) PRAGMA foreign_keys = ON
+20180416 10162433  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USR_MI_CREATEUSER)
+20180416 10162433  #  -    		00.002.352
+20180416 10162433  #  -    	00.002.374
+20180416 10162433  # http  	127.0.0.1 <- 200
+20180416 10162433  #  -    00.002.634
+20180416 10162433  $  +    runSQL?CONNECTION=main
+20180416 10162433  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162433  $ http  	PRAGMA index_xinfo(IDX_USR_MI_OWNER)
+20180416 10162433  $ auth  	admin/147256082
+20180416 10162433  $ call  	endpoint runSQL
+20180416 10162433  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162433  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162433  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USR_MI_OWNER)
+20180416 10162433  $  -    		00.000.073
+20180416 10162433  $  -    	00.000.134
+20180416 10162433  $ http  	127.0.0.1 <- 200
+20180416 10162433  $  -    00.000.308
+20180416 10162433  %  +    runSQL?CONNECTION=main
+20180416 10162433  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162433  % http  	PRAGMA index_xinfo(UIDX_USR_NAME)
+20180416 10162433  % auth  	admin/147256082
+20180416 10162433  % call  	endpoint runSQL
+20180416 10162433  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162433  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162433  %  +    			00856EC2 
+20180416 10162433  %  -    			00.002.322
+20180416 10162433  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7B890) PRAGMA foreign_keys = ON
+20180416 10162433  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UIDX_USR_NAME)
+20180416 10162433  %  -    		00.002.345
+20180416 10162433  %  -    	00.002.370
+20180416 10162433  % http  	127.0.0.1 <- 200
+20180416 10162433  %  -    00.002.644
+20180416 10162433  &  +    runSQL?CONNECTION=main
+20180416 10162433  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162433  & http  	PRAGMA table_info('uba_role')
+20180416 10162433  & auth  	admin/147256082
+20180416 10162433  & call  	endpoint runSQL
+20180416 10162433  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162433  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162433  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('uba_role')
+20180416 10162433  &  -    		00.000.030
+20180416 10162433  &  -    	00.000.115
+20180416 10162433  & http  	127.0.0.1 <- 200
+20180416 10162433  &  -    00.000.279
+20180416 10162433  '  +    runSQL?CONNECTION=main
+20180416 10162433  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162433  ' http  	PRAGMA foreign_key_list('uba_role')
+20180416 10162433  ' auth  	admin/147256082
+20180416 10162433  ' call  	endpoint runSQL
+20180416 10162433  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162433  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162433  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('uba_role')
+20180416 10162433  '  -    		00.000.028
+20180416 10162433  '  -    	00.000.077
+20180416 10162433  ' http  	127.0.0.1 <- 200
+20180416 10162433  '  -    00.000.280
+20180416 10162433  (  +    runSQL?CONNECTION=main
+20180416 10162433  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162433  ( http  	PRAGMA index_list('uba_role')
+20180416 10162433  ( auth  	admin/147256082
+20180416 10162433  ( call  	endpoint runSQL
+20180416 10162433  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162433  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162433  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_role')
+20180416 10162433  (  -    		00.000.042
+20180416 10162433  (  -    	00.000.098
+20180416 10162433  ( http  	127.0.0.1 <- 200
+20180416 10162433  (  -    00.000.317
+20180416 10162434  )  +    runSQL?CONNECTION=main
+20180416 10162434  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162434  ) http  	PRAGMA index_xinfo(IDX_ROLE_MI_MODIFYUSER)
+20180416 10162434  ) auth  	admin/147256082
+20180416 10162434  ) call  	endpoint runSQL
+20180416 10162434  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162434  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162434  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ROLE_MI_MODIFYUSER)
+20180416 10162434  )  -    		00.000.024
+20180416 10162434  )  -    	00.000.072
+20180416 10162434  ) http  	127.0.0.1 <- 200
+20180416 10162434  )  -    00.000.226
+20180416 10162434  "  +    runSQL?CONNECTION=main
+20180416 10162434  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162434  " http  	PRAGMA index_xinfo(IDX_ROLE_MI_CREATEUSER)
+20180416 10162434  " auth  	admin/147256082
+20180416 10162434  " call  	endpoint runSQL
+20180416 10162434  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162434  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162434  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ROLE_MI_CREATEUSER)
+20180416 10162434  "  -    		00.000.027
+20180416 10162434  "  -    	00.000.069
+20180416 10162434  " http  	127.0.0.1 <- 200
+20180416 10162434  "  -    00.000.257
+20180416 10162434  #  +    runSQL?CONNECTION=main
+20180416 10162434  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162434  # http  	PRAGMA index_xinfo(IDX_ROLE_MI_OWNER)
+20180416 10162434  # auth  	admin/147256082
+20180416 10162434  # call  	endpoint runSQL
+20180416 10162434  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162434  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162434  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ROLE_MI_OWNER)
+20180416 10162434  #  -    		00.000.026
+20180416 10162434  #  -    	00.000.086
+20180416 10162434  # http  	127.0.0.1 <- 200
+20180416 10162434  #  -    00.000.267
+20180416 10162434  $  +    runSQL?CONNECTION=main
+20180416 10162434  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162434  $ http  	PRAGMA index_xinfo(UIDX_ROLE_NAME)
+20180416 10162434  $ auth  	admin/147256082
+20180416 10162434  $ call  	endpoint runSQL
+20180416 10162434  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162434  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162434  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UIDX_ROLE_NAME)
+20180416 10162434  $  -    		00.000.027
+20180416 10162434  $  -    	00.000.075
+20180416 10162434  $ http  	127.0.0.1 <- 200
+20180416 10162434  $  -    00.000.222
+20180416 10162434  %  +    runSQL?CONNECTION=main
+20180416 10162434  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162434  % http  	PRAGMA table_info('uba_els')
+20180416 10162434  % auth  	admin/147256082
+20180416 10162434  % call  	endpoint runSQL
+20180416 10162434  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162434  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162434  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('uba_els')
+20180416 10162434  %  -    		00.000.040
+20180416 10162434  %  -    	00.000.108
+20180416 10162434  % http  	127.0.0.1 <- 200
+20180416 10162434  %  -    00.000.344
+20180416 10162434  &  +    runSQL?CONNECTION=main
+20180416 10162434  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162434  & http  	PRAGMA foreign_key_list('uba_els')
+20180416 10162434  & auth  	admin/147256082
+20180416 10162434  & call  	endpoint runSQL
+20180416 10162434  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162434  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162434  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('uba_els')
+20180416 10162434  &  -    		00.000.027
+20180416 10162434  &  -    	00.000.080
+20180416 10162434  & http  	127.0.0.1 <- 200
+20180416 10162434  &  -    00.000.233
+20180416 10162434  '  +    runSQL?CONNECTION=main
+20180416 10162434  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162434  ' http  	PRAGMA index_list('uba_els')
+20180416 10162434  ' auth  	admin/147256082
+20180416 10162434  ' call  	endpoint runSQL
+20180416 10162434  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162434  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162434  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_els')
+20180416 10162434  '  -    		00.000.027
+20180416 10162434  '  -    	00.000.073
+20180416 10162434  ' http  	127.0.0.1 <- 200
+20180416 10162434  '  -    00.000.237
+20180416 10162434  (  +    runSQL?CONNECTION=main
+20180416 10162434  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162434  ( http  	PRAGMA index_xinfo(IDX_ELS_MI_MODIFYUSER)
+20180416 10162434  ( auth  	admin/147256082
+20180416 10162434  ( call  	endpoint runSQL
+20180416 10162434  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162434  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162434  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ELS_MI_MODIFYUSER)
+20180416 10162434  (  -    		00.000.025
+20180416 10162434  (  -    	00.000.067
+20180416 10162434  ( http  	127.0.0.1 <- 200
+20180416 10162434  (  -    00.000.226
+20180416 10162435  )  +    runSQL?CONNECTION=main
+20180416 10162435  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162435  ) http  	PRAGMA index_xinfo(IDX_ELS_MI_CREATEUSER)
+20180416 10162435  ) auth  	admin/147256082
+20180416 10162435  ) call  	endpoint runSQL
+20180416 10162435  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162435  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162435  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ELS_MI_CREATEUSER)
+20180416 10162435  )  -    		00.000.026
+20180416 10162435  )  -    	00.000.086
+20180416 10162435  ) http  	127.0.0.1 <- 200
+20180416 10162435  )  -    00.000.233
+20180416 10162435  "  +    runSQL?CONNECTION=main
+20180416 10162435  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162435  " http  	PRAGMA index_xinfo(IDX_ELS_MI_OWNER)
+20180416 10162435  " auth  	admin/147256082
+20180416 10162435  " call  	endpoint runSQL
+20180416 10162435  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162435  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162435  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ELS_MI_OWNER)
+20180416 10162435  "  -    		00.000.025
+20180416 10162435  "  -    	00.000.182
+20180416 10162435  " http  	127.0.0.1 <- 200
+20180416 10162435  "  -    00.000.360
+20180416 10162435  #  +    runSQL?CONNECTION=main
+20180416 10162435  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162435  # http  	PRAGMA index_xinfo(IDX_ELS_RULEROLE)
+20180416 10162435  # auth  	admin/147256082
+20180416 10162435  # call  	endpoint runSQL
+20180416 10162435  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162435  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162435  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ELS_RULEROLE)
+20180416 10162435  #  -    		00.000.026
+20180416 10162435  #  -    	00.000.071
+20180416 10162435  # http  	127.0.0.1 <- 200
+20180416 10162435  #  -    00.000.233
+20180416 10162435  $  +    runSQL?CONNECTION=main
+20180416 10162435  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162435  $ http  	PRAGMA table_info('uba_subject')
+20180416 10162435  $ auth  	admin/147256082
+20180416 10162435  $ call  	endpoint runSQL
+20180416 10162435  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162435  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162435  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('uba_subject')
+20180416 10162435  $  -    		00.000.028
+20180416 10162435  $  -    	00.000.075
+20180416 10162435  $ http  	127.0.0.1 <- 200
+20180416 10162435  $  -    00.000.232
+20180416 10162435  %  +    runSQL?CONNECTION=main
+20180416 10162435  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162435  % http  	PRAGMA foreign_key_list('uba_subject')
+20180416 10162435  % auth  	admin/147256082
+20180416 10162435  % call  	endpoint runSQL
+20180416 10162435  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162435  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162435  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('uba_subject')
+20180416 10162435  %  -    		00.000.034
+20180416 10162435  %  -    	00.000.051
+20180416 10162435  % http  	127.0.0.1 <- 200
+20180416 10162435  %  -    00.000.202
+20180416 10162435  &  +    runSQL?CONNECTION=main
+20180416 10162435  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162435  & http  	PRAGMA index_list('uba_subject')
+20180416 10162435  & auth  	admin/147256082
+20180416 10162435  & call  	endpoint runSQL
+20180416 10162435  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162435  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162435  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_subject')
+20180416 10162435  &  -    		00.000.035
+20180416 10162435  &  -    	00.000.080
+20180416 10162435  & http  	127.0.0.1 <- 200
+20180416 10162435  &  -    00.000.224
+20180416 10162435  '  +    runSQL?CONNECTION=main
+20180416 10162435  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162435  ' http  	PRAGMA index_xinfo(IDX_SUBJ_NAME)
+20180416 10162435  ' auth  	admin/147256082
+20180416 10162435  ' call  	endpoint runSQL
+20180416 10162435  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162435  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162435  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_SUBJ_NAME)
+20180416 10162435  '  -    		00.000.048
+20180416 10162435  '  -    	00.000.107
+20180416 10162435  ' http  	127.0.0.1 <- 200
+20180416 10162435  '  -    00.000.272
+20180416 10162435  (  +    runSQL?CONNECTION=main
+20180416 10162435  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162435  ( http  	PRAGMA table_info('uba_userrole')
+20180416 10162435  ( auth  	admin/147256082
+20180416 10162435  ( call  	endpoint runSQL
+20180416 10162435  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162435  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162435  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('uba_userrole')
+20180416 10162435  (  -    		00.000.069
+20180416 10162435  (  -    	00.000.109
+20180416 10162435  ( http  	127.0.0.1 <- 200
+20180416 10162435  (  -    00.000.284
+20180416 10162436  )  +    runSQL?CONNECTION=main
+20180416 10162436  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162436  ) http  	PRAGMA foreign_key_list('uba_userrole')
+20180416 10162436  ) auth  	admin/147256082
+20180416 10162436  ) call  	endpoint runSQL
+20180416 10162436  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162436  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162436  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('uba_userrole')
+20180416 10162436  )  -    		00.000.030
+20180416 10162436  )  -    	00.000.091
+20180416 10162436  ) http  	127.0.0.1 <- 200
+20180416 10162436  )  -    00.000.236
+20180416 10162436  "  +    runSQL?CONNECTION=main
+20180416 10162436  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162436  " http  	PRAGMA index_list('uba_userrole')
+20180416 10162436  " auth  	admin/147256082
+20180416 10162436  " call  	endpoint runSQL
+20180416 10162436  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162436  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162436  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_userrole')
+20180416 10162436  "  -    		00.000.035
+20180416 10162436  "  -    	00.000.082
+20180416 10162436  " http  	127.0.0.1 <- 200
+20180416 10162436  "  -    00.000.415
+20180416 10162436  #  +    runSQL?CONNECTION=main
+20180416 10162436  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162436  # http  	PRAGMA index_xinfo(UK_USRROLE_USER_ROLE)
+20180416 10162436  # auth  	admin/147256082
+20180416 10162436  # call  	endpoint runSQL
+20180416 10162436  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162436  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162436  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UK_USRROLE_USER_ROLE)
+20180416 10162436  #  -    		00.000.025
+20180416 10162436  #  -    	00.000.080
+20180416 10162436  # http  	127.0.0.1 <- 200
+20180416 10162436  #  -    00.000.433
+20180416 10162436  $  +    runSQL?CONNECTION=main
+20180416 10162436  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162436  $ http  	PRAGMA index_xinfo(IDX_USROLE_MI_MODIFYUSER)
+20180416 10162436  $ auth  	admin/147256082
+20180416 10162436  $ call  	endpoint runSQL
+20180416 10162436  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162436  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162436  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USROLE_MI_MODIFYUSER)
+20180416 10162436  $  -    		00.000.036
+20180416 10162436  $  -    	00.000.090
+20180416 10162436  $ http  	127.0.0.1 <- 200
+20180416 10162436  $  -    00.000.292
+20180416 10162436  %  +    runSQL?CONNECTION=main
+20180416 10162436  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162436  % http  	PRAGMA index_xinfo(IDX_USROLE_MI_CREATEUSER)
+20180416 10162436  % auth  	admin/147256082
+20180416 10162436  % call  	endpoint runSQL
+20180416 10162436  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162436  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162436  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USROLE_MI_CREATEUSER)
+20180416 10162436  %  -    		00.000.035
+20180416 10162436  %  -    	00.000.084
+20180416 10162436  % http  	127.0.0.1 <- 200
+20180416 10162436  %  -    00.000.403
+20180416 10162436  &  +    runSQL?CONNECTION=main
+20180416 10162436  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162436  & http  	PRAGMA index_xinfo(IDX_USROLE_MI_OWNER)
+20180416 10162436  & auth  	admin/147256082
+20180416 10162436  & call  	endpoint runSQL
+20180416 10162436  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162436  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162436  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USROLE_MI_OWNER)
+20180416 10162436  &  -    		00.000.027
+20180416 10162436  &  -    	00.000.066
+20180416 10162436  & http  	127.0.0.1 <- 200
+20180416 10162436  &  -    00.000.431
+20180416 10162436  '  +    runSQL?CONNECTION=main
+20180416 10162436  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162436  ' http  	PRAGMA index_xinfo(IDX_USROLE_ROLEID)
+20180416 10162436  ' auth  	admin/147256082
+20180416 10162436  ' call  	endpoint runSQL
+20180416 10162436  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162436  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162436  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USROLE_ROLEID)
+20180416 10162436  '  -    		00.000.026
+20180416 10162436  '  -    	00.000.068
+20180416 10162436  ' http  	127.0.0.1 <- 200
+20180416 10162436  '  -    00.000.389
+20180416 10162436  (  +    runSQL?CONNECTION=main
+20180416 10162436  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162436  ( http  	PRAGMA index_xinfo(IDX_USROLE_USERID)
+20180416 10162436  ( auth  	admin/147256082
+20180416 10162436  ( call  	endpoint runSQL
+20180416 10162436  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162436  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162436  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USROLE_USERID)
+20180416 10162436  (  -    		00.000.025
+20180416 10162436  (  -    	00.000.068
+20180416 10162436  ( http  	127.0.0.1 <- 200
+20180416 10162436  (  -    00.000.384
+20180416 10162437  )  +    runSQL?CONNECTION=main
+20180416 10162437  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162437  ) http  	PRAGMA table_info('uba_als')
+20180416 10162437  ) auth  	admin/147256082
+20180416 10162437  ) call  	endpoint runSQL
+20180416 10162437  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162437  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162437  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('uba_als')
+20180416 10162437  )  -    		00.000.033
+20180416 10162437  )  -    	00.000.079
+20180416 10162437  ) http  	127.0.0.1 <- 200
+20180416 10162437  )  -    00.000.409
+20180416 10162437  "  +    runSQL?CONNECTION=main
+20180416 10162437  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162437  " http  	PRAGMA foreign_key_list('uba_als')
+20180416 10162437  " auth  	admin/147256082
+20180416 10162437  " call  	endpoint runSQL
+20180416 10162437  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162437  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162437  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('uba_als')
+20180416 10162437  "  -    		00.000.030
+20180416 10162437  "  -    	00.000.045
+20180416 10162437  " http  	127.0.0.1 <- 200
+20180416 10162437  "  -    00.000.294
+20180416 10162437  #  +    runSQL?CONNECTION=main
+20180416 10162437  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162437  # http  	PRAGMA index_list('uba_als')
+20180416 10162437  # auth  	admin/147256082
+20180416 10162437  # call  	endpoint runSQL
+20180416 10162437  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162437  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162437  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_als')
+20180416 10162437  #  -    		00.000.026
+20180416 10162437  #  -    	00.000.079
+20180416 10162437  # http  	127.0.0.1 <- 200
+20180416 10162437  #  -    00.000.354
+20180416 10162437  $  +    runSQL?CONNECTION=main
+20180416 10162437  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162437  $ http  	PRAGMA index_xinfo(UK_UBA_ALS_EASR)
+20180416 10162437  $ auth  	admin/147256082
+20180416 10162437  $ call  	endpoint runSQL
+20180416 10162437  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162437  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162437  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UK_UBA_ALS_EASR)
+20180416 10162437  $  -    		00.000.032
+20180416 10162437  $  -    	00.000.076
+20180416 10162437  $ http  	127.0.0.1 <- 200
+20180416 10162437  $  -    00.000.346
+20180416 10162437  %  +    runSQL?CONNECTION=main
+20180416 10162437  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162437  % http  	PRAGMA table_info('uba_audit')
+20180416 10162437  % auth  	admin/147256082
+20180416 10162437  % call  	endpoint runSQL
+20180416 10162437  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162437  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162437  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('uba_audit')
+20180416 10162437  %  -    		00.000.030
+20180416 10162437  %  -    	00.000.081
+20180416 10162437  % http  	127.0.0.1 <- 200
+20180416 10162437  %  -    00.000.240
+20180416 10162437  &  +    runSQL?CONNECTION=main
+20180416 10162437  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162437  & http  	PRAGMA foreign_key_list('uba_audit')
+20180416 10162437  & auth  	admin/147256082
+20180416 10162437  & call  	endpoint runSQL
+20180416 10162437  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162437  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162437  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('uba_audit')
+20180416 10162437  &  -    		00.000.025
+20180416 10162437  &  -    	00.000.036
+20180416 10162437  & http  	127.0.0.1 <- 200
+20180416 10162437  &  -    00.000.281
+20180416 10162437  '  +    runSQL?CONNECTION=main
+20180416 10162437  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162437  ' http  	PRAGMA index_list('uba_audit')
+20180416 10162437  ' auth  	admin/147256082
+20180416 10162437  ' call  	endpoint runSQL
+20180416 10162437  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162437  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162437  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_audit')
+20180416 10162437  '  -    		00.000.025
+20180416 10162437  '  -    	00.000.068
+20180416 10162437  ' http  	127.0.0.1 <- 200
+20180416 10162437  '  -    00.000.315
+20180416 10162437  (  +    runSQL?CONNECTION=main
+20180416 10162437  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162437  ( http  	PRAGMA index_xinfo(idx_saud_targetUser)
+20180416 10162437  ( auth  	admin/147256082
+20180416 10162437  ( call  	endpoint runSQL
+20180416 10162437  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162437  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162437  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(idx_saud_targetUser)
+20180416 10162437  (  -    		00.000.026
+20180416 10162437  (  -    	00.000.071
+20180416 10162437  ( http  	127.0.0.1 <- 200
+20180416 10162437  (  -    00.000.368
+20180416 10162437  )  +    runSQL?CONNECTION=main
+20180416 10162437  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162437  ) http  	PRAGMA table_info('ubs_settings')
+20180416 10162437  ) auth  	admin/147256082
+20180416 10162437  ) call  	endpoint runSQL
+20180416 10162437  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162437  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162437  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('ubs_settings')
+20180416 10162437  )  -    		00.000.034
+20180416 10162437  )  -    	00.000.091
+20180416 10162437  ) http  	127.0.0.1 <- 200
+20180416 10162437  )  -    00.000.352
+20180416 10162437  "  +    runSQL?CONNECTION=main
+20180416 10162437  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162437  " http  	PRAGMA foreign_key_list('ubs_settings')
+20180416 10162437  " auth  	admin/147256082
+20180416 10162437  " call  	endpoint runSQL
+20180416 10162438  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162438  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162438  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('ubs_settings')
+20180416 10162438  "  -    		00.000.039
+20180416 10162438  "  -    	00.000.091
+20180416 10162438  " http  	127.0.0.1 <- 200
+20180416 10162438  "  -    00.000.404
+20180416 10162438  #  +    runSQL?CONNECTION=main
+20180416 10162438  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162438  # http  	PRAGMA index_list('ubs_settings')
+20180416 10162438  # auth  	admin/147256082
+20180416 10162438  # call  	endpoint runSQL
+20180416 10162438  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162438  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162438  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('ubs_settings')
+20180416 10162438  #  -    		00.000.034
+20180416 10162438  #  -    	00.000.090
+20180416 10162438  # http  	127.0.0.1 <- 200
+20180416 10162438  #  -    00.000.289
+20180416 10162438  $  +    runSQL?CONNECTION=main
+20180416 10162438  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162438  $ http  	PRAGMA index_xinfo(IDX_STNGS_MI_MODIFYUSER)
+20180416 10162438  $ auth  	admin/147256082
+20180416 10162438  $ call  	endpoint runSQL
+20180416 10162438  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162438  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162438  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_STNGS_MI_MODIFYUSER)
+20180416 10162438  $  -    		00.000.028
+20180416 10162438  $  -    	00.000.071
+20180416 10162438  $ http  	127.0.0.1 <- 200
+20180416 10162438  $  -    00.000.232
+20180416 10162438  %  +    runSQL?CONNECTION=main
+20180416 10162438  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162438  % http  	PRAGMA index_xinfo(IDX_STNGS_MI_CREATEUSER)
+20180416 10162438  % auth  	admin/147256082
+20180416 10162438  % call  	endpoint runSQL
+20180416 10162438  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162438  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162438  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_STNGS_MI_CREATEUSER)
+20180416 10162438  %  -    		00.000.031
+20180416 10162438  %  -    	00.000.084
+20180416 10162438  % http  	127.0.0.1 <- 200
+20180416 10162438  %  -    00.000.379
+20180416 10162438  &  +    runSQL?CONNECTION=main
+20180416 10162438  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162438  & http  	PRAGMA index_xinfo(IDX_STNGS_MI_OWNER)
+20180416 10162438  & auth  	admin/147256082
+20180416 10162438  & call  	endpoint runSQL
+20180416 10162438  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162438  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162438  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_STNGS_MI_OWNER)
+20180416 10162438  &  -    		00.000.033
+20180416 10162438  &  -    	00.000.096
+20180416 10162438  & http  	127.0.0.1 <- 200
+20180416 10162438  &  -    00.000.358
+20180416 10162438  '  +    runSQL?CONNECTION=main
+20180416 10162438  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162438  ' http  	PRAGMA index_xinfo(UIDX_STNGS_SETTINGKEY)
+20180416 10162438  ' auth  	admin/147256082
+20180416 10162438  ' call  	endpoint runSQL
+20180416 10162438  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162438  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162438  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UIDX_STNGS_SETTINGKEY)
+20180416 10162438  '  -    		00.000.030
+20180416 10162438  '  -    	00.000.086
+20180416 10162438  ' http  	127.0.0.1 <- 200
+20180416 10162438  '  -    00.000.303
+20180416 10162438  (  +    runSQL?CONNECTION=main
+20180416 10162438  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162438  ( http  	PRAGMA table_info('uba_advSecurity')
+20180416 10162438  ( auth  	admin/147256082
+20180416 10162438  ( call  	endpoint runSQL
+20180416 10162438  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162438  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162438  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('uba_advSecurity')
+20180416 10162438  (  -    		00.000.048
+20180416 10162438  (  -    	00.000.141
+20180416 10162438  ( http  	127.0.0.1 <- 200
+20180416 10162438  (  -    00.000.317
+20180416 10162438  )  +    runSQL?CONNECTION=main
+20180416 10162438  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162438  ) http  	PRAGMA foreign_key_list('uba_advSecurity')
+20180416 10162438  ) auth  	admin/147256082
+20180416 10162438  ) call  	endpoint runSQL
+20180416 10162438  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162438  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162438  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('uba_advSecurity')
+20180416 10162438  )  -    		00.000.029
+20180416 10162438  )  -    	00.000.083
+20180416 10162438  ) http  	127.0.0.1 <- 200
+20180416 10162438  )  -    00.000.242
+20180416 10162439  "  +    runSQL?CONNECTION=main
+20180416 10162439  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162439  " http  	PRAGMA index_list('uba_advSecurity')
+20180416 10162439  " auth  	admin/147256082
+20180416 10162439  " call  	endpoint runSQL
+20180416 10162439  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162439  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162439  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_advSecurity')
+20180416 10162439  "  -    		00.000.032
+20180416 10162439  "  -    	00.000.110
+20180416 10162439  " http  	127.0.0.1 <- 200
+20180416 10162439  "  -    00.000.340
+20180416 10162439  #  +    runSQL?CONNECTION=main
+20180416 10162439  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162439  # http  	PRAGMA index_xinfo(IDX_UBA_ADVSECURITY_MI_MODIFYUSER)
+20180416 10162439  # auth  	admin/147256082
+20180416 10162439  # call  	endpoint runSQL
+20180416 10162439  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162439  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162439  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_UBA_ADVSECURITY_MI_MODIFYUSER)
+20180416 10162439  #  -    		00.000.026
+20180416 10162439  #  -    	00.000.070
+20180416 10162439  # http  	127.0.0.1 <- 200
+20180416 10162439  #  -    00.000.221
+20180416 10162439  $  +    runSQL?CONNECTION=main
+20180416 10162439  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162439  $ http  	PRAGMA index_xinfo(IDX_UBA_ADVSECURITY_MI_CREATEUSER)
+20180416 10162439  $ auth  	admin/147256082
+20180416 10162439  $ call  	endpoint runSQL
+20180416 10162439  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162439  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162439  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_UBA_ADVSECURITY_MI_CREATEUSER)
+20180416 10162439  $  -    		00.000.043
+20180416 10162439  $  -    	00.000.095
+20180416 10162439  $ http  	127.0.0.1 <- 200
+20180416 10162439  $  -    00.000.323
+20180416 10162439  %  +    runSQL?CONNECTION=main
+20180416 10162439  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162439  % http  	PRAGMA index_xinfo(IDX_UBA_ADVSECURITY_MI_OWNER)
+20180416 10162439  % auth  	admin/147256082
+20180416 10162439  % call  	endpoint runSQL
+20180416 10162439  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162439  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162439  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_UBA_ADVSECURITY_MI_OWNER)
+20180416 10162439  %  -    		00.000.083
+20180416 10162439  %  -    	00.000.139
+20180416 10162439  % http  	127.0.0.1 <- 200
+20180416 10162439  %  -    00.000.280
+20180416 10162439  &  +    runSQL?CONNECTION=main
+20180416 10162439  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162439  & http  	PRAGMA index_xinfo(UIDX_UBA_ADVSECURITY_USERID)
+20180416 10162439  & auth  	admin/147256082
+20180416 10162439  & call  	endpoint runSQL
+20180416 10162439  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162439  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162439  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UIDX_UBA_ADVSECURITY_USERID)
+20180416 10162439  &  -    		00.000.025
+20180416 10162439  &  -    	00.000.069
+20180416 10162439  & http  	127.0.0.1 <- 200
+20180416 10162439  &  -    00.000.221
+20180416 10162439  '  +    runSQL?CONNECTION=main
+20180416 10162439  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162439  ' http  	PRAGMA table_info('uba_auditTrail')
+20180416 10162439  ' auth  	admin/147256082
+20180416 10162439  ' call  	endpoint runSQL
+20180416 10162439  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162439  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162439  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('uba_auditTrail')
+20180416 10162439  '  -    		00.000.032
+20180416 10162439  '  -    	00.000.093
+20180416 10162439  ' http  	127.0.0.1 <- 200
+20180416 10162439  '  -    00.000.240
+20180416 10162439  (  +    runSQL?CONNECTION=main
+20180416 10162439  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162439  ( http  	PRAGMA foreign_key_list('uba_auditTrail')
+20180416 10162439  ( auth  	admin/147256082
+20180416 10162439  ( call  	endpoint runSQL
+20180416 10162439  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162439  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162439  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('uba_auditTrail')
+20180416 10162439  (  -    		00.000.032
+20180416 10162439  (  -    	00.000.089
+20180416 10162439  ( http  	127.0.0.1 <- 200
+20180416 10162439  (  -    00.000.284
+20180416 10162439  )  +    runSQL?CONNECTION=main
+20180416 10162439  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162439  ) http  	PRAGMA index_list('uba_auditTrail')
+20180416 10162439  ) auth  	admin/147256082
+20180416 10162439  ) call  	endpoint runSQL
+20180416 10162439  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162439  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162439  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_auditTrail')
+20180416 10162439  )  -    		00.000.026
+20180416 10162439  )  -    	00.000.070
+20180416 10162439  ) http  	127.0.0.1 <- 200
+20180416 10162439  )  -    00.000.230
+20180416 10162440  "  +    runSQL?CONNECTION=main
+20180416 10162440  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162440  " http  	PRAGMA index_xinfo(idx_aud_parententityinfoid)
+20180416 10162440  " auth  	admin/147256082
+20180416 10162440  " call  	endpoint runSQL
+20180416 10162440  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162440  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162440  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(idx_aud_parententityinfoid)
+20180416 10162440  "  -    		00.000.026
+20180416 10162440  "  -    	00.000.070
+20180416 10162440  " http  	127.0.0.1 <- 200
+20180416 10162440  "  -    00.000.213
+20180416 10162440  #  +    runSQL?CONNECTION=main
+20180416 10162440  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162440  # http  	PRAGMA index_xinfo(idx_aud_entity)
+20180416 10162440  # auth  	admin/147256082
+20180416 10162440  # call  	endpoint runSQL
+20180416 10162440  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162440  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162440  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(idx_aud_entity)
+20180416 10162440  #  -    		00.000.034
+20180416 10162440  #  -    	00.000.077
+20180416 10162440  # http  	127.0.0.1 <- 200
+20180416 10162440  #  -    00.000.278
+20180416 10162440  $  +    runSQL?CONNECTION=main
+20180416 10162440  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162440  $ http  	PRAGMA index_xinfo(IDX_AUD_ACTIONUSER)
+20180416 10162440  $ auth  	admin/147256082
+20180416 10162440  $ call  	endpoint runSQL
+20180416 10162440  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162440  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162440  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_AUD_ACTIONUSER)
+20180416 10162440  $  -    		00.000.027
+20180416 10162440  $  -    	00.000.106
+20180416 10162440  $ http  	127.0.0.1 <- 200
+20180416 10162440  $  -    00.000.262
+20180416 10162440  %  +    runSQL?CONNECTION=main
+20180416 10162440  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162440  % http  	PRAGMA table_info('uba_group')
+20180416 10162440  % auth  	admin/147256082
+20180416 10162440  % call  	endpoint runSQL
+20180416 10162440  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162440  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162440  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('uba_group')
+20180416 10162440  %  -    		00.000.030
+20180416 10162440  %  -    	00.000.089
+20180416 10162440  % http  	127.0.0.1 <- 200
+20180416 10162440  %  -    00.000.225
+20180416 10162440  &  +    runSQL?CONNECTION=main
+20180416 10162440  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162440  & http  	PRAGMA foreign_key_list('uba_group')
+20180416 10162440  & auth  	admin/147256082
+20180416 10162440  & call  	endpoint runSQL
+20180416 10162440  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162440  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162440  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('uba_group')
+20180416 10162440  &  -    		00.000.028
+20180416 10162440  &  -    	00.000.080
+20180416 10162440  & http  	127.0.0.1 <- 200
+20180416 10162440  &  -    00.000.220
+20180416 10162440  '  +    runSQL?CONNECTION=main
+20180416 10162440  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162440  ' http  	PRAGMA index_list('uba_group')
+20180416 10162440  ' auth  	admin/147256082
+20180416 10162440  ' call  	endpoint runSQL
+20180416 10162440  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162440  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162440  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_group')
+20180416 10162440  '  -    		00.000.040
+20180416 10162440  '  -    	00.000.086
+20180416 10162440  ' http  	127.0.0.1 <- 200
+20180416 10162440  '  -    00.000.264
+20180416 10162440  (  +    runSQL?CONNECTION=main
+20180416 10162440  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162440  ( http  	PRAGMA index_xinfo(IDX_GR_MI_MODIFYUSER)
+20180416 10162440  ( auth  	admin/147256082
+20180416 10162440  ( call  	endpoint runSQL
+20180416 10162440  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162440  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162440  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_GR_MI_MODIFYUSER)
+20180416 10162440  (  -    		00.000.032
+20180416 10162440  (  -    	00.000.095
+20180416 10162440  ( http  	127.0.0.1 <- 200
+20180416 10162440  (  -    00.000.242
+20180416 10162440  )  +    runSQL?CONNECTION=main
+20180416 10162440  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162440  ) http  	PRAGMA index_xinfo(IDX_GR_MI_CREATEUSER)
+20180416 10162440  ) auth  	admin/147256082
+20180416 10162440  ) call  	endpoint runSQL
+20180416 10162440  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162440  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162440  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_GR_MI_CREATEUSER)
+20180416 10162440  )  -    		00.000.025
+20180416 10162440  )  -    	00.000.065
+20180416 10162440  ) http  	127.0.0.1 <- 200
+20180416 10162440  )  -    00.000.332
+20180416 10162440  "  +    runSQL?CONNECTION=main
+20180416 10162440  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162440  " http  	PRAGMA index_xinfo(IDX_GR_MI_OWNER)
+20180416 10162440  " auth  	admin/147256082
+20180416 10162440  " call  	endpoint runSQL
+20180416 10162440  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162440  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162440  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_GR_MI_OWNER)
+20180416 10162440  "  -    		00.000.025
+20180416 10162440  "  -    	00.000.068
+20180416 10162440  " http  	127.0.0.1 <- 200
+20180416 10162440  "  -    00.000.212
+20180416 10162441  #  +    runSQL?CONNECTION=main
+20180416 10162441  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162441  # http  	PRAGMA index_xinfo(UIDX_GR_NAME)
+20180416 10162441  # auth  	admin/147256082
+20180416 10162441  # call  	endpoint runSQL
+20180416 10162441  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162441  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162441  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UIDX_GR_NAME)
+20180416 10162441  #  -    		00.000.025
+20180416 10162441  #  -    	00.000.072
+20180416 10162441  # http  	127.0.0.1 <- 200
+20180416 10162441  #  -    00.000.201
+20180416 10162441  $  +    runSQL?CONNECTION=main
+20180416 10162441  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162441  $ http  	PRAGMA index_xinfo(UIDX_GR_CODE)
+20180416 10162441  $ auth  	admin/147256082
+20180416 10162441  $ call  	endpoint runSQL
+20180416 10162441  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162441  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162441  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UIDX_GR_CODE)
+20180416 10162441  $  -    		00.000.027
+20180416 10162441  $  -    	00.000.070
+20180416 10162441  $ http  	127.0.0.1 <- 200
+20180416 10162441  $  -    00.000.223
+20180416 10162441  %  +    runSQL?CONNECTION=main
+20180416 10162441  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162441  % http  	PRAGMA table_info('uba_grouprole')
+20180416 10162441  % auth  	admin/147256082
+20180416 10162441  % call  	endpoint runSQL
+20180416 10162441  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162441  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162441  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('uba_grouprole')
+20180416 10162441  %  -    		00.000.029
+20180416 10162441  %  -    	00.000.086
+20180416 10162441  % http  	127.0.0.1 <- 200
+20180416 10162441  %  -    00.000.238
+20180416 10162441  &  +    runSQL?CONNECTION=main
+20180416 10162441  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162441  & http  	PRAGMA foreign_key_list('uba_grouprole')
+20180416 10162441  & auth  	admin/147256082
+20180416 10162441  & call  	endpoint runSQL
+20180416 10162441  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162441  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162441  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('uba_grouprole')
+20180416 10162441  &  -    		00.000.029
+20180416 10162441  &  -    	00.000.085
+20180416 10162441  & http  	127.0.0.1 <- 200
+20180416 10162441  &  -    00.000.219
+20180416 10162441  '  +    runSQL?CONNECTION=main
+20180416 10162441  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162441  ' http  	PRAGMA index_list('uba_grouprole')
+20180416 10162441  ' auth  	admin/147256082
+20180416 10162441  ' call  	endpoint runSQL
+20180416 10162441  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162441  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162441  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_grouprole')
+20180416 10162441  '  -    		00.000.027
+20180416 10162441  '  -    	00.000.073
+20180416 10162441  ' http  	127.0.0.1 <- 200
+20180416 10162441  '  -    00.000.227
+20180416 10162441  (  +    runSQL?CONNECTION=main
+20180416 10162441  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162441  ( http  	PRAGMA index_xinfo(UK_GRPROLE_USER_ROLE)
+20180416 10162441  ( auth  	admin/147256082
+20180416 10162441  ( call  	endpoint runSQL
+20180416 10162441  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162441  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162441  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UK_GRPROLE_USER_ROLE)
+20180416 10162441  (  -    		00.000.031
+20180416 10162441  (  -    	00.000.074
+20180416 10162441  ( http  	127.0.0.1 <- 200
+20180416 10162441  (  -    00.000.203
+20180416 10162441  )  +    runSQL?CONNECTION=main
+20180416 10162441  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162441  ) http  	PRAGMA index_xinfo(IDX_UBA_GROUPROLE_MI_MODIFYUSER)
+20180416 10162441  ) auth  	admin/147256082
+20180416 10162441  ) call  	endpoint runSQL
+20180416 10162441  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162441  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162441  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_UBA_GROUPROLE_MI_MODIFYUSER)
+20180416 10162441  )  -    		00.000.035
+20180416 10162441  )  -    	00.000.078
+20180416 10162441  ) http  	127.0.0.1 <- 200
+20180416 10162441  )  -    00.000.210
+20180416 10162441  "  +    runSQL?CONNECTION=main
+20180416 10162441  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162441  " http  	PRAGMA index_xinfo(IDX_UBA_GROUPROLE_MI_CREATEUSER)
+20180416 10162441  " auth  	admin/147256082
+20180416 10162441  " call  	endpoint runSQL
+20180416 10162441  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162441  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162441  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_UBA_GROUPROLE_MI_CREATEUSER)
+20180416 10162441  "  -    		00.000.030
+20180416 10162441  "  -    	00.000.076
+20180416 10162441  " http  	127.0.0.1 <- 200
+20180416 10162441  "  -    00.000.211
+20180416 10162441  #  +    runSQL?CONNECTION=main
+20180416 10162441  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162441  # http  	PRAGMA index_xinfo(IDX_UBA_GROUPROLE_MI_OWNER)
+20180416 10162441  # auth  	admin/147256082
+20180416 10162441  # call  	endpoint runSQL
+20180416 10162441  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162441  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162441  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_UBA_GROUPROLE_MI_OWNER)
+20180416 10162441  #  -    		00.000.043
+20180416 10162441  #  -    	00.000.100
+20180416 10162441  # http  	127.0.0.1 <- 200
+20180416 10162441  #  -    00.000.361
+20180416 10162442  $  +    runSQL?CONNECTION=main
+20180416 10162442  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  $ http  	PRAGMA index_xinfo(IDX_UBA_GROUPROLE_ROLEID)
+20180416 10162442  $ auth  	admin/147256082
+20180416 10162442  $ call  	endpoint runSQL
+20180416 10162442  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_UBA_GROUPROLE_ROLEID)
+20180416 10162442  $  -    		00.000.059
+20180416 10162442  $  -    	00.000.107
+20180416 10162442  $ http  	127.0.0.1 <- 200
+20180416 10162442  $  -    00.000.268
+20180416 10162442  %  +    runSQL?CONNECTION=main
+20180416 10162442  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  % http  	PRAGMA index_xinfo(IDX_UBA_GROUPROLE_GROUPID)
+20180416 10162442  % auth  	admin/147256082
+20180416 10162442  % call  	endpoint runSQL
+20180416 10162442  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_UBA_GROUPROLE_GROUPID)
+20180416 10162442  %  -    		00.000.027
+20180416 10162442  %  -    	00.000.079
+20180416 10162442  % http  	127.0.0.1 <- 200
+20180416 10162442  %  -    00.000.236
+20180416 10162442  &  +    runSQL?CONNECTION=main
+20180416 10162442  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  & http  	PRAGMA table_info('uba_otp')
+20180416 10162442  & auth  	admin/147256082
+20180416 10162442  & call  	endpoint runSQL
+20180416 10162442  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('uba_otp')
+20180416 10162442  &  -    		00.000.031
+20180416 10162442  &  -    	00.000.093
+20180416 10162442  & http  	127.0.0.1 <- 200
+20180416 10162442  &  -    00.000.230
+20180416 10162442  '  +    runSQL?CONNECTION=main
+20180416 10162442  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  ' http  	PRAGMA foreign_key_list('uba_otp')
+20180416 10162442  ' auth  	admin/147256082
+20180416 10162442  ' call  	endpoint runSQL
+20180416 10162442  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('uba_otp')
+20180416 10162442  '  -    		00.000.038
+20180416 10162442  '  -    	00.000.086
+20180416 10162442  ' http  	127.0.0.1 <- 200
+20180416 10162442  '  -    00.000.224
+20180416 10162442  (  +    runSQL?CONNECTION=main
+20180416 10162442  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  ( http  	PRAGMA index_list('uba_otp')
+20180416 10162442  ( auth  	admin/147256082
+20180416 10162442  ( call  	endpoint runSQL
+20180416 10162442  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_otp')
+20180416 10162442  (  -    		00.000.033
+20180416 10162442  (  -    	00.000.079
+20180416 10162442  ( http  	127.0.0.1 <- 200
+20180416 10162442  (  -    00.000.208
+20180416 10162442  )  +    runSQL?CONNECTION=main
+20180416 10162442  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  ) http  	PRAGMA index_xinfo(uidx_otp)
+20180416 10162442  ) auth  	admin/147256082
+20180416 10162442  ) call  	endpoint runSQL
+20180416 10162442  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(uidx_otp)
+20180416 10162442  )  -    		00.000.030
+20180416 10162442  )  -    	00.000.073
+20180416 10162442  ) http  	127.0.0.1 <- 200
+20180416 10162442  )  -    00.000.200
+20180416 10162442  "  +    runSQL?CONNECTION=main
+20180416 10162442  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  " http  	PRAGMA index_xinfo(IDX_OTP_MI_DELETEUSER)
+20180416 10162442  " auth  	admin/147256082
+20180416 10162442  " call  	endpoint runSQL
+20180416 10162442  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_OTP_MI_DELETEUSER)
+20180416 10162442  "  -    		00.000.027
+20180416 10162442  "  -    	00.000.097
+20180416 10162442  " http  	127.0.0.1 <- 200
+20180416 10162442  "  -    00.000.244
+20180416 10162442  #  +    runSQL?CONNECTION=main
+20180416 10162442  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  # http  	PRAGMA index_xinfo(IDX_OTP_MI_MODIFYUSER)
+20180416 10162442  # auth  	admin/147256082
+20180416 10162442  # call  	endpoint runSQL
+20180416 10162442  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_OTP_MI_MODIFYUSER)
+20180416 10162442  #  -    		00.000.030
+20180416 10162442  #  -    	00.000.084
+20180416 10162442  # http  	127.0.0.1 <- 200
+20180416 10162442  #  -    00.000.274
+20180416 10162442  $  +    runSQL?CONNECTION=main
+20180416 10162442  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  $ http  	PRAGMA index_xinfo(IDX_OTP_MI_CREATEUSER)
+20180416 10162442  $ auth  	admin/147256082
+20180416 10162442  $ call  	endpoint runSQL
+20180416 10162442  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_OTP_MI_CREATEUSER)
+20180416 10162442  $  -    		00.000.036
+20180416 10162442  $  -    	00.000.082
+20180416 10162442  $ http  	127.0.0.1 <- 200
+20180416 10162442  $  -    00.000.226
+20180416 10162442  %  +    runSQL?CONNECTION=main
+20180416 10162442  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  % http  	PRAGMA index_xinfo(IDX_OTP_MI_OWNER)
+20180416 10162442  % auth  	admin/147256082
+20180416 10162442  % call  	endpoint runSQL
+20180416 10162442  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_OTP_MI_OWNER)
+20180416 10162442  %  -    		00.000.026
+20180416 10162442  %  -    	00.000.076
+20180416 10162442  % http  	127.0.0.1 <- 200
+20180416 10162442  %  -    00.000.242
+20180416 10162442  &  +    runSQL?CONNECTION=main
+20180416 10162442  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  & http  	PRAGMA index_xinfo(IDX_OTP_USERID)
+20180416 10162442  & auth  	admin/147256082
+20180416 10162442  & call  	endpoint runSQL
+20180416 10162442  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_OTP_USERID)
+20180416 10162442  &  -    		00.000.025
+20180416 10162442  &  -    	00.000.068
+20180416 10162442  & http  	127.0.0.1 <- 200
+20180416 10162442  &  -    00.000.230
+20180416 10162442  '  +    runSQL?CONNECTION=main
+20180416 10162442  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  ' http  	PRAGMA table_info('uba_prevPasswordsHash')
+20180416 10162442  ' auth  	admin/147256082
+20180416 10162442  ' call  	endpoint runSQL
+20180416 10162442  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('uba_prevPasswordsHash')
+20180416 10162442  '  -    		00.000.029
+20180416 10162442  '  -    	00.000.077
+20180416 10162442  ' http  	127.0.0.1 <- 200
+20180416 10162442  '  -    00.000.226
+20180416 10162442  (  +    runSQL?CONNECTION=main
+20180416 10162442  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  ( http  	PRAGMA foreign_key_list('uba_prevPasswordsHash')
+20180416 10162442  ( auth  	admin/147256082
+20180416 10162442  ( call  	endpoint runSQL
+20180416 10162442  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('uba_prevPasswordsHash')
+20180416 10162442  (  -    		00.000.029
+20180416 10162442  (  -    	00.000.078
+20180416 10162442  ( http  	127.0.0.1 <- 200
+20180416 10162442  (  -    00.000.256
+20180416 10162442  )  +    runSQL?CONNECTION=main
+20180416 10162442  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  ) http  	PRAGMA index_list('uba_prevPasswordsHash')
+20180416 10162442  ) auth  	admin/147256082
+20180416 10162442  ) call  	endpoint runSQL
+20180416 10162442  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_prevPasswordsHash')
+20180416 10162442  )  -    		00.000.027
+20180416 10162442  )  -    	00.000.073
+20180416 10162442  ) http  	127.0.0.1 <- 200
+20180416 10162442  )  -    00.000.224
+20180416 10162442  "  +    runSQL?CONNECTION=main
+20180416 10162442  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  " http  	PRAGMA index_xinfo(IDX_PREVP_MI_MODIFYUSER)
+20180416 10162442  " auth  	admin/147256082
+20180416 10162442  " call  	endpoint runSQL
+20180416 10162442  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_PREVP_MI_MODIFYUSER)
+20180416 10162442  "  -    		00.000.026
+20180416 10162442  "  -    	00.000.070
+20180416 10162442  " http  	127.0.0.1 <- 200
+20180416 10162442  "  -    00.000.208
+20180416 10162442  #  +    runSQL?CONNECTION=main
+20180416 10162442  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  # http  	PRAGMA index_xinfo(IDX_PREVP_MI_CREATEUSER)
+20180416 10162442  # auth  	admin/147256082
+20180416 10162442  # call  	endpoint runSQL
+20180416 10162442  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_PREVP_MI_CREATEUSER)
+20180416 10162442  #  -    		00.000.032
+20180416 10162442  #  -    	00.000.079
+20180416 10162442  # http  	127.0.0.1 <- 200
+20180416 10162442  #  -    00.000.228
+20180416 10162442  $  +    runSQL?CONNECTION=main
+20180416 10162442  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162442  $ http  	PRAGMA index_xinfo(IDX_PREVP_MI_OWNER)
+20180416 10162442  $ auth  	admin/147256082
+20180416 10162442  $ call  	endpoint runSQL
+20180416 10162442  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162442  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162442  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_PREVP_MI_OWNER)
+20180416 10162442  $  -    		00.000.037
+20180416 10162442  $  -    	00.000.082
+20180416 10162442  $ http  	127.0.0.1 <- 200
+20180416 10162442  $  -    00.000.230
+20180416 10162444  %  +    runSQL?CONNECTION=main
+20180416 10162444  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  % http  	PRAGMA index_xinfo(IDX_PREVP_USERID)
+20180416 10162444  % auth  	admin/147256082
+20180416 10162444  % call  	endpoint runSQL
+20180416 10162444  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_PREVP_USERID)
+20180416 10162444  %  -    		00.000.028
+20180416 10162444  %  -    	00.000.075
+20180416 10162444  % http  	127.0.0.1 <- 200
+20180416 10162444  %  -    00.000.226
+20180416 10162444  &  +    runSQL?CONNECTION=main
+20180416 10162444  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  & http  	PRAGMA table_info('uba_usercertificate')
+20180416 10162444  & auth  	admin/147256082
+20180416 10162444  & call  	endpoint runSQL
+20180416 10162444  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('uba_usercertificate')
+20180416 10162444  &  -    		00.000.037
+20180416 10162444  &  -    	00.000.086
+20180416 10162444  & http  	127.0.0.1 <- 200
+20180416 10162444  &  -    00.000.238
+20180416 10162444  '  +    runSQL?CONNECTION=main
+20180416 10162444  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  ' http  	PRAGMA foreign_key_list('uba_usercertificate')
+20180416 10162444  ' auth  	admin/147256082
+20180416 10162444  ' call  	endpoint runSQL
+20180416 10162444  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('uba_usercertificate')
+20180416 10162444  '  -    		00.000.030
+20180416 10162444  '  -    	00.000.078
+20180416 10162444  ' http  	127.0.0.1 <- 200
+20180416 10162444  '  -    00.000.236
+20180416 10162444  (  +    runSQL?CONNECTION=main
+20180416 10162444  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  ( http  	PRAGMA index_list('uba_usercertificate')
+20180416 10162444  ( auth  	admin/147256082
+20180416 10162444  ( call  	endpoint runSQL
+20180416 10162444  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_usercertificate')
+20180416 10162444  (  -    		00.000.027
+20180416 10162444  (  -    	00.000.073
+20180416 10162444  ( http  	127.0.0.1 <- 200
+20180416 10162444  (  -    00.000.218
+20180416 10162444  )  +    runSQL?CONNECTION=main
+20180416 10162444  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  ) http  	PRAGMA index_xinfo(uidx_usercert)
+20180416 10162444  ) auth  	admin/147256082
+20180416 10162444  ) call  	endpoint runSQL
+20180416 10162444  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(uidx_usercert)
+20180416 10162444  )  -    		00.000.025
+20180416 10162444  )  -    	00.000.073
+20180416 10162444  ) http  	127.0.0.1 <- 200
+20180416 10162444  )  -    00.000.254
+20180416 10162444  "  +    runSQL?CONNECTION=main
+20180416 10162444  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  " http  	PRAGMA index_xinfo(IDX_USRCER_MI_MODIFYUSER)
+20180416 10162444  " auth  	admin/147256082
+20180416 10162444  " call  	endpoint runSQL
+20180416 10162444  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USRCER_MI_MODIFYUSER)
+20180416 10162444  "  -    		00.000.025
+20180416 10162444  "  -    	00.000.069
+20180416 10162444  " http  	127.0.0.1 <- 200
+20180416 10162444  "  -    00.000.204
+20180416 10162444  #  +    runSQL?CONNECTION=main
+20180416 10162444  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  # http  	PRAGMA index_xinfo(IDX_USRCER_MI_CREATEUSER)
+20180416 10162444  # auth  	admin/147256082
+20180416 10162444  # call  	endpoint runSQL
+20180416 10162444  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USRCER_MI_CREATEUSER)
+20180416 10162444  #  -    		00.000.067
+20180416 10162444  #  -    	00.000.102
+20180416 10162444  # http  	127.0.0.1 <- 200
+20180416 10162444  #  -    00.000.244
+20180416 10162444  $  +    runSQL?CONNECTION=main
+20180416 10162444  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  $ http  	PRAGMA index_xinfo(IDX_USRCER_MI_OWNER)
+20180416 10162444  $ auth  	admin/147256082
+20180416 10162444  $ call  	endpoint runSQL
+20180416 10162444  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USRCER_MI_OWNER)
+20180416 10162444  $  -    		00.000.025
+20180416 10162444  $  -    	00.000.070
+20180416 10162444  $ http  	127.0.0.1 <- 200
+20180416 10162444  $  -    00.000.222
+20180416 10162444  %  +    runSQL?CONNECTION=main
+20180416 10162444  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  % http  	PRAGMA index_xinfo(IDX_USRCER_USERID)
+20180416 10162444  % auth  	admin/147256082
+20180416 10162444  % call  	endpoint runSQL
+20180416 10162444  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USRCER_USERID)
+20180416 10162444  %  -    		00.000.025
+20180416 10162444  %  -    	00.000.068
+20180416 10162444  % http  	127.0.0.1 <- 200
+20180416 10162444  %  -    00.000.208
+20180416 10162444  &  +    runSQL?CONNECTION=main
+20180416 10162444  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  & http  	PRAGMA table_info('uba_usergroup')
+20180416 10162444  & auth  	admin/147256082
+20180416 10162444  & call  	endpoint runSQL
+20180416 10162444  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('uba_usergroup')
+20180416 10162444  &  -    		00.000.030
+20180416 10162444  &  -    	00.000.101
+20180416 10162444  & http  	127.0.0.1 <- 200
+20180416 10162444  &  -    00.000.268
+20180416 10162444  '  +    runSQL?CONNECTION=main
+20180416 10162444  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  ' http  	PRAGMA foreign_key_list('uba_usergroup')
+20180416 10162444  ' auth  	admin/147256082
+20180416 10162444  ' call  	endpoint runSQL
+20180416 10162444  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('uba_usergroup')
+20180416 10162444  '  -    		00.000.038
+20180416 10162444  '  -    	00.000.086
+20180416 10162444  ' http  	127.0.0.1 <- 200
+20180416 10162444  '  -    00.000.217
+20180416 10162444  (  +    runSQL?CONNECTION=main
+20180416 10162444  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  ( http  	PRAGMA index_list('uba_usergroup')
+20180416 10162444  ( auth  	admin/147256082
+20180416 10162444  ( call  	endpoint runSQL
+20180416 10162444  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('uba_usergroup')
+20180416 10162444  (  -    		00.000.035
+20180416 10162444  (  -    	00.000.085
+20180416 10162444  ( http  	127.0.0.1 <- 200
+20180416 10162444  (  -    00.000.266
+20180416 10162444  )  +    runSQL?CONNECTION=main
+20180416 10162444  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  ) http  	PRAGMA index_xinfo(UK_USRGROUP_USER_GROUP)
+20180416 10162444  ) auth  	admin/147256082
+20180416 10162444  ) call  	endpoint runSQL
+20180416 10162444  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UK_USRGROUP_USER_GROUP)
+20180416 10162444  )  -    		00.000.027
+20180416 10162444  )  -    	00.000.109
+20180416 10162444  ) http  	127.0.0.1 <- 200
+20180416 10162444  )  -    00.000.258
+20180416 10162444  "  +    runSQL?CONNECTION=main
+20180416 10162444  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  " http  	PRAGMA index_xinfo(IDX_USRGROUP_MI_MODIFYUSER)
+20180416 10162444  " auth  	admin/147256082
+20180416 10162444  " call  	endpoint runSQL
+20180416 10162444  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USRGROUP_MI_MODIFYUSER)
+20180416 10162444  "  -    		00.000.025
+20180416 10162444  "  -    	00.000.069
+20180416 10162444  " http  	127.0.0.1 <- 200
+20180416 10162444  "  -    00.000.211
+20180416 10162444  #  +    runSQL?CONNECTION=main
+20180416 10162444  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  # http  	PRAGMA index_xinfo(IDX_USRGROUP_MI_CREATEUSER)
+20180416 10162444  # auth  	admin/147256082
+20180416 10162444  # call  	endpoint runSQL
+20180416 10162444  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USRGROUP_MI_CREATEUSER)
+20180416 10162444  #  -    		00.000.027
+20180416 10162444  #  -    	00.000.070
+20180416 10162444  # http  	127.0.0.1 <- 200
+20180416 10162444  #  -    00.000.214
+20180416 10162444  $  +    runSQL?CONNECTION=main
+20180416 10162444  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  $ http  	PRAGMA index_xinfo(IDX_USRGROUP_MI_OWNER)
+20180416 10162444  $ auth  	admin/147256082
+20180416 10162444  $ call  	endpoint runSQL
+20180416 10162444  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USRGROUP_MI_OWNER)
+20180416 10162444  $  -    		00.000.028
+20180416 10162444  $  -    	00.000.075
+20180416 10162444  $ http  	127.0.0.1 <- 200
+20180416 10162444  $  -    00.000.219
+20180416 10162444  %  +    runSQL?CONNECTION=main
+20180416 10162444  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162444  % http  	PRAGMA index_xinfo(IDX_USRGROUP_GROUPID)
+20180416 10162444  % auth  	admin/147256082
+20180416 10162444  % call  	endpoint runSQL
+20180416 10162444  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162444  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162444  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USRGROUP_GROUPID)
+20180416 10162444  %  -    		00.000.034
+20180416 10162444  %  -    	00.000.098
+20180416 10162444  % http  	127.0.0.1 <- 200
+20180416 10162444  %  -    00.000.366
+20180416 10162445  &  +    runSQL?CONNECTION=main
+20180416 10162445  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162445  & http  	PRAGMA index_xinfo(IDX_USRGROUP_USERID)
+20180416 10162445  & auth  	admin/147256082
+20180416 10162445  & call  	endpoint runSQL
+20180416 10162445  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162445  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162445  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_USRGROUP_USERID)
+20180416 10162445  &  -    		00.000.026
+20180416 10162445  &  -    	00.000.070
+20180416 10162445  & http  	127.0.0.1 <- 200
+20180416 10162445  &  -    00.000.207
+20180416 10162445  '  +    runSQL?CONNECTION=main
+20180416 10162445  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162445  ' http  	PRAGMA table_info('ubs_filter')
+20180416 10162445  ' auth  	admin/147256082
+20180416 10162445  ' call  	endpoint runSQL
+20180416 10162445  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162445  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162445  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('ubs_filter')
+20180416 10162445  '  -    		00.000.036
+20180416 10162445  '  -    	00.000.081
+20180416 10162445  ' http  	127.0.0.1 <- 200
+20180416 10162445  '  -    00.000.301
+20180416 10162445  (  +    runSQL?CONNECTION=main
+20180416 10162445  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162445  ( http  	PRAGMA foreign_key_list('ubs_filter')
+20180416 10162445  ( auth  	admin/147256082
+20180416 10162445  ( call  	endpoint runSQL
+20180416 10162445  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162445  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162445  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('ubs_filter')
+20180416 10162445  (  -    		00.000.029
+20180416 10162445  (  -    	00.000.094
+20180416 10162445  ( http  	127.0.0.1 <- 200
+20180416 10162445  (  -    00.000.264
+20180416 10162445  )  +    runSQL?CONNECTION=main
+20180416 10162445  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162445  ) http  	PRAGMA index_list('ubs_filter')
+20180416 10162445  ) auth  	admin/147256082
+20180416 10162445  ) call  	endpoint runSQL
+20180416 10162445  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162445  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162445  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('ubs_filter')
+20180416 10162445  )  -    		00.000.026
+20180416 10162445  )  -    	00.000.072
+20180416 10162445  ) http  	127.0.0.1 <- 200
+20180416 10162445  )  -    00.000.212
+20180416 10162445  "  +    runSQL?CONNECTION=main
+20180416 10162445  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162445  " http  	PRAGMA index_xinfo(ix_ubs_filter_code)
+20180416 10162445  " auth  	admin/147256082
+20180416 10162445  " call  	endpoint runSQL
+20180416 10162445  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162445  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162445  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(ix_ubs_filter_code)
+20180416 10162445  "  -    		00.000.025
+20180416 10162445  "  -    	00.000.066
+20180416 10162445  " http  	127.0.0.1 <- 200
+20180416 10162445  "  -    00.000.212
+20180416 10162445  #  +    runSQL?CONNECTION=main
+20180416 10162445  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162445  # http  	PRAGMA index_xinfo(uix_ubs_filter)
+20180416 10162445  # auth  	admin/147256082
+20180416 10162445  # call  	endpoint runSQL
+20180416 10162445  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162445  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162445  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(uix_ubs_filter)
+20180416 10162445  #  -    		00.000.027
+20180416 10162445  #  -    	00.000.076
+20180416 10162445  # http  	127.0.0.1 <- 200
+20180416 10162445  #  -    00.000.276
+20180416 10162445  $  +    runSQL?CONNECTION=main
+20180416 10162445  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162445  $ http  	PRAGMA index_xinfo(IDX_SFILTER_MI_MODIFYUSER)
+20180416 10162445  $ auth  	admin/147256082
+20180416 10162445  $ call  	endpoint runSQL
+20180416 10162445  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162445  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162445  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_SFILTER_MI_MODIFYUSER)
+20180416 10162445  $  -    		00.000.027
+20180416 10162445  $  -    	00.000.070
+20180416 10162445  $ http  	127.0.0.1 <- 200
+20180416 10162445  $  -    00.000.216
+20180416 10162445  %  +    runSQL?CONNECTION=main
+20180416 10162445  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162445  % http  	PRAGMA index_xinfo(IDX_SFILTER_MI_CREATEUSER)
+20180416 10162445  % auth  	admin/147256082
+20180416 10162445  % call  	endpoint runSQL
+20180416 10162445  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162445  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162445  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_SFILTER_MI_CREATEUSER)
+20180416 10162445  %  -    		00.000.027
+20180416 10162445  %  -    	00.000.080
+20180416 10162445  % http  	127.0.0.1 <- 200
+20180416 10162445  %  -    00.000.316
+20180416 10162445  &  +    runSQL?CONNECTION=main
+20180416 10162445  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162445  & http  	PRAGMA index_xinfo(IDX_SFILTER_MI_OWNER)
+20180416 10162445  & auth  	admin/147256082
+20180416 10162445  & call  	endpoint runSQL
+20180416 10162445  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162445  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162445  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_SFILTER_MI_OWNER)
+20180416 10162445  &  -    		00.000.036
+20180416 10162445  &  -    	00.000.082
+20180416 10162445  & http  	127.0.0.1 <- 200
+20180416 10162445  &  -    00.000.298
+20180416 10162446  '  +    runSQL?CONNECTION=main
+20180416 10162446  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162446  ' http  	PRAGMA index_xinfo(IDX_SFILTER_OWNER)
+20180416 10162446  ' auth  	admin/147256082
+20180416 10162446  ' call  	endpoint runSQL
+20180416 10162446  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162446  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162446  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_SFILTER_OWNER)
+20180416 10162446  '  -    		00.000.026
+20180416 10162446  '  -    	00.000.075
+20180416 10162446  ' http  	127.0.0.1 <- 200
+20180416 10162446  '  -    00.000.224
+20180416 10162446  (  +    runSQL?CONNECTION=main
+20180416 10162446  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162446  ( http  	PRAGMA table_info('ubs_message')
+20180416 10162446  ( auth  	admin/147256082
+20180416 10162446  ( call  	endpoint runSQL
+20180416 10162446  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162446  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162446  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('ubs_message')
+20180416 10162446  (  -    		00.000.034
+20180416 10162446  (  -    	00.000.097
+20180416 10162446  ( http  	127.0.0.1 <- 200
+20180416 10162446  (  -    00.000.267
+20180416 10162446  )  +    runSQL?CONNECTION=main
+20180416 10162446  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162446  ) http  	PRAGMA foreign_key_list('ubs_message')
+20180416 10162446  ) auth  	admin/147256082
+20180416 10162446  ) call  	endpoint runSQL
+20180416 10162446  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162446  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162446  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('ubs_message')
+20180416 10162446  )  -    		00.000.036
+20180416 10162446  )  -    	00.000.086
+20180416 10162446  ) http  	127.0.0.1 <- 200
+20180416 10162446  )  -    00.000.240
+20180416 10162446  "  +    runSQL?CONNECTION=main
+20180416 10162446  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162446  " http  	PRAGMA index_list('ubs_message')
+20180416 10162446  " auth  	admin/147256082
+20180416 10162446  " call  	endpoint runSQL
+20180416 10162446  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162446  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162446  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('ubs_message')
+20180416 10162446  "  -    		00.000.027
+20180416 10162446  "  -    	00.000.076
+20180416 10162446  " http  	127.0.0.1 <- 200
+20180416 10162446  "  -    00.000.244
+20180416 10162446  #  +    runSQL?CONNECTION=main
+20180416 10162446  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162446  # http  	PRAGMA index_xinfo(idx_ubsmsg_period)
+20180416 10162446  # auth  	admin/147256082
+20180416 10162446  # call  	endpoint runSQL
+20180416 10162446  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162446  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162446  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(idx_ubsmsg_period)
+20180416 10162446  #  -    		00.000.026
+20180416 10162446  #  -    	00.000.075
+20180416 10162446  # http  	127.0.0.1 <- 200
+20180416 10162446  #  -    00.000.214
+20180416 10162446  $  +    runSQL?CONNECTION=main
+20180416 10162446  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162446  $ http  	PRAGMA index_xinfo(IDX_MSG_MI_DELETEUSER)
+20180416 10162446  $ auth  	admin/147256082
+20180416 10162446  $ call  	endpoint runSQL
+20180416 10162446  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162446  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162446  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_MSG_MI_DELETEUSER)
+20180416 10162446  $  -    		00.000.026
+20180416 10162446  $  -    	00.000.076
+20180416 10162446  $ http  	127.0.0.1 <- 200
+20180416 10162446  $  -    00.000.228
+20180416 10162446  %  +    runSQL?CONNECTION=main
+20180416 10162446  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162446  % http  	PRAGMA index_xinfo(IDX_MSG_MI_MODIFYUSER)
+20180416 10162446  % auth  	admin/147256082
+20180416 10162446  % call  	endpoint runSQL
+20180416 10162446  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162446  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162446  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_MSG_MI_MODIFYUSER)
+20180416 10162446  %  -    		00.000.026
+20180416 10162446  %  -    	00.000.068
+20180416 10162446  % http  	127.0.0.1 <- 200
+20180416 10162446  %  -    00.000.201
+20180416 10162446  &  +    runSQL?CONNECTION=main
+20180416 10162446  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162446  & http  	PRAGMA index_xinfo(IDX_MSG_MI_CREATEUSER)
+20180416 10162446  & auth  	admin/147256082
+20180416 10162446  & call  	endpoint runSQL
+20180416 10162446  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162446  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162446  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_MSG_MI_CREATEUSER)
+20180416 10162446  &  -    		00.000.025
+20180416 10162446  &  -    	00.000.067
+20180416 10162446  & http  	127.0.0.1 <- 200
+20180416 10162446  &  -    00.000.198
+20180416 10162446  '  +    runSQL?CONNECTION=main
+20180416 10162446  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162446  ' http  	PRAGMA index_xinfo(IDX_MSG_MI_OWNER)
+20180416 10162446  ' auth  	admin/147256082
+20180416 10162446  ' call  	endpoint runSQL
+20180416 10162446  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162446  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162446  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_MSG_MI_OWNER)
+20180416 10162446  '  -    		00.000.047
+20180416 10162446  '  -    	00.000.093
+20180416 10162446  ' http  	127.0.0.1 <- 200
+20180416 10162446  '  -    00.000.247
+20180416 10162447  (  +    runSQL?CONNECTION=main
+20180416 10162447  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162447  ( http  	PRAGMA table_info('ubs_message_recipient')
+20180416 10162447  ( auth  	admin/147256082
+20180416 10162447  ( call  	endpoint runSQL
+20180416 10162447  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162447  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162447  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('ubs_message_recipient')
+20180416 10162447  (  -    		00.000.069
+20180416 10162447  (  -    	00.000.108
+20180416 10162447  ( http  	127.0.0.1 <- 200
+20180416 10162447  (  -    00.000.252
+20180416 10162447  )  +    runSQL?CONNECTION=main
+20180416 10162447  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162447  ) http  	PRAGMA foreign_key_list('ubs_message_recipient')
+20180416 10162447  ) auth  	admin/147256082
+20180416 10162447  ) call  	endpoint runSQL
+20180416 10162447  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162447  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162447  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('ubs_message_recipient')
+20180416 10162447  )  -    		00.000.032
+20180416 10162447  )  -    	00.000.076
+20180416 10162447  ) http  	127.0.0.1 <- 200
+20180416 10162447  )  -    00.000.212
+20180416 10162447  "  +    runSQL?CONNECTION=main
+20180416 10162447  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162447  " http  	PRAGMA index_list('ubs_message_recipient')
+20180416 10162447  " auth  	admin/147256082
+20180416 10162447  " call  	endpoint runSQL
+20180416 10162447  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162447  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162447  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('ubs_message_recipient')
+20180416 10162447  "  -    		00.000.033
+20180416 10162447  "  -    	00.000.082
+20180416 10162447  " http  	127.0.0.1 <- 200
+20180416 10162447  "  -    00.000.323
+20180416 10162447  #  +    runSQL?CONNECTION=main
+20180416 10162447  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162447  # http  	PRAGMA index_xinfo(uidx_ubsmsg_rc)
+20180416 10162447  # auth  	admin/147256082
+20180416 10162447  # call  	endpoint runSQL
+20180416 10162447  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162447  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162447  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(uidx_ubsmsg_rc)
+20180416 10162447  #  -    		00.000.026
+20180416 10162447  #  -    	00.000.070
+20180416 10162447  # http  	127.0.0.1 <- 200
+20180416 10162447  #  -    00.000.217
+20180416 10162447  $  +    runSQL?CONNECTION=main
+20180416 10162447  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162447  $ http  	PRAGMA index_xinfo(IDX_MSG_RC_USERID)
+20180416 10162447  $ auth  	admin/147256082
+20180416 10162447  $ call  	endpoint runSQL
+20180416 10162447  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162447  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162447  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_MSG_RC_USERID)
+20180416 10162447  $  -    		00.000.032
+20180416 10162447  $  -    	00.000.087
+20180416 10162447  $ http  	127.0.0.1 <- 200
+20180416 10162447  $  -    00.000.283
+20180416 10162447  %  +    runSQL?CONNECTION=main
+20180416 10162447  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162447  % http  	PRAGMA index_xinfo(IDX_MSG_RC_MESSAGEID)
+20180416 10162447  % auth  	admin/147256082
+20180416 10162447  % call  	endpoint runSQL
+20180416 10162447  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162447  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162447  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_MSG_RC_MESSAGEID)
+20180416 10162447  %  -    		00.000.025
+20180416 10162447  %  -    	00.000.067
+20180416 10162447  % http  	127.0.0.1 <- 200
+20180416 10162447  %  -    00.000.208
+20180416 10162447  &  +    runSQL?CONNECTION=main
+20180416 10162447  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162447  & http  	PRAGMA table_info('ubs_numcounter')
+20180416 10162447  & auth  	admin/147256082
+20180416 10162447  & call  	endpoint runSQL
+20180416 10162447  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162447  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162447  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('ubs_numcounter')
+20180416 10162447  &  -    		00.000.027
+20180416 10162447  &  -    	00.000.063
+20180416 10162447  & http  	127.0.0.1 <- 200
+20180416 10162447  &  -    00.000.233
+20180416 10162447  '  +    runSQL?CONNECTION=main
+20180416 10162447  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162447  ' http  	PRAGMA foreign_key_list('ubs_numcounter')
+20180416 10162447  ' auth  	admin/147256082
+20180416 10162447  ' call  	endpoint runSQL
+20180416 10162447  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162447  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162447  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('ubs_numcounter')
+20180416 10162447  '  -    		00.000.029
+20180416 10162447  '  -    	00.000.047
+20180416 10162447  ' http  	127.0.0.1 <- 200
+20180416 10162447  '  -    00.000.184
+20180416 10162447  (  +    runSQL?CONNECTION=main
+20180416 10162447  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162447  ( http  	PRAGMA index_list('ubs_numcounter')
+20180416 10162447  ( auth  	admin/147256082
+20180416 10162447  ( call  	endpoint runSQL
+20180416 10162447  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162447  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162447  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('ubs_numcounter')
+20180416 10162447  (  -    		00.000.034
+20180416 10162447  (  -    	00.000.083
+20180416 10162447  ( http  	127.0.0.1 <- 200
+20180416 10162447  (  -    00.000.212
+20180416 10162447  )  +    runSQL?CONNECTION=main
+20180416 10162447  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162447  ) http  	PRAGMA index_xinfo(UIDX_NUCO_REGKEY)
+20180416 10162447  ) auth  	admin/147256082
+20180416 10162447  ) call  	endpoint runSQL
+20180416 10162447  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162447  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162447  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UIDX_NUCO_REGKEY)
+20180416 10162447  )  -    		00.000.037
+20180416 10162447  )  -    	00.000.094
+20180416 10162447  ) http  	127.0.0.1 <- 200
+20180416 10162447  )  -    00.000.298
+20180416 10162448  "  +    runSQL?CONNECTION=main
+20180416 10162448  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162448  " http  	PRAGMA table_info('ubs_numcounterreserv')
+20180416 10162448  " auth  	admin/147256082
+20180416 10162448  " call  	endpoint runSQL
+20180416 10162448  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162448  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162448  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('ubs_numcounterreserv')
+20180416 10162448  "  -    		00.000.027
+20180416 10162448  "  -    	00.000.073
+20180416 10162448  " http  	127.0.0.1 <- 200
+20180416 10162448  "  -    00.000.231
+20180416 10162448  #  +    runSQL?CONNECTION=main
+20180416 10162448  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162448  # http  	PRAGMA foreign_key_list('ubs_numcounterreserv')
+20180416 10162448  # auth  	admin/147256082
+20180416 10162448  # call  	endpoint runSQL
+20180416 10162448  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162448  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162448  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('ubs_numcounterreserv')
+20180416 10162448  #  -    		00.000.030
+20180416 10162448  #  -    	00.000.041
+20180416 10162448  # http  	127.0.0.1 <- 200
+20180416 10162448  #  -    00.000.180
+20180416 10162448  $  +    runSQL?CONNECTION=main
+20180416 10162448  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162448  $ http  	PRAGMA index_list('ubs_numcounterreserv')
+20180416 10162448  $ auth  	admin/147256082
+20180416 10162448  $ call  	endpoint runSQL
+20180416 10162448  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162448  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162448  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('ubs_numcounterreserv')
+20180416 10162448  $  -    		00.000.036
+20180416 10162448  $  -    	00.000.079
+20180416 10162448  $ http  	127.0.0.1 <- 200
+20180416 10162448  $  -    00.000.244
+20180416 10162448  %  +    runSQL?CONNECTION=main
+20180416 10162448  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162448  % http  	PRAGMA index_xinfo(UK_UBS_NUMCOUNT_RKC)
+20180416 10162448  % auth  	admin/147256082
+20180416 10162448  % call  	endpoint runSQL
+20180416 10162448  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162448  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162448  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UK_UBS_NUMCOUNT_RKC)
+20180416 10162448  %  -    		00.000.025
+20180416 10162448  %  -    	00.000.070
+20180416 10162448  % http  	127.0.0.1 <- 200
+20180416 10162448  %  -    00.000.213
+20180416 10162448  &  +    runSQL?CONNECTION=main
+20180416 10162448  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162448  & http  	PRAGMA table_info('ubs_softLock')
+20180416 10162448  & auth  	admin/147256082
+20180416 10162448  & call  	endpoint runSQL
+20180416 10162448  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162448  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162448  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('ubs_softLock')
+20180416 10162448  &  -    		00.000.028
+20180416 10162448  &  -    	00.000.076
+20180416 10162448  & http  	127.0.0.1 <- 200
+20180416 10162448  &  -    00.000.212
+20180416 10162448  '  +    runSQL?CONNECTION=main
+20180416 10162448  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162448  ' http  	PRAGMA foreign_key_list('ubs_softLock')
+20180416 10162448  ' auth  	admin/147256082
+20180416 10162448  ' call  	endpoint runSQL
+20180416 10162448  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162448  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162448  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('ubs_softLock')
+20180416 10162448  '  -    		00.000.027
+20180416 10162448  '  -    	00.000.073
+20180416 10162448  ' http  	127.0.0.1 <- 200
+20180416 10162448  '  -    00.000.212
+20180416 10162448  (  +    runSQL?CONNECTION=main
+20180416 10162448  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162448  ( http  	PRAGMA index_list('ubs_softLock')
+20180416 10162448  ( auth  	admin/147256082
+20180416 10162448  ( call  	endpoint runSQL
+20180416 10162448  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162448  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162448  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('ubs_softLock')
+20180416 10162448  (  -    		00.000.026
+20180416 10162448  (  -    	00.000.082
+20180416 10162448  ( http  	127.0.0.1 <- 200
+20180416 10162448  (  -    00.000.213
+20180416 10162448  )  +    runSQL?CONNECTION=main
+20180416 10162448  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162448  ) http  	PRAGMA index_xinfo(UIDX_SOFTLOCK_LOENT)
+20180416 10162448  ) auth  	admin/147256082
+20180416 10162448  ) call  	endpoint runSQL
+20180416 10162448  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162448  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162448  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UIDX_SOFTLOCK_LOENT)
+20180416 10162448  )  -    		00.000.040
+20180416 10162448  )  -    	00.000.100
+20180416 10162448  ) http  	127.0.0.1 <- 200
+20180416 10162448  )  -    00.000.333
+20180416 10162448  "  +    runSQL?CONNECTION=main
+20180416 10162448  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162448  " http  	PRAGMA index_xinfo(IDX_SLOCK_LOCKUSER)
+20180416 10162448  " auth  	admin/147256082
+20180416 10162448  " call  	endpoint runSQL
+20180416 10162448  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162448  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162448  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_SLOCK_LOCKUSER)
+20180416 10162448  "  -    		00.000.025
+20180416 10162448  "  -    	00.000.068
+20180416 10162448  " http  	127.0.0.1 <- 200
+20180416 10162448  "  -    00.000.211
+20180416 10162449  #  +    runSQL?CONNECTION=main
+20180416 10162449  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162449  # http  	PRAGMA table_info('ubm_desktop')
+20180416 10162449  # auth  	admin/147256082
+20180416 10162449  # call  	endpoint runSQL
+20180416 10162449  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162449  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162449  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('ubm_desktop')
+20180416 10162449  #  -    		00.000.031
+20180416 10162449  #  -    	00.000.084
+20180416 10162449  # http  	127.0.0.1 <- 200
+20180416 10162449  #  -    00.000.228
+20180416 10162449  $  +    runSQL?CONNECTION=main
+20180416 10162449  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162449  $ http  	PRAGMA foreign_key_list('ubm_desktop')
+20180416 10162449  $ auth  	admin/147256082
+20180416 10162449  $ call  	endpoint runSQL
+20180416 10162449  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162449  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162449  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('ubm_desktop')
+20180416 10162449  $  -    		00.000.029
+20180416 10162449  $  -    	00.000.092
+20180416 10162449  $ http  	127.0.0.1 <- 200
+20180416 10162449  $  -    00.000.241
+20180416 10162449  %  +    runSQL?CONNECTION=main
+20180416 10162449  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162449  % http  	PRAGMA index_list('ubm_desktop')
+20180416 10162449  % auth  	admin/147256082
+20180416 10162449  % call  	endpoint runSQL
+20180416 10162449  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162449  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162449  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('ubm_desktop')
+20180416 10162449  %  -    		00.000.027
+20180416 10162449  %  -    	00.000.075
+20180416 10162449  % http  	127.0.0.1 <- 200
+20180416 10162449  %  -    00.000.240
+20180416 10162449  &  +    runSQL?CONNECTION=main
+20180416 10162449  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162449  & http  	PRAGMA index_xinfo(IDX_DESK_MI_DELETEUSER)
+20180416 10162449  & auth  	admin/147256082
+20180416 10162449  & call  	endpoint runSQL
+20180416 10162449  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162449  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162449  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_DESK_MI_DELETEUSER)
+20180416 10162449  &  -    		00.000.025
+20180416 10162449  &  -    	00.000.086
+20180416 10162449  & http  	127.0.0.1 <- 200
+20180416 10162449  &  -    00.000.249
+20180416 10162449  '  +    runSQL?CONNECTION=main
+20180416 10162449  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162449  ' http  	PRAGMA index_xinfo(IDX_DESK_MI_MODIFYUSER)
+20180416 10162449  ' auth  	admin/147256082
+20180416 10162449  ' call  	endpoint runSQL
+20180416 10162449  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162449  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162449  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_DESK_MI_MODIFYUSER)
+20180416 10162449  '  -    		00.000.060
+20180416 10162449  '  -    	00.000.096
+20180416 10162449  ' http  	127.0.0.1 <- 200
+20180416 10162449  '  -    00.000.269
+20180416 10162449  (  +    runSQL?CONNECTION=main
+20180416 10162449  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162449  ( http  	PRAGMA index_xinfo(IDX_DESK_MI_CREATEUSER)
+20180416 10162449  ( auth  	admin/147256082
+20180416 10162449  ( call  	endpoint runSQL
+20180416 10162449  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162449  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162449  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_DESK_MI_CREATEUSER)
+20180416 10162449  (  -    		00.000.025
+20180416 10162449  (  -    	00.000.068
+20180416 10162449  ( http  	127.0.0.1 <- 200
+20180416 10162449  (  -    00.000.230
+20180416 10162449  )  +    runSQL?CONNECTION=main
+20180416 10162449  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162449  ) http  	PRAGMA index_xinfo(IDX_DESK_MI_OWNER)
+20180416 10162449  ) auth  	admin/147256082
+20180416 10162449  ) call  	endpoint runSQL
+20180416 10162449  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162449  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162449  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_DESK_MI_OWNER)
+20180416 10162449  )  -    		00.000.040
+20180416 10162449  )  -    	00.000.115
+20180416 10162449  ) http  	127.0.0.1 <- 200
+20180416 10162449  )  -    00.000.262
+20180416 10162449  "  +    runSQL?CONNECTION=main
+20180416 10162449  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162449  " http  	PRAGMA index_xinfo(UIDX_DESK_CODE)
+20180416 10162449  " auth  	admin/147256082
+20180416 10162449  " call  	endpoint runSQL
+20180416 10162449  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162449  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162449  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UIDX_DESK_CODE)
+20180416 10162449  "  -    		00.000.025
+20180416 10162449  "  -    	00.000.068
+20180416 10162449  " http  	127.0.0.1 <- 200
+20180416 10162449  "  -    00.000.221
+20180416 10162449  #  +    runSQL?CONNECTION=main
+20180416 10162449  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162449  # http  	PRAGMA table_info('ubm_desktop_adm')
+20180416 10162449  # auth  	admin/147256082
+20180416 10162449  # call  	endpoint runSQL
+20180416 10162449  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162449  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162449  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('ubm_desktop_adm')
+20180416 10162449  #  -    		00.000.032
+20180416 10162449  #  -    	00.000.087
+20180416 10162449  # http  	127.0.0.1 <- 200
+20180416 10162449  #  -    00.000.290
+20180416 10162449  $  +    runSQL?CONNECTION=main
+20180416 10162449  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162449  $ http  	PRAGMA foreign_key_list('ubm_desktop_adm')
+20180416 10162449  $ auth  	admin/147256082
+20180416 10162449  $ call  	endpoint runSQL
+20180416 10162449  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162449  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162449  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('ubm_desktop_adm')
+20180416 10162449  $  -    		00.000.044
+20180416 10162449  $  -    	00.000.091
+20180416 10162449  $ http  	127.0.0.1 <- 200
+20180416 10162449  $  -    00.000.252
+20180416 10162450  %  +    runSQL?CONNECTION=main
+20180416 10162450  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162450  % http  	PRAGMA index_list('ubm_desktop_adm')
+20180416 10162450  % auth  	admin/147256082
+20180416 10162450  % call  	endpoint runSQL
+20180416 10162450  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162450  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162450  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('ubm_desktop_adm')
+20180416 10162450  %  -    		00.000.028
+20180416 10162450  %  -    	00.000.142
+20180416 10162450  % http  	127.0.0.1 <- 200
+20180416 10162450  %  -    00.000.329
+20180416 10162450  &  +    runSQL?CONNECTION=main
+20180416 10162450  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162450  & http  	PRAGMA index_xinfo(UK_ADMDESC_INST_ADMSUBJ)
+20180416 10162450  & auth  	admin/147256082
+20180416 10162450  & call  	endpoint runSQL
+20180416 10162450  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162450  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162450  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UK_ADMDESC_INST_ADMSUBJ)
+20180416 10162450  &  -    		00.000.032
+20180416 10162450  &  -    	00.000.091
+20180416 10162450  & http  	127.0.0.1 <- 200
+20180416 10162450  &  -    00.000.367
+20180416 10162450  '  +    runSQL?CONNECTION=main
+20180416 10162450  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162450  ' http  	PRAGMA index_xinfo(IDX_ADMDESK_ADMSUBJID)
+20180416 10162450  ' auth  	admin/147256082
+20180416 10162450  ' call  	endpoint runSQL
+20180416 10162450  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162450  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162450  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ADMDESK_ADMSUBJID)
+20180416 10162450  '  -    		00.000.026
+20180416 10162450  '  -    	00.000.070
+20180416 10162450  ' http  	127.0.0.1 <- 200
+20180416 10162450  '  -    00.000.251
+20180416 10162450  (  +    runSQL?CONNECTION=main
+20180416 10162450  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162450  ( http  	PRAGMA index_xinfo(IDX_ADMDESK_INSTANCEID)
+20180416 10162450  ( auth  	admin/147256082
+20180416 10162450  ( call  	endpoint runSQL
+20180416 10162450  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162450  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162450  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ADMDESK_INSTANCEID)
+20180416 10162450  (  -    		00.000.025
+20180416 10162450  (  -    	00.000.082
+20180416 10162450  ( http  	127.0.0.1 <- 200
+20180416 10162450  (  -    00.000.258
+20180416 10162450  )  +    runSQL?CONNECTION=main
+20180416 10162450  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162450  ) http  	PRAGMA table_info('ubm_enum')
+20180416 10162450  ) auth  	admin/147256082
+20180416 10162450  ) call  	endpoint runSQL
+20180416 10162450  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162450  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162450  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('ubm_enum')
+20180416 10162450  )  -    		00.000.032
+20180416 10162450  )  -    	00.000.101
+20180416 10162450  ) http  	127.0.0.1 <- 200
+20180416 10162450  )  -    00.000.269
+20180416 10162450  "  +    runSQL?CONNECTION=main
+20180416 10162450  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162450  " http  	PRAGMA foreign_key_list('ubm_enum')
+20180416 10162450  " auth  	admin/147256082
+20180416 10162450  " call  	endpoint runSQL
+20180416 10162450  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162450  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162450  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('ubm_enum')
+20180416 10162450  "  -    		00.000.030
+20180416 10162450  "  -    	00.000.078
+20180416 10162450  " http  	127.0.0.1 <- 200
+20180416 10162450  "  -    00.000.299
+20180416 10162450  #  +    runSQL?CONNECTION=main
+20180416 10162450  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162450  # http  	PRAGMA index_list('ubm_enum')
+20180416 10162450  # auth  	admin/147256082
+20180416 10162450  # call  	endpoint runSQL
+20180416 10162450  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162450  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162450  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('ubm_enum')
+20180416 10162450  #  -    		00.000.034
+20180416 10162450  #  -    	00.000.075
+20180416 10162450  # http  	127.0.0.1 <- 200
+20180416 10162450  #  -    00.000.347
+20180416 10162450  $  +    runSQL?CONNECTION=main
+20180416 10162450  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162450  $ http  	PRAGMA index_xinfo(UK_UBM_ENUM_GROUPCODE)
+20180416 10162450  $ auth  	admin/147256082
+20180416 10162450  $ call  	endpoint runSQL
+20180416 10162450  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162450  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162450  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UK_UBM_ENUM_GROUPCODE)
+20180416 10162450  $  -    		00.000.026
+20180416 10162450  $  -    	00.000.070
+20180416 10162450  $ http  	127.0.0.1 <- 200
+20180416 10162450  $  -    00.000.252
+20180416 10162451  %  +    runSQL?CONNECTION=main
+20180416 10162451  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162451  % http  	PRAGMA index_xinfo(IDX_ENU_MI_DELETEUSER)
+20180416 10162451  % auth  	admin/147256082
+20180416 10162451  % call  	endpoint runSQL
+20180416 10162451  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162451  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162451  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ENU_MI_DELETEUSER)
+20180416 10162451  %  -    		00.000.025
+20180416 10162451  %  -    	00.000.068
+20180416 10162451  % http  	127.0.0.1 <- 200
+20180416 10162451  %  -    00.000.207
+20180416 10162451  &  +    runSQL?CONNECTION=main
+20180416 10162451  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162451  & http  	PRAGMA index_xinfo(IDX_ENU_MI_MODIFYUSER)
+20180416 10162451  & auth  	admin/147256082
+20180416 10162451  & call  	endpoint runSQL
+20180416 10162451  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162451  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162451  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ENU_MI_MODIFYUSER)
+20180416 10162451  &  -    		00.000.025
+20180416 10162451  &  -    	00.000.068
+20180416 10162451  & http  	127.0.0.1 <- 200
+20180416 10162451  &  -    00.000.195
+20180416 10162451  '  +    runSQL?CONNECTION=main
+20180416 10162451  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162451  ' http  	PRAGMA index_xinfo(IDX_ENU_MI_CREATEUSER)
+20180416 10162451  ' auth  	admin/147256082
+20180416 10162451  ' call  	endpoint runSQL
+20180416 10162451  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162451  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162451  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ENU_MI_CREATEUSER)
+20180416 10162451  '  -    		00.000.025
+20180416 10162451  '  -    	00.000.067
+20180416 10162451  ' http  	127.0.0.1 <- 200
+20180416 10162451  '  -    00.000.194
+20180416 10162451  (  +    runSQL?CONNECTION=main
+20180416 10162451  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162451  ( http  	PRAGMA index_xinfo(IDX_ENU_MI_OWNER)
+20180416 10162451  ( auth  	admin/147256082
+20180416 10162451  ( call  	endpoint runSQL
+20180416 10162451  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162451  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162451  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ENU_MI_OWNER)
+20180416 10162451  (  -    		00.000.025
+20180416 10162451  (  -    	00.000.069
+20180416 10162451  ( http  	127.0.0.1 <- 200
+20180416 10162451  (  -    00.000.210
+20180416 10162451  )  +    runSQL?CONNECTION=main
+20180416 10162451  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162451  ) http  	PRAGMA table_info('ubm_navshortcut')
+20180416 10162451  ) auth  	admin/147256082
+20180416 10162451  ) call  	endpoint runSQL
+20180416 10162451  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162451  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162451  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('ubm_navshortcut')
+20180416 10162451  )  -    		00.000.036
+20180416 10162451  )  -    	00.000.097
+20180416 10162451  ) http  	127.0.0.1 <- 200
+20180416 10162451  )  -    00.000.366
+20180416 10162451  "  +    runSQL?CONNECTION=main
+20180416 10162451  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162451  " http  	PRAGMA foreign_key_list('ubm_navshortcut')
+20180416 10162451  " auth  	admin/147256082
+20180416 10162451  " call  	endpoint runSQL
+20180416 10162451  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162451  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162451  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('ubm_navshortcut')
+20180416 10162451  "  -    		00.000.033
+20180416 10162451  "  -    	00.000.109
+20180416 10162451  " http  	127.0.0.1 <- 200
+20180416 10162451  "  -    00.000.244
+20180416 10162451  #  +    runSQL?CONNECTION=main
+20180416 10162451  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162451  # http  	PRAGMA index_list('ubm_navshortcut')
+20180416 10162451  # auth  	admin/147256082
+20180416 10162451  # call  	endpoint runSQL
+20180416 10162451  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162451  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162451  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('ubm_navshortcut')
+20180416 10162451  #  -    		00.000.033
+20180416 10162451  #  -    	00.000.090
+20180416 10162451  # http  	127.0.0.1 <- 200
+20180416 10162451  #  -    00.000.217
+20180416 10162451  $  +    runSQL?CONNECTION=main
+20180416 10162451  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162451  $ http  	PRAGMA index_xinfo(IDX_NAVSH_TREEPATH)
+20180416 10162451  $ auth  	admin/147256082
+20180416 10162451  $ call  	endpoint runSQL
+20180416 10162451  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162451  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162451  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_NAVSH_TREEPATH)
+20180416 10162451  $  -    		00.000.031
+20180416 10162451  $  -    	00.000.082
+20180416 10162451  $ http  	127.0.0.1 <- 200
+20180416 10162451  $  -    00.000.272
+20180416 10162451  %  +    runSQL?CONNECTION=main
+20180416 10162451  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162451  % http  	PRAGMA index_xinfo(IDX_NAVSH_MI_DELETEUSER)
+20180416 10162451  % auth  	admin/147256082
+20180416 10162451  % call  	endpoint runSQL
+20180416 10162451  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162451  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162451  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_NAVSH_MI_DELETEUSER)
+20180416 10162451  %  -    		00.000.025
+20180416 10162451  %  -    	00.000.068
+20180416 10162451  % http  	127.0.0.1 <- 200
+20180416 10162451  %  -    00.000.217
+20180416 10162451  &  +    runSQL?CONNECTION=main
+20180416 10162451  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162451  & http  	PRAGMA index_xinfo(IDX_NAVSH_MI_MODIFYUSER)
+20180416 10162451  & auth  	admin/147256082
+20180416 10162451  & call  	endpoint runSQL
+20180416 10162451  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162451  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162451  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_NAVSH_MI_MODIFYUSER)
+20180416 10162451  &  -    		00.000.026
+20180416 10162451  &  -    	00.000.072
+20180416 10162451  & http  	127.0.0.1 <- 200
+20180416 10162451  &  -    00.000.312
+20180416 10162452  '  +    runSQL?CONNECTION=main
+20180416 10162452  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162452  ' http  	PRAGMA index_xinfo(IDX_NAVSH_MI_CREATEUSER)
+20180416 10162452  ' auth  	admin/147256082
+20180416 10162452  ' call  	endpoint runSQL
+20180416 10162452  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162452  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162452  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_NAVSH_MI_CREATEUSER)
+20180416 10162452  '  -    		00.000.026
+20180416 10162452  '  -    	00.000.073
+20180416 10162452  ' http  	127.0.0.1 <- 200
+20180416 10162452  '  -    00.000.224
+20180416 10162452  (  +    runSQL?CONNECTION=main
+20180416 10162452  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162452  ( http  	PRAGMA index_xinfo(IDX_NAVSH_MI_OWNER)
+20180416 10162452  ( auth  	admin/147256082
+20180416 10162452  ( call  	endpoint runSQL
+20180416 10162452  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162452  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162452  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_NAVSH_MI_OWNER)
+20180416 10162452  (  -    		00.000.032
+20180416 10162452  (  -    	00.000.090
+20180416 10162452  ( http  	127.0.0.1 <- 200
+20180416 10162452  (  -    00.000.270
+20180416 10162452  )  +    runSQL?CONNECTION=main
+20180416 10162452  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162452  ) http  	PRAGMA index_xinfo(UIDX_NAVSH_CODE)
+20180416 10162452  ) auth  	admin/147256082
+20180416 10162452  ) call  	endpoint runSQL
+20180416 10162452  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162452  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162452  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UIDX_NAVSH_CODE)
+20180416 10162452  )  -    		00.000.025
+20180416 10162452  )  -    	00.000.068
+20180416 10162452  ) http  	127.0.0.1 <- 200
+20180416 10162452  )  -    00.000.208
+20180416 10162452  "  +    runSQL?CONNECTION=main
+20180416 10162452  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162452  " http  	PRAGMA index_xinfo(IDX_NAVSH_PARENTID)
+20180416 10162452  " auth  	admin/147256082
+20180416 10162452  " call  	endpoint runSQL
+20180416 10162452  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162452  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162452  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_NAVSH_PARENTID)
+20180416 10162452  "  -    		00.000.027
+20180416 10162452  "  -    	00.000.073
+20180416 10162452  " http  	127.0.0.1 <- 200
+20180416 10162452  "  -    00.000.233
+20180416 10162452  #  +    runSQL?CONNECTION=main
+20180416 10162452  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162452  # http  	PRAGMA index_xinfo(IDX_NAVSH_DESKTOPID)
+20180416 10162452  # auth  	admin/147256082
+20180416 10162452  # call  	endpoint runSQL
+20180416 10162452  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162452  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162452  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_NAVSH_DESKTOPID)
+20180416 10162452  #  -    		00.000.026
+20180416 10162452  #  -    	00.000.071
+20180416 10162452  # http  	127.0.0.1 <- 200
+20180416 10162452  #  -    00.000.228
+20180416 10162452  $  +    runSQL?CONNECTION=main
+20180416 10162452  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162452  $ http  	PRAGMA table_info('ubm_navshortcut_adm')
+20180416 10162452  $ auth  	admin/147256082
+20180416 10162452  $ call  	endpoint runSQL
+20180416 10162452  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162452  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162452  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('ubm_navshortcut_adm')
+20180416 10162452  $  -    		00.000.066
+20180416 10162452  $  -    	00.000.104
+20180416 10162452  $ http  	127.0.0.1 <- 200
+20180416 10162452  $  -    00.000.246
+20180416 10162452  %  +    runSQL?CONNECTION=main
+20180416 10162452  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162452  % http  	PRAGMA foreign_key_list('ubm_navshortcut_adm')
+20180416 10162452  % auth  	admin/147256082
+20180416 10162452  % call  	endpoint runSQL
+20180416 10162452  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162452  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162452  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('ubm_navshortcut_adm')
+20180416 10162452  %  -    		00.000.027
+20180416 10162452  %  -    	00.000.080
+20180416 10162452  % http  	127.0.0.1 <- 200
+20180416 10162452  %  -    00.000.231
+20180416 10162452  &  +    runSQL?CONNECTION=main
+20180416 10162452  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162452  & http  	PRAGMA index_list('ubm_navshortcut_adm')
+20180416 10162452  & auth  	admin/147256082
+20180416 10162452  & call  	endpoint runSQL
+20180416 10162452  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162452  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162452  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('ubm_navshortcut_adm')
+20180416 10162452  &  -    		00.000.025
+20180416 10162452  &  -    	00.000.081
+20180416 10162452  & http  	127.0.0.1 <- 200
+20180416 10162452  &  -    00.000.218
+20180416 10162452  '  +    runSQL?CONNECTION=main
+20180416 10162452  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162452  ' http  	PRAGMA index_xinfo(UK_ADMNAV_INST_ADMSUBJ)
+20180416 10162452  ' auth  	admin/147256082
+20180416 10162452  ' call  	endpoint runSQL
+20180416 10162452  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162452  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162452  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UK_ADMNAV_INST_ADMSUBJ)
+20180416 10162452  '  -    		00.000.027
+20180416 10162452  '  -    	00.000.073
+20180416 10162452  ' http  	127.0.0.1 <- 200
+20180416 10162452  '  -    00.000.233
+20180416 10162452  (  +    runSQL?CONNECTION=main
+20180416 10162452  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162452  ( http  	PRAGMA index_xinfo(IDX_ADMNAV_ADMSUBJID)
+20180416 10162452  ( auth  	admin/147256082
+20180416 10162452  ( call  	endpoint runSQL
+20180416 10162452  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162452  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162452  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ADMNAV_ADMSUBJID)
+20180416 10162452  (  -    		00.000.031
+20180416 10162452  (  -    	00.000.081
+20180416 10162452  ( http  	127.0.0.1 <- 200
+20180416 10162452  (  -    00.000.218
+20180416 10162453  )  +    runSQL?CONNECTION=main
+20180416 10162453  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162453  ) http  	PRAGMA index_xinfo(IDX_ADMNAV_INSTANCEID)
+20180416 10162453  ) auth  	admin/147256082
+20180416 10162453  ) call  	endpoint runSQL
+20180416 10162453  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162453  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162453  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_ADMNAV_INSTANCEID)
+20180416 10162453  )  -    		00.000.032
+20180416 10162453  )  -    	00.000.076
+20180416 10162453  ) http  	127.0.0.1 <- 200
+20180416 10162453  )  -    00.000.214
+20180416 10162453  "  +    runSQL?CONNECTION=main
+20180416 10162453  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162453  " http  	PRAGMA table_info('req_depart')
+20180416 10162453  " auth  	admin/147256082
+20180416 10162453  " call  	endpoint runSQL
+20180416 10162453  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162453  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162453  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('req_depart')
+20180416 10162453  "  -    		00.000.027
+20180416 10162453  "  -    	00.000.068
+20180416 10162453  " http  	127.0.0.1 <- 200
+20180416 10162453  "  -    00.000.285
+20180416 10162453  #  +    runSQL?CONNECTION=main
+20180416 10162453  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162453  # http  	PRAGMA foreign_key_list('req_depart')
+20180416 10162453  # auth  	admin/147256082
+20180416 10162453  # call  	endpoint runSQL
+20180416 10162453  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162453  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162453  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('req_depart')
+20180416 10162453  #  -    		00.000.024
+20180416 10162453  #  -    	00.000.036
+20180416 10162453  # http  	127.0.0.1 <- 200
+20180416 10162453  #  -    00.000.178
+20180416 10162453  $  +    runSQL?CONNECTION=main
+20180416 10162453  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162453  $ http  	PRAGMA index_list('req_depart')
+20180416 10162453  $ auth  	admin/147256082
+20180416 10162453  $ call  	endpoint runSQL
+20180416 10162453  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162453  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162453  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('req_depart')
+20180416 10162453  $  -    		00.000.027
+20180416 10162453  $  -    	00.000.070
+20180416 10162453  $ http  	127.0.0.1 <- 200
+20180416 10162453  $  -    00.000.223
+20180416 10162453  %  +    runSQL?CONNECTION=main
+20180416 10162453  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162453  % http  	PRAGMA index_xinfo(IDX_REQ_DEPART_ROLEINSYSTEM)
+20180416 10162453  % auth  	admin/147256082
+20180416 10162453  % call  	endpoint runSQL
+20180416 10162453  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162453  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162453  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_REQ_DEPART_ROLEINSYSTEM)
+20180416 10162453  %  -    		00.000.037
+20180416 10162453  %  -    	00.000.101
+20180416 10162453  % http  	127.0.0.1 <- 200
+20180416 10162453  %  -    00.000.320
+20180416 10162453  &  +    runSQL?CONNECTION=main
+20180416 10162453  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162453  & http  	PRAGMA index_xinfo(UIDX_REQ_DEPART_NAME)
+20180416 10162453  & auth  	admin/147256082
+20180416 10162453  & call  	endpoint runSQL
+20180416 10162453  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162453  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162453  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(UIDX_REQ_DEPART_NAME)
+20180416 10162453  &  -    		00.000.040
+20180416 10162453  &  -    	00.000.100
+20180416 10162453  & http  	127.0.0.1 <- 200
+20180416 10162453  &  -    00.000.262
+20180416 10162453  '  +    runSQL?CONNECTION=main
+20180416 10162453  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162453  ' http  	PRAGMA table_info('req_subDepart')
+20180416 10162453  ' auth  	admin/147256082
+20180416 10162453  ' call  	endpoint runSQL
+20180416 10162453  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162453  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162453  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('req_subDepart')
+20180416 10162453  '  -    		00.000.028
+20180416 10162453  '  -    	00.000.083
+20180416 10162453  ' http  	127.0.0.1 <- 200
+20180416 10162453  '  -    00.000.228
+20180416 10162453  (  +    runSQL?CONNECTION=main
+20180416 10162453  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162453  ( http  	PRAGMA foreign_key_list('req_subDepart')
+20180416 10162453  ( auth  	admin/147256082
+20180416 10162453  ( call  	endpoint runSQL
+20180416 10162453  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162453  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162453  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('req_subDepart')
+20180416 10162453  (  -    		00.000.026
+20180416 10162453  (  -    	00.000.069
+20180416 10162453  ( http  	127.0.0.1 <- 200
+20180416 10162453  (  -    00.000.262
+20180416 10162453  )  +    runSQL?CONNECTION=main
+20180416 10162453  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162453  ) http  	PRAGMA index_list('req_subDepart')
+20180416 10162453  ) auth  	admin/147256082
+20180416 10162453  ) call  	endpoint runSQL
+20180416 10162453  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162453  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162453  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('req_subDepart')
+20180416 10162453  )  -    		00.000.030
+20180416 10162453  )  -    	00.000.074
+20180416 10162454  ) http  	127.0.0.1 <- 200
+20180416 10162454  )  -    00.000.225
+20180416 10162454  "  +    runSQL?CONNECTION=main
+20180416 10162454  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162454  " http  	PRAGMA index_xinfo(IDX_REQ_SUBDEPART_MI_DELETEUSER)
+20180416 10162454  " auth  	admin/147256082
+20180416 10162454  " call  	endpoint runSQL
+20180416 10162454  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162454  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162454  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_REQ_SUBDEPART_MI_DELETEUSER)
+20180416 10162454  "  -    		00.000.025
+20180416 10162454  "  -    	00.000.067
+20180416 10162454  " http  	127.0.0.1 <- 200
+20180416 10162454  "  -    00.000.206
+20180416 10162454  #  +    runSQL?CONNECTION=main
+20180416 10162454  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162454  # http  	PRAGMA index_xinfo(IDX_REQ_SUBDEPART_DEPARTMENT)
+20180416 10162454  # auth  	admin/147256082
+20180416 10162454  # call  	endpoint runSQL
+20180416 10162454  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162454  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162454  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_REQ_SUBDEPART_DEPARTMENT)
+20180416 10162454  #  -    		00.000.025
+20180416 10162454  #  -    	00.000.071
+20180416 10162454  # http  	127.0.0.1 <- 200
+20180416 10162454  #  -    00.000.206
+20180416 10162454  $  +    runSQL?CONNECTION=main
+20180416 10162454  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162454  $ http  	PRAGMA table_info('req_reqList')
+20180416 10162454  $ auth  	admin/147256082
+20180416 10162454  $ call  	endpoint runSQL
+20180416 10162454  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162454  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162454  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA table_info('req_reqList')
+20180416 10162454  $  -    		00.000.034
+20180416 10162454  $  -    	00.000.096
+20180416 10162454  $ http  	127.0.0.1 <- 200
+20180416 10162454  $  -    00.000.231
+20180416 10162454  %  +    runSQL?CONNECTION=main
+20180416 10162454  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162454  % http  	PRAGMA foreign_key_list('req_reqList')
+20180416 10162454  % auth  	admin/147256082
+20180416 10162454  % call  	endpoint runSQL
+20180416 10162454  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162454  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162454  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA foreign_key_list('req_reqList')
+20180416 10162454  %  -    		00.000.027
+20180416 10162454  %  -    	00.000.073
+20180416 10162454  % http  	127.0.0.1 <- 200
+20180416 10162454  %  -    00.000.249
+20180416 10162454  &  +    runSQL?CONNECTION=main
+20180416 10162454  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162454  & http  	PRAGMA index_list('req_reqList')
+20180416 10162454  & auth  	admin/147256082
+20180416 10162454  & call  	endpoint runSQL
+20180416 10162454  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162454  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162454  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_list('req_reqList')
+20180416 10162454  &  -    		00.000.032
+20180416 10162454  &  -    	00.000.081
+20180416 10162454  & http  	127.0.0.1 <- 200
+20180416 10162454  &  -    00.000.217
+20180416 10162454  '  +    runSQL?CONNECTION=main
+20180416 10162454  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162454  ' http  	PRAGMA index_xinfo(IDX_REQ_DTODD)
+20180416 10162454  ' auth  	admin/147256082
+20180416 10162454  ' call  	endpoint runSQL
+20180416 10162454  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162454  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162454  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_REQ_DTODD)
+20180416 10162454  '  -    		00.000.025
+20180416 10162454  '  -    	00.000.067
+20180416 10162454  ' http  	127.0.0.1 <- 200
+20180416 10162454  '  -    00.000.203
+20180416 10162454  (  +    runSQL?CONNECTION=main
+20180416 10162454  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162454  ( http  	PRAGMA index_xinfo(IDX_REQ_MI_DATA_ID)
+20180416 10162454  ( auth  	admin/147256082
+20180416 10162454  ( call  	endpoint runSQL
+20180416 10162454  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162454  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162454  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_REQ_MI_DATA_ID)
+20180416 10162454  (  -    		00.000.031
+20180416 10162454  (  -    	00.000.088
+20180416 10162454  ( http  	127.0.0.1 <- 200
+20180416 10162454  (  -    00.000.270
+20180416 10162454  )  +    runSQL?CONNECTION=main
+20180416 10162454  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162454  ) http  	PRAGMA index_xinfo(IDX_REQ_MI_OWNER)
+20180416 10162454  ) auth  	admin/147256082
+20180416 10162454  ) call  	endpoint runSQL
+20180416 10162454  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162454  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162454  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_REQ_MI_OWNER)
+20180416 10162454  )  -    		00.000.025
+20180416 10162454  )  -    	00.000.073
+20180416 10162454  ) http  	127.0.0.1 <- 200
+20180416 10162454  )  -    00.000.205
+20180416 10162454  "  +    runSQL?CONNECTION=main
+20180416 10162454  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162454  " http  	PRAGMA index_xinfo(IDX_REQ_MI_CREATEUSER)
+20180416 10162454  " auth  	admin/147256082
+20180416 10162454  " call  	endpoint runSQL
+20180416 10162454  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162454  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162454  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_REQ_MI_CREATEUSER)
+20180416 10162454  "  -    		00.000.025
+20180416 10162454  "  -    	00.000.077
+20180416 10162454  " http  	127.0.0.1 <- 200
+20180416 10162454  "  -    00.000.273
+20180416 10162454  #  +    runSQL?CONNECTION=main
+20180416 10162454  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162454  # http  	PRAGMA index_xinfo(IDX_REQ_MI_MODIFYUSER)
+20180416 10162454  # auth  	admin/147256082
+20180416 10162454  # call  	endpoint runSQL
+20180416 10162455  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162455  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162455  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_REQ_MI_MODIFYUSER)
+20180416 10162455  #  -    		00.000.070
+20180416 10162455  #  -    	00.000.107
+20180416 10162455  # http  	127.0.0.1 <- 200
+20180416 10162455  #  -    00.000.306
+20180416 10162455  $  +    runSQL?CONNECTION=main
+20180416 10162455  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162455  $ http  	PRAGMA index_xinfo(IDX_REQ_SUBDEPARTMENT)
+20180416 10162455  $ auth  	admin/147256082
+20180416 10162455  $ call  	endpoint runSQL
+20180416 10162455  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162455  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162455  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_REQ_SUBDEPARTMENT)
+20180416 10162455  $  -    		00.000.026
+20180416 10162455  $  -    	00.000.069
+20180416 10162455  $ http  	127.0.0.1 <- 200
+20180416 10162455  $  -    00.000.202
+20180416 10162455  %  +    runSQL?CONNECTION=main
+20180416 10162455  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162455  % http  	PRAGMA index_xinfo(IDX_REQ_DEPARTMENT)
+20180416 10162455  % auth  	admin/147256082
+20180416 10162455  % call  	endpoint runSQL
+20180416 10162455  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162455  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162455  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) PRAGMA index_xinfo(IDX_REQ_DEPARTMENT)
+20180416 10162455  %  -    		00.000.024
+20180416 10162455  %  -    	00.000.073
+20180416 10162455  % http  	127.0.0.1 <- 200
+20180416 10162455  %  -    00.000.220
+20180416 10162458  &  +    runSQL?CONNECTION=main
+20180416 10162458  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162458  & http  	update ubs_settings set name_uk = ID where name_uk is null
+20180416 10162458  & auth  	admin/147256082
+20180416 10162458  & call  	endpoint runSQL
+20180416 10162458  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162458  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162458  & DB    			StartTransaction for connection "main"
+20180416 10162458  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) update ubs_settings set name_uk = ID where name_uk is null
+20180416 10162458  &  -    		00.000.139
+20180416 10162458  &  -    	00.000.143
+20180416 10162458  & DB    	Commit connection "main" in 18us
+20180416 10162458  & http  	127.0.0.1 <- 200
+20180416 10162458  &  -    00.000.326
+20180416 10162458  '  +    runSQL?CONNECTION=main
+20180416 10162458  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162458  ' http  	update ubm_desktop set caption_uk = ID where caption_uk is null
+20180416 10162458  ' auth  	admin/147256082
+20180416 10162458  ' call  	endpoint runSQL
+20180416 10162458  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162458  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162458  ' DB    			StartTransaction for connection "main"
+20180416 10162458  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) update ubm_desktop set caption_uk = ID where caption_uk is null
+20180416 10162458  '  -    		00.000.205
+20180416 10162458  '  -    	00.000.211
+20180416 10162458  ' DB    	Commit connection "main" in 22us
+20180416 10162458  ' http  	127.0.0.1 <- 200
+20180416 10162458  '  -    00.000.407
+20180416 10162458  (  +    runSQL?CONNECTION=main
+20180416 10162458  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162458  ( http  	update ubm_enum set name_uk = ID where name_uk is null
+20180416 10162458  ( auth  	admin/147256082
+20180416 10162458  ( call  	endpoint runSQL
+20180416 10162458  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162458  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162458  ( DB    			StartTransaction for connection "main"
+20180416 10162458  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) update ubm_enum set name_uk = ID where name_uk is null
+20180416 10162458  (  -    		00.000.137
+20180416 10162458  (  -    	00.000.141
+20180416 10162458  ( DB    	Commit connection "main" in 15us
+20180416 10162458  ( http  	127.0.0.1 <- 200
+20180416 10162458  (  -    00.000.324
+20180416 10162458  )  +    runSQL?CONNECTION=main
+20180416 10162458  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162458  ) http  	update ubm_navshortcut set caption_uk = ID where caption_uk is null
+20180416 10162458  ) auth  	admin/147256082
+20180416 10162458  ) call  	endpoint runSQL
+20180416 10162458  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162458  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162458  ) DB    			StartTransaction for connection "main"
+20180416 10162458  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) update ubm_navshortcut set caption_uk = ID where caption_uk is null
+20180416 10162458  )  -    		00.000.191
+20180416 10162458  )  -    	00.000.197
+20180416 10162458  ) DB    	Commit connection "main" in 22us
+20180416 10162458  ) http  	127.0.0.1 <- 200
+20180416 10162458  )  -    00.000.454
+20180416 10162458  "  +    runSQL?CONNECTION=main
+20180416 10162458  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162458  " http  	update req_reqList set status = (select min(code) from ubm_enum where egroup = 'REQUEST_STATUS') where status is null
+20180416 10162458  " auth  	admin/147256082
+20180416 10162458  " call  	endpoint runSQL
+20180416 10162458  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162458  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162458  " DB    			StartTransaction for connection "main"
+20180416 10162458  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) update req_reqList set status = (select min(code) from ubm_enum where egroup = 'REQUEST_STATUS') where status is null
+20180416 10162458  "  -    		00.000.193
+20180416 10162458  "  -    	00.000.198
+20180416 10162458  " DB    	Commit connection "main" in 20us
+20180416 10162458  " http  	127.0.0.1 <- 200
+20180416 10162458  "  -    00.000.402
+20180416 10162458  #  +    runSQL?CONNECTION=main
+20180416 10162458  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162458  # http  	update req_reqList set mi_owner = (select min(id) from uba_user) where mi_owner is null
+20180416 10162458  # auth  	admin/147256082
+20180416 10162458  # call  	endpoint runSQL
+20180416 10162458  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162458  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162458  # DB    			StartTransaction for connection "main"
+20180416 10162458  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) update req_reqList set mi_owner = (select min(id) from uba_user) where mi_owner is null
+20180416 10162458  #  -    		00.000.184
+20180416 10162458  #  -    	00.000.193
+20180416 10162458  # DB    	Commit connection "main" in 22us
+20180416 10162458  # http  	127.0.0.1 <- 200
+20180416 10162458  #  -    00.000.400
+20180416 10162458  $  +    runSQL?CONNECTION=main
+20180416 10162458  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162458  $ http  	update req_reqList set mi_modifyDate = strftime('%Y-%m-%dT%H:%M:%SZ', 'now') where mi_modifyDate is null
+20180416 10162458  $ auth  	admin/147256082
+20180416 10162458  $ call  	endpoint runSQL
+20180416 10162458  $  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162458  $  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162458  $ DB    			StartTransaction for connection "main"
+20180416 10162458  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) update req_reqList set mi_modifyDate = strftime('%Y-%m-%dT%H:%M:%SZ', 'now') where mi_modifyDate is null
+20180416 10162458  $  -    		00.000.361
+20180416 10162458  $  -    	00.000.372
+20180416 10162458  $ DB    	Commit connection "main" in 67us
+20180416 10162458  $ http  	127.0.0.1 <- 200
+20180416 10162458  $  -    00.000.930
+20180416 10162458  %  +    runSQL?CONNECTION=main
+20180416 10162458  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162458  % http  	update req_reqList set mi_createUser = (select min(id) from uba_user) where mi_createUser is null
+20180416 10162458  % auth  	admin/147256082
+20180416 10162458  % call  	endpoint runSQL
+20180416 10162459  %  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162459  %  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162459  % DB    			StartTransaction for connection "main"
+20180416 10162459  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) update req_reqList set mi_createUser = (select min(id) from uba_user) where mi_createUser is null
+20180416 10162459  %  -    		00.000.137
+20180416 10162459  %  -    	00.000.141
+20180416 10162459  % DB    	Commit connection "main" in 22us
+20180416 10162459  % http  	127.0.0.1 <- 200
+20180416 10162459  %  -    00.000.385
+20180416 10162459  &  +    runSQL?CONNECTION=main
+20180416 10162459  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162459  & http  	update req_reqList set mi_modifyUser = (select min(id) from uba_user) where mi_modifyUser is null
+20180416 10162459  & auth  	admin/147256082
+20180416 10162459  & call  	endpoint runSQL
+20180416 10162459  &  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162459  &  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162459  & DB    			StartTransaction for connection "main"
+20180416 10162459  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) update req_reqList set mi_modifyUser = (select min(id) from uba_user) where mi_modifyUser is null
+20180416 10162459  &  -    		00.000.182
+20180416 10162459  &  -    	00.000.188
+20180416 10162459  & DB    	Commit connection "main" in 17us
+20180416 10162459  & http  	127.0.0.1 <- 200
+20180416 10162459  &  -    00.000.409
+20180416 10162459  '  +    runSQL?CONNECTION=main
+20180416 10162459  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162459  ' http  	update req_reqList set mi_createDate = strftime('%Y-%m-%dT%H:%M:%SZ', 'now') where mi_createDate is null
+20180416 10162459  ' auth  	admin/147256082
+20180416 10162459  ' call  	endpoint runSQL
+20180416 10162459  '  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162459  '  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162459  ' DB    			StartTransaction for connection "main"
+20180416 10162459  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) update req_reqList set mi_createDate = strftime('%Y-%m-%dT%H:%M:%SZ', 'now') where mi_createDate is null
+20180416 10162459  '  -    		00.000.127
+20180416 10162459  '  -    	00.000.131
+20180416 10162459  ' DB    	Commit connection "main" in 13us
+20180416 10162459  ' http  	127.0.0.1 <- 200
+20180416 10162459  '  -    00.000.305
+20180416 10162459  (  +    runSQL?CONNECTION=main
+20180416 10162459  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162459  ( http  	update req_reqList set mi_data_id = (select min(id) from req_reqList) where mi_data_id is null
+20180416 10162459  ( auth  	admin/147256082
+20180416 10162459  ( call  	endpoint runSQL
+20180416 10162459  (  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162459  (  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162459  ( DB    			StartTransaction for connection "main"
+20180416 10162459  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) update req_reqList set mi_data_id = (select min(id) from req_reqList) where mi_data_id is null
+20180416 10162459  (  -    		00.000.128
+20180416 10162459  (  -    	00.000.132
+20180416 10162459  ( DB    	Commit connection "main" in 13us
+20180416 10162459  ( http  	127.0.0.1 <- 200
+20180416 10162459  (  -    00.000.315
+20180416 10162459  )  +    runSQL?CONNECTION=main
+20180416 10162459  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162459  ) http  	update req_reqList set mi_dateFrom = strftime('%Y-%m-%dT%H:%M:%SZ', 'now') where mi_dateFrom is null
+20180416 10162459  ) auth  	admin/147256082
+20180416 10162459  ) call  	endpoint runSQL
+20180416 10162459  )  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162459  )  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162459  ) DB    			StartTransaction for connection "main"
+20180416 10162459  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) update req_reqList set mi_dateFrom = strftime('%Y-%m-%dT%H:%M:%SZ', 'now') where mi_dateFrom is null
+20180416 10162459  )  -    		00.000.168
+20180416 10162459  )  -    	00.000.172
+20180416 10162459  ) DB    	Commit connection "main" in 13us
+20180416 10162459  ) http  	127.0.0.1 <- 200
+20180416 10162459  )  -    00.000.389
+20180416 10162459  "  +    runSQL?CONNECTION=main
+20180416 10162459  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162459  " http  	update req_reqList set mi_dateTo = strftime('%Y-%m-%dT%H:%M:%SZ', 'now') where mi_dateTo is null
+20180416 10162459  " auth  	admin/147256082
+20180416 10162459  " call  	endpoint runSQL
+20180416 10162459  "  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162459  "  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162459  " DB    			StartTransaction for connection "main"
+20180416 10162459  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) update req_reqList set mi_dateTo = strftime('%Y-%m-%dT%H:%M:%SZ', 'now') where mi_dateTo is null
+20180416 10162459  "  -    		00.000.122
+20180416 10162459  "  -    	00.000.125
+20180416 10162459  " DB    	Commit connection "main" in 13us
+20180416 10162459  " http  	127.0.0.1 <- 200
+20180416 10162459  "  -    00.000.290
+20180416 10162459  #  +    runSQL?CONNECTION=main
+20180416 10162459  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180416 10162459  # http  	update req_subDepart set mi_deleteDate = '9999-12-31' where mi_deleteDate is null
+20180416 10162459  # auth  	admin/147256082
+20180416 10162459  # call  	endpoint runSQL
+20180416 10162459  #  +    	ubApp.TubApp(02CC3EE0).DBExecute
+20180416 10162459  #  +    		ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 10162459  # DB    			StartTransaction for connection "main"
+20180416 10162459  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A630) update req_subDepart set mi_deleteDate = '9999-12-31' where mi_deleteDate is null
+20180416 10162459  #  -    		00.000.116
+20180416 10162459  #  -    	00.000.119
+20180416 10162459  # DB    	Commit connection "main" in 14us
+20180416 10162459  # http  	127.0.0.1 <- 200
+20180416 10162459  #  -    00.000.290
+20180416 10162504  ! info  ubApp.TubApp(02CC3EE0) {   "ClientsCurrent": 1,   "ClientsMax": 1,   "Invalid": 0,   "Responses": 226,   "Modified": 14,   "IncomingBytes": 88541,   "OutcomingBytes": 246994,   "OutcomingFiles": 0,   "ServiceCalls": 226,   "ProcessTime": "1.57s"  }

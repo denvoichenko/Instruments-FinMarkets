@@ -1,0 +1,648 @@
+c:\UnityBase\UB.exe 4.0.0.0 (2018-02-22 16:30:16)Host=WDFN34211327A User=D071860 CPU=4*9-6-19971:FFFBCBBF8373DAFEBF6F9C0000 OS=23.0=10.0.15063 Wow64=1 Freq=2437498Environment variables=ALLUSERSPROFILE=C:\ProgramData	ANSICON=121x32766 (121x26)	ANSICON_DEF=7	APPDATA=C:\Users\D071860\AppData\Roaming	CommonProgramFiles=C:\Program Files (x86)\Common Files	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files	CommonProgramW6432=C:\Program Files\Common Files	COMPUTERNAME=WDFN34211327A	ComSpec=C:\WINDOWS\system32\cmd.exe	ConEmuANSI=ON	ConEmuAnsiLog=	ConEmuArgs=	ConEmuArgs2=	ConEmuBackHWND=0x001105EE	ConEmuBaseDir=C:\Program Files\ConEmu\ConEmu	ConEmuBaseDirShort=C:\PROGRA~1\ConEmu\ConEmu	ConEmuBuild=180411	ConEmuCfgDir=	ConEmuConfig=	ConEmuDir=C:\Program Files\ConEmu	ConEmuDrawHWND=0x001B0306	ConEmuDrive=C:	ConEmuHooks=Enabled	ConEmuHWND=0x001904C6	ConEmuPalette=<ConEmu>	ConEmuPID=1208	ConEmuPrompt0=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S	ConEmuPrompt1=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S$E[92m$P$E[90m	ConEmuPrompt2=$_$E[90m$G	ConEmuPrompt3=$E[m$S$E]9;12$E\	ConEmuServerPID=5468	ConEmuTask={Shells::cmd}	ConEmuWorkDir=C:\Users\D071860	ConEmuWorkDrive=C:	DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Security\Logs	HOMEDRIVE=C:	homeloc=D_WDF	HOMEPATH=\Users\D071860	KUBECONFIG=C:\Practice\kubernetes\RUSLAN-KUBECONFIG	LOCALAPPDATA=C:\Users\D071860\AppData\Local	LOGONSERVER=\\DS2WDF0004	NUMBER_OF_PROCESSORS=4	OneDrive=C:\Users\D071860\OneDrive	OS=Windows_NT	Path=C:\Program Files\ConEmu\ConEmu\Scripts;C:\Program Files\ConEmu;C:\Program Files\ConEmu\ConEmu;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Docker\Docker\Resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Minikube;C:\Program Files\Kubernetes;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;c:\UnityBase;C:\Users\D071860\AppData\Local\Microsoft\WindowsApps;C:\Users\D071860\AppData\Roaming\npm	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JSE;.WSF;.WSH;.MSC	PROCESSOR_ARCHITECTURE=x86	PROCESSOR_ARCHITEW6432=AMD64	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel	PROCESSOR_LEVEL=6	PROCESSOR_REVISION=4e03	ProgramData=C:\ProgramData	ProgramFiles=C:\Program Files (x86)	ProgramFiles(x86)=C:\Program Files (x86)	ProgramW6432=C:\Program Files	PROMPT=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S$E[92m$P$E[90m$_$E[90m$G$E[m$S$E]9;12$E\	PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell	PUBLIC=C:\Users\Public	SESSIONNAME=Console	SNC_LIB=C:\Program Files (x86)\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SNC_LIB_64=C:\Program Files\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SSF_LIBRARY_PATH=C:\Program Files (x86)\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SSF_LIBRARY_PATH_64=C:\Program Files\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SystemDrive=C:	SystemRoot=C:\WINDOWS	TEMP=C:\Users\D071860\AppData\Local\Temp	TMP=C:\Users\D071860\AppData\Local\Temp	UATDATA=C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77	UB_HOME=c:\UnityBase	USERDNSDOMAIN=GLOBAL.CORP.SAP	USERDOMAIN=GLOBAL	USERDOMAIN_ROAMINGPROFILE=GLOBAL	USERNAME=D071860	USERPROFILE=C:\Users\D071860	windir=C:\WINDOWSTubLog 1.18.3488 FTS3 2018-04-16T09:47:3120180416 09473157  ! warn  WebSocket support are disabled because WSServer.host = '' in config
+20180416 09473157  !  +    ubServer.TubServer(042274E8).008863DB 
+20180416 09473157  !  +    	Init app
+20180416 09473157  ! srvr  		FTS is disabled
+20180416 09473157  ! info  		Check blob store "avatars" folder "C:\ubProject\CityPortal\avatars\": folder exists
+20180416 09473157  ! info  		Check blob store "attach" folder "C:\ubProject\CityPortal\docs\attach\": folder exists
+20180416 09473157  !  -    	00.000.428
+20180416 09473157  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ub\ modified
+20180416 09473157  !  +    		ubCommonClasses.TubThreadSafeCache(02D5CB08).removeStartsWith
+20180416 09473157  !  -    		00.000.004
+20180416 09473157  !  -    	00.000.009
+20180416 09473157  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\uba\ modified
+20180416 09473157  !  +    		ubCommonClasses.TubThreadSafeCache(02D5CB08).removeStartsWith
+20180416 09473157  !  -    		00.000.000
+20180416 09473157  !  -    	00.000.004
+20180416 09473157  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ubs\ modified
+20180416 09473157  !  +    		ubCommonClasses.TubThreadSafeCache(02D5CB08).removeStartsWith
+20180416 09473157  !  -    		00.000.000
+20180416 09473157  !  -    	00.000.004
+20180416 09473157  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ubm\ modified
+20180416 09473157  !  +    		ubCommonClasses.TubThreadSafeCache(02D5CB08).removeStartsWith
+20180416 09473157  !  -    		00.000.000
+20180416 09473157  !  -    	00.000.003
+20180416 09473157  !  +    	Folder C:\ubProject\CityPortal\_public_only_\ modified
+20180416 09473157  !  +    		ubCommonClasses.TubThreadSafeCache(02D5CB08).removeStartsWith
+20180416 09473157  !  -    		00.000.000
+20180416 09473157  !  -    	00.000.003
+20180416 09473157  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\adminui-reg\ modified
+20180416 09473157  !  +    		ubCommonClasses.TubThreadSafeCache(02D5CB08).removeStartsWith
+20180416 09473157  !  -    		00.000.000
+20180416 09473157  !  -    	00.000.003
+20180416 09473157  !  +    	Folder C:\ubProject\CityPortal\models\requests\ modified
+20180416 09473157  !  +    		ubCommonClasses.TubThreadSafeCache(02D5CB08).removeStartsWith
+20180416 09473157  !  -    		00.000.000
+20180416 09473157  !  -    	00.000.003
+20180416 09473157  !  +    	ubApp.TubApp(02CC3EE0).init
+20180416 09473157  ! srvr  		Mime converters are disabled
+20180416 09473157  !  -    	00.000.002
+20180416 09473157  ! srvr  	Enable zip compresison
+20180416 09473157  ! srvr  	Send initialization request to http://localhost:888/init
+20180416 09473157  "  +    InitializationRequest
+20180416 09473157  "  +    	init
+20180416 09473157  " srvr  		Start application intialization...
+20180416 09473157  " info  		Loading domain...
+20180416 09473157  " info  		Loading model "UB" from "C:\ubProject\CityPortal\node_modules\@unitybase\ub\"
+20180416 09473157  " info  		Loading model "UBA" from "C:\ubProject\CityPortal\node_modules\@unitybase\uba\"
+20180416 09473159  " info  		Loading model "UBS" from "C:\ubProject\CityPortal\node_modules\@unitybase\ubs\"
+20180416 09473160  " info  		Loading model "UBM" from "C:\ubProject\CityPortal\node_modules\@unitybase\ubm\"
+20180416 09473160  " info  		Loading model "adminui-reg" from "C:\ubProject\CityPortal\node_modules\@unitybase\adminui-reg\"
+20180416 09473160  " info  		Loading model "RequestList" from "C:\ubProject\CityPortal\models\requests\"
+20180416 09473161  "  +    		ubApp.TubDataStore(041C0010).Init
+20180416 09473161  "  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473161  "  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473161  "  +    					00856EC2 
+20180416 09473161  "  -    					00.009.956
+20180416 09473161  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D76F10) PRAGMA foreign_keys = ON
+20180416 09473161  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D76910) SELECT A01.ID,A01.entity,A01.state,A01.attribute,A01.roleName,A01.actions  FROM uba_als A01  ORDER BY A01.entity ASC
+20180416 09473161  "  -    				00.010.111
+20180416 09473161  "  -    			00.010.155
+20180416 09473161  " debug 			Query result for entity "uba_als" into data name "": row count=0
+20180416 09473161  "  -    		00.010.182
+20180416 09473161  " srvr  		The domain loaded successfully with 3 entities
+20180416 09473161  " debug 		Create new JavaScript Engine for thread 63648
+20180416 09473212  "  +    		008C234A 
+20180416 09473212  "  +    			ubApp.TubDataStore(07595378).Init
+20180416 09473212  "  +    				ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473212  "  +    					ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473212  " SQL   						ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D77270) SELECT A01.ID,A01.name,A01.sessionTimeout,A01.allowedAppMethods  FROM uba_role A01 
+20180416 09473212  "  -    					00.000.061
+20180416 09473212  "  -    				00.000.158
+20180416 09473212  " debug 				Query result for entity "uba_role" into data name "": row count=9
+20180416 09473212  "  -    			00.000.173
+20180416 09473212  "  +    			ubApp.TubDataStore(075953F0).Init
+20180416 09473212  "  +    				ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473212  "  +    					ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473212  " SQL   						ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D77210) SELECT A01.ID,A01.entityMask,A01.methodMask,A01.ruleType,A01.ruleRole,A01.disabled,A01.code  FROM uba_els A01 
+20180416 09473212  "  -    					00.000.050
+20180416 09473212  "  -    				00.000.246
+20180416 09473212  " debug 				Query result for entity "uba_els" into data name "": row count=88
+20180416 09473212  "  -    			00.000.283
+20180416 09473212  "  -    		00.002.441
+20180416 09473212  " auth  		New session admin/145525379 created at 127.0.0.1/-144115173580339780 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180416 09473212  " auth  		New session anonymous/145525378 created at 127.0.0.1/-144115173580339780 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180416 09473212  "  +    		ubApp.TubDataStore(07595558).Init
+20180416 09473212  "  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473212  "  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473212  " debug 					P1: String(34)	UBA.passwordPolicy.maxDurationDays
+20180416 09473212  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D77330) select settingValue from ubs_settings where settingKey =?
+20180416 09473212  "  -    				00.000.042
+20180416 09473212  "  -    			00.000.107
+20180416 09473212  " debug 			Query result for entity "ubs_settings" into data name "": row count=1
+20180416 09473212  "  -    		00.000.117
+20180416 09473212  "  +    		ubApp.TubDataStore(07595558).Init
+20180416 09473212  "  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473212  "  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473212  " debug 					P1: String(37)	UBA.passwordPolicy.maxInvalidAttempts
+20180416 09473212  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D77330) select settingValue from ubs_settings where settingKey =?
+20180416 09473212  "  -    				00.000.007
+20180416 09473212  "  -    			00.000.020
+20180416 09473212  " debug 			Query result for entity "ubs_settings" into data name "": row count=1
+20180416 09473212  "  -    		00.000.026
+20180416 09473212  "  -    	00.266.891
+20180416 09473212  "  -    00.266.910
+20180416 09473212  ! srvr  	ubServer.TubServer(042274E8) {"THttpApiServer(02C8A990)":{"Cloned":false,"RegisteredUrl":"http://+:888/","HTTPQueueLength":1000,"MaxBandwidth":-1,"MaxConnections":-1,"APIVersion":"HTTP API 2.0","ServerName":"UnityBase","ProcessName":""}} initialized
+20180416 09473212  !  -    00.275.132
+20180416 09473212  "  +    getAppInfo
+20180416 09473212  " http  	127.0.0.1 -> GET getAppInfo
+20180416 09473212  " call  	endpoint getAppInfo
+20180416 09473212  " http  	127.0.0.1 <- 200
+20180416 09473212  "  -    00.000.582
+20180416 09473213  #  +    auth?AUTHTYPE=UB&userName=admin
+20180416 09473213  # http  	127.0.0.1 -> GET auth?AUTHTYPE=UB&userName=admin
+20180416 09473213  # debug 	Create new JavaScript Engine for thread 60900
+20180416 09473226  # call  	endpoint auth
+20180416 09473226  # http  	127.0.0.1 <- 200
+20180416 09473226  #  -    00.209.343
+20180416 09473226  $  +    auth?AUTHTYPE=UB&clientNonce=4dd7e3ba75ebecf676bbd7287d0156ba9890d5c183acada63d2517461f02b0e4&password=1630272ab9ebe1c85930548a4c1914aae6a0f613e59ca411df5c93ed05160408&userName=admin
+20180416 09473226  $ http  	127.0.0.1 -> GET auth?AUTHTYPE=UB&clientNonce=4dd7e3ba75ebecf676bbd7287d0156ba9890d5c183acada63d2517461f02b0e4&password=1630272ab9ebe1c85930548a4c1914aae6a0f613e59ca411df5c93ed05160408&userName=admin
+20180416 09473226  $ debug 	Create new JavaScript Engine for thread 33956
+20180416 09473239  $ call  	endpoint auth
+20180416 09473239  $  +    	ubApp.TubDataStore(0759A8C8).Init
+20180416 09473239  $  +    		ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473239  $  +    			ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473239  $  +    				00856EC2 
+20180416 09473239  $  -    				00.002.339
+20180416 09473239  $ SQL   				ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D780B0) PRAGMA foreign_keys = ON
+20180416 09473239  $ debug 				P1: String(5)	admin
+20180416 09473239  $ SQL   				ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D77A50) select id, name, uPasswordHashHexa, uData, isPending, trustedIP from UBA_USER where name=? and disabled=0
+20180416 09473239  $  -    			00.002.386
+20180416 09473239  $  -    		00.002.432
+20180416 09473239  $ debug 		Query result for entity "uba_user" into data name "": row count=1
+20180416 09473239  $  -    	00.002.448
+20180416 09473239  $  +    	ubApp.TubDataStore(0759A8C8).Init
+20180416 09473239  $  +    		ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473239  $  +    			ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473239  $ debug 				P1: Int64		10
+20180416 09473239  $ SQL   				ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D780B0) SELECT lastPasswordChangeDate FROM uba_user WHERE id=?
+20180416 09473239  $  -    			00.000.018
+20180416 09473239  $  -    		00.000.040
+20180416 09473239  $ debug 		Query result for entity "uba_user" into data name "__expireDate": row count=1
+20180416 09473239  $  -    	00.000.048
+20180416 09473239  $  +    	ubApp.TubDataStore(07E86368).Init
+20180416 09473239  $  +    		ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473239  $  +    			ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473239  $ debug 				P1: Int64		10
+20180416 09473239  $ SQL   				ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D78170) SELECT A01.roleID,A02.name,A02.description  FROM uba_userrole A01  INNER JOIN uba_role A02 ON A02.ID=A01.roleID  WHERE A01.userID=?
+20180416 09473239  $  -    			00.000.042
+20180416 09473239  $  -    		00.000.083
+20180416 09473239  $ debug 		Query result for entity "uba_userrole" into data name "": row count=1
+20180416 09473239  $  -    	00.000.090
+20180416 09473239  $ auth  	New session admin/145525405 created at 127.0.0.1/-144115173580339780 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180416 09473239  $  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473239  $ debug 		uba_user.select(TubStorageMixin)
+20180416 09473239  $  +    		ubApp.TubDataStore(07E86368).Init
+20180416 09473239  $  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473239  $  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473239  $ debug 					P1: Int64		10
+20180416 09473239  $ SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D78290) SELECT A01.name  FROM uba_user A01  WHERE A01.ID=?
+20180416 09473239  $  -    				00.000.072
+20180416 09473239  $  -    			00.000.117
+20180416 09473239  $ debug 			Query result for entity "uba_user" into data name "": row count=1
+20180416 09473239  $  -    		00.000.126
+20180416 09473239  $  -    	00.000.201
+20180416 09473242  $  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473242  $ debug 		uba_advSecurity.select(TubStorageMixin)
+20180416 09473242  $  +    		ubApp.TubDataStore(07E86368).Init
+20180416 09473242  $  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473242  $  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473242  $ debug 					P1: Int64		10
+20180416 09473242  $ SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D782F0) SELECT A01.ID,A01.allowedIP,A01.refreshIP,A01.fp,A01.refreshFp,A01.keyMediaName,A01.refreshKeyMedia,A01.mi_modifyDate  FROM uba_advSecurity A01  WHERE A01.userID=?
+20180416 09473242  $  -    				00.000.056
+20180416 09473242  $  -    			00.000.111
+20180416 09473242  $ debug 			Query result for entity "uba_advSecurity" into data name "": row count=0
+20180416 09473242  $  -    		00.000.121
+20180416 09473242  $  -    	00.000.313
+20180416 09473242  $  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473242  $ debug 		uba_userrole.select(TubStorageMixin)
+20180416 09473242  $  +    		ubApp.TubDataStore(07E86368).Init
+20180416 09473242  $  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473242  $  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473242  $ debug 					P1: Int64		10
+20180416 09473242  $ SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D78350) SELECT A01.ID,A02.name,A01.roleID  FROM uba_userrole A01  INNER JOIN uba_role A02 ON A02.ID=A01.roleID  WHERE A01.userID=?
+20180416 09473242  $  -    				00.000.058
+20180416 09473242  $  -    			00.000.135
+20180416 09473242  $ debug 			Query result for entity "uba_userrole" into data name "": row count=1
+20180416 09473242  $  -    		00.000.144
+20180416 09473242  $  -    	00.000.243
+20180416 09473242  $  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473242  $ debug 		uba_audit.beforeinsert(TubStorageMixin)
+20180416 09473242  $  -    	00.000.008
+20180416 09473242  $  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473242  $ debug 		uba_audit.insert(TubStorageMixin)
+20180416 09473242  $  +    		ubApp.TubDataStore(0759A6C0).TubDataStore.ExecuteInsertFromList
+20180416 09473242  $  +    			ubApp.TubDataStore(0759A6C0).TubDataStore.ExecuteInsertFromSQL
+20180416 09473242  $  +    				ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473242  $  +    					ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473242  $ debug 						P1: String(8)	uba_user
+20180416 09473242  $ debug 						P2: Int64		10
+20180416 09473242  $ debug 						P3: String(5)	LOGIN
+20180416 09473242  $ debug 						P4: Int64		10
+20180416 09473242  $ debug 						P5: DateTime	2018-04-16T09:47:32
+20180416 09473242  $ debug 						P6: String(9)	127.0.0.1
+20180416 09473242  $ debug 						P7: String(5)	admin
+20180416 09473242  $ debug 						P8: String(0)	
+20180416 09473242  $ debug 						P9: Int64		335793111072769
+20180416 09473242  $ debug 						P10: String(313..)	Cache-Control: no-cache  Connection: Keep-Alive  Pragma: no-cache  Accept: */*  Accept-Encoding: gzi...
+20180416 09473242  $ DB    						StartTransaction for connection "main"
+20180416 09473242  $ SQL   						ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D78410) INSERT INTO uba_audit (entity,entityinfo_id,actionType,actionUser,actionTime,remoteIP,targetUser,targetRole,ID,fromValue) VALUES (?,?,?,?,?,?,?,?,?,?)
+20180416 09473242  $  -    					00.000.173
+20180416 09473242  $  -    				00.000.175
+20180416 09473242  $  -    			00.000.279
+20180416 09473242  $  -    		00.000.293
+20180416 09473242  $  -    	00.000.297
+20180416 09473242  $  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473242  $ debug 		uba_audit.afterinsert(TubStorageMixin)
+20180416 09473242  $  -    	00.000.004
+20180416 09473242  $ DB    	Commit connection "main"
+20180416 09473242  $ http  	127.0.0.1 <- 200
+20180416 09473242  $  -    00.252.600
+20180416 09473242  %  +    ubql
+20180416 09473242  % http  	127.0.0.1 -> POST ubql
+20180416 09473242  % http  	[{"entity":"ubm_desktop","method":"select","fieldList":["ID"],"options":{"limit":1},"whereList":{"lookup":{"expression":"code","condition":"equal","values":{"code":"CityReq_desktop"}}}}]
+20180416 09473242  % debug 	Create new JavaScript Engine for thread 65004
+20180416 09473255  % auth  	admin/145525405
+20180416 09473255  % call  	endpoint ubql
+20180416 09473255  %  +    	ubMixinClasses.TubRLSMixin(02D14E20).MixinMethod
+20180416 09473255  % debug 		ubm_desktop.select(TubRLSMixin)
+20180416 09473255  % debug 		Prepare RLS expression for ubm_desktop
+20180416 09473255  %  +    		ubApp.TubDataStore(07E89068).Init
+20180416 09473255  %  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473255  %  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473255  %  +    					00856EC2 
+20180416 09473255  %  -    					00.002.229
+20180416 09473255  % SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D78E30) PRAGMA foreign_keys = ON
+20180416 09473255  % SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D787D0) select ID, name FROM uba_role
+20180416 09473255  %  -    				00.002.262
+20180416 09473255  %  -    			00.002.299
+20180416 09473255  % debug 			Query result for entity "uba_role" into data name "": row count=9
+20180416 09473255  %  -    		00.002.309
+20180416 09473255  %  -    	00.003.456
+20180416 09473255  %  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473255  % debug 		ubm_desktop.select(TubStorageMixin)
+20180416 09473255  %  +    		ubApp.TubDataStore(07E88F50).Init
+20180416 09473255  %  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473255  %  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473255  % debug 					P1: String(15)	CityReq_desktop
+20180416 09473255  % debug 					P2: Int64		10
+20180416 09473255  % debug 					P3: Int64		10
+20180416 09473255  % debug 					P4: DateTime	9999-12-31T00:00:00
+20180416 09473255  % SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D78F50) SELECT A01.ID  FROM ubm_desktop A01  WHERE code=? AND (( A01.mi_owner = ? ) OR (1=1) OR exists (select 1 from ubm_desktop_adm admsubtable where admsubtable.instanceID = A01.ID and admsubtable.admSubjID in (select ur.RoleID from uba_userrole ur where ur.UserID = ? union select 10))) AND A01.mi_deleteDate=? LIMIT 1 OFFSET 0 
+20180416 09473255  %  -    				00.000.108
+20180416 09473255  %  -    			00.000.169
+20180416 09473255  % debug 			Query result for entity "ubm_desktop" into data name "": row count=1
+20180416 09473255  %  -    		00.000.182
+20180416 09473255  %  -    	00.000.286
+20180416 09473255  % http  	127.0.0.1 <- 200
+20180416 09473255  %  -    00.204.603
+20180416 09473255  &  +    ubql
+20180416 09473255  & http  	127.0.0.1 -> POST ubql
+20180416 09473255  & http  	[{"entity":"ubm_navshortcut","method":"select","fieldList":["ID"],"options":{"limit":1},"whereList":{"lookup":{"expression":"code","condition":"equal","values":{"code":"req_departments_folder"}}}}]
+20180416 09473255  & debug 	Create new JavaScript Engine for thread 64240
+20180416 09473306  & auth  	admin/145525405
+20180416 09473306  & call  	endpoint ubql
+20180416 09473306  &  +    	ubMixinClasses.TubRLSMixin(02D14E20).MixinMethod
+20180416 09473306  & debug 		ubm_navshortcut.select(TubRLSMixin)
+20180416 09473306  & debug 		Prepare RLS expression for ubm_navshortcut
+20180416 09473306  &  +    		ubApp.TubDataStore(07E8D488).Init
+20180416 09473306  &  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473306  &  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473306  &  +    					00856EC2 
+20180416 09473306  &  -    					00.002.195
+20180416 09473306  & SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D79850) PRAGMA foreign_keys = ON
+20180416 09473306  & SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D791F0) select ID, name FROM uba_role
+20180416 09473306  &  -    				00.002.226
+20180416 09473306  &  -    			00.002.276
+20180416 09473306  & debug 			Query result for entity "uba_role" into data name "": row count=9
+20180416 09473306  &  -    		00.002.287
+20180416 09473306  &  -    	00.003.292
+20180416 09473306  &  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473306  & debug 		ubm_navshortcut.select(TubStorageMixin)
+20180416 09473306  &  +    		ubApp.TubDataStore(07E8D3C0).Init
+20180416 09473306  &  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473306  &  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473306  & debug 					P1: String(22)	req_departments_folder
+20180416 09473306  & debug 					P2: Int64		10
+20180416 09473306  & debug 					P3: Int64		10
+20180416 09473306  & debug 					P4: DateTime	9999-12-31T00:00:00
+20180416 09473306  & SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D79970) SELECT A01.ID  FROM ubm_navshortcut A01  WHERE code=? AND (( A01.mi_owner = ? ) OR                (1=1) OR                              exists (select 1 from ubm_navshortcut_adm admsubtable where admsubtable.instanceID = A01.ID and admsubtable.admSubjID in (select ur.RoleID from uba_userrole ur where ur.UserID = ? union select 10))) AND A01.mi_deleteDate=? LIMIT 1 OFFSET 0 
+20180416 09473306  &  -    				00.000.087
+20180416 09473306  &  -    			00.000.148
+20180416 09473306  & debug 			Query result for entity "ubm_navshortcut" into data name "": row count=1
+20180416 09473306  &  -    		00.000.162
+20180416 09473306  &  -    	00.000.286
+20180416 09473306  & http  	127.0.0.1 <- 200
+20180416 09473306  &  -    00.219.653
+20180416 09473306  '  +    ubql
+20180416 09473306  ' http  	127.0.0.1 -> POST ubql
+20180416 09473306  ' http  	[{"entity":"ubm_navshortcut","method":"select","fieldList":["ID"],"options":{"limit":1},"whereList":{"lookup":{"expression":"code","condition":"equal","values":{"code":"req_depart"}}}}]
+20180416 09473306  ' debug 	Create new JavaScript Engine for thread 65016
+20180416 09473320  ' auth  	admin/145525405
+20180416 09473320  ' call  	endpoint ubql
+20180416 09473320  '  +    	ubMixinClasses.TubRLSMixin(02D14E20).MixinMethod
+20180416 09473320  ' debug 		ubm_navshortcut.select(TubRLSMixin)
+20180416 09473320  ' debug 		Prepare RLS expression for ubm_navshortcut
+20180416 09473320  '  +    		ubApp.TubDataStore(0D427F98).Init
+20180416 09473320  '  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473320  '  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473320  '  +    					00856EC2 
+20180416 09473320  '  -    					00.002.404
+20180416 09473320  ' SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A2D0) PRAGMA foreign_keys = ON
+20180416 09473320  ' SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D79C70) select ID, name FROM uba_role
+20180416 09473320  '  -    				00.002.435
+20180416 09473320  '  -    			00.002.471
+20180416 09473320  ' debug 			Query result for entity "uba_role" into data name "": row count=9
+20180416 09473320  '  -    		00.002.482
+20180416 09473320  '  -    	00.003.440
+20180416 09473320  '  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473320  ' debug 		ubm_navshortcut.select(TubStorageMixin)
+20180416 09473320  '  +    		ubApp.TubDataStore(0D427ED0).Init
+20180416 09473320  '  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473320  '  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473320  ' debug 					P1: String(10)	req_depart
+20180416 09473320  ' debug 					P2: Int64		10
+20180416 09473320  ' debug 					P3: Int64		10
+20180416 09473320  ' debug 					P4: DateTime	9999-12-31T00:00:00
+20180416 09473320  ' SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A3F0) SELECT A01.ID  FROM ubm_navshortcut A01  WHERE code=? AND (( A01.mi_owner = ? ) OR                (1=1) OR                              exists (select 1 from ubm_navshortcut_adm admsubtable where admsubtable.instanceID = A01.ID and admsubtable.admSubjID in (select ur.RoleID from uba_userrole ur where ur.UserID = ? union select 10))) AND A01.mi_deleteDate=? LIMIT 1 OFFSET 0 
+20180416 09473320  '  -    				00.000.101
+20180416 09473320  '  -    			00.000.174
+20180416 09473320  ' debug 			Query result for entity "ubm_navshortcut" into data name "": row count=1
+20180416 09473320  '  -    		00.000.193
+20180416 09473320  '  -    	00.000.319
+20180416 09473320  ' http  	127.0.0.1 <- 200
+20180416 09473320  '  -    00.208.803
+20180416 09473320  (  +    ubql
+20180416 09473320  ( http  	127.0.0.1 -> POST ubql
+20180416 09473320  ( http  	[{"entity":"ubm_navshortcut","method":"select","fieldList":["ID"],"options":{"limit":1},"whereList":{"lookup":{"expression":"code","condition":"equal","values":{"code":"req_subDepart"}}}}]
+20180416 09473320  ( debug 	Create new JavaScript Engine for thread 44836
+20180416 09473333  ( auth  	admin/145525405
+20180416 09473333  ( call  	endpoint ubql
+20180416 09473333  (  +    	ubMixinClasses.TubRLSMixin(02D14E20).MixinMethod
+20180416 09473333  ( debug 		ubm_navshortcut.select(TubRLSMixin)
+20180416 09473333  ( debug 		Prepare RLS expression for ubm_navshortcut
+20180416 09473333  (  +    		ubApp.TubDataStore(0D42C390).Init
+20180416 09473333  (  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473333  (  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473333  (  +    					00856EC2 
+20180416 09473333  (  -    					00.002.270
+20180416 09473333  ( SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7ACF0) PRAGMA foreign_keys = ON
+20180416 09473333  ( SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7A690) select ID, name FROM uba_role
+20180416 09473333  (  -    				00.002.301
+20180416 09473333  (  -    			00.002.339
+20180416 09473333  ( debug 			Query result for entity "uba_role" into data name "": row count=9
+20180416 09473333  (  -    		00.002.349
+20180416 09473333  (  -    	00.003.303
+20180416 09473333  (  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473333  ( debug 		ubm_navshortcut.select(TubStorageMixin)
+20180416 09473333  (  +    		ubApp.TubDataStore(0D42C2C8).Init
+20180416 09473333  (  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473333  (  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473333  ( debug 					P1: String(13)	req_subDepart
+20180416 09473333  ( debug 					P2: Int64		10
+20180416 09473333  ( debug 					P3: Int64		10
+20180416 09473333  ( debug 					P4: DateTime	9999-12-31T00:00:00
+20180416 09473333  ( SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7AE10) SELECT A01.ID  FROM ubm_navshortcut A01  WHERE code=? AND (( A01.mi_owner = ? ) OR                (1=1) OR                              exists (select 1 from ubm_navshortcut_adm admsubtable where admsubtable.instanceID = A01.ID and admsubtable.admSubjID in (select ur.RoleID from uba_userrole ur where ur.UserID = ? union select 10))) AND A01.mi_deleteDate=? LIMIT 1 OFFSET 0 
+20180416 09473333  (  -    				00.000.088
+20180416 09473333  (  -    			00.000.191
+20180416 09473333  ( debug 			Query result for entity "ubm_navshortcut" into data name "": row count=1
+20180416 09473333  (  -    		00.000.203
+20180416 09473333  (  -    	00.000.305
+20180416 09473333  ( http  	127.0.0.1 <- 200
+20180416 09473333  (  -    00.218.398
+20180416 09473333  )  +    ubql
+20180416 09473333  ) http  	127.0.0.1 -> POST ubql
+20180416 09473333  ) http  	[{"entity":"ubm_navshortcut","method":"select","fieldList":["ID"],"options":{"limit":1},"whereList":{"lookup":{"expression":"code","condition":"equal","values":{"code":"req_reqList"}}}}]
+20180416 09473333  ) debug 	Create new JavaScript Engine for thread 64664
+20180416 09473347  ) auth  	admin/145525405
+20180416 09473347  ) call  	endpoint ubql
+20180416 09473347  )  +    	ubMixinClasses.TubRLSMixin(02D14E20).MixinMethod
+20180416 09473347  ) debug 		ubm_navshortcut.select(TubRLSMixin)
+20180416 09473347  ) debug 		Prepare RLS expression for ubm_navshortcut
+20180416 09473347  )  +    		ubApp.TubDataStore(0D358F48).Init
+20180416 09473347  )  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473347  )  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473347  )  +    					00856EC2 
+20180416 09473347  )  -    					00.002.196
+20180416 09473347  ) SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7B710) PRAGMA foreign_keys = ON
+20180416 09473347  ) SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7B0B0) select ID, name FROM uba_role
+20180416 09473347  )  -    				00.002.249
+20180416 09473347  )  -    			00.002.283
+20180416 09473347  ) debug 			Query result for entity "uba_role" into data name "": row count=9
+20180416 09473347  )  -    		00.002.293
+20180416 09473347  )  -    	00.003.278
+20180416 09473347  )  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473347  ) debug 		ubm_navshortcut.select(TubStorageMixin)
+20180416 09473347  )  +    		ubApp.TubDataStore(0D358E80).Init
+20180416 09473347  )  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473347  )  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473347  ) debug 					P1: String(11)	req_reqList
+20180416 09473347  ) debug 					P2: Int64		10
+20180416 09473347  ) debug 					P3: Int64		10
+20180416 09473347  ) debug 					P4: DateTime	9999-12-31T00:00:00
+20180416 09473347  ) SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7B830) SELECT A01.ID  FROM ubm_navshortcut A01  WHERE code=? AND (( A01.mi_owner = ? ) OR                (1=1) OR                              exists (select 1 from ubm_navshortcut_adm admsubtable where admsubtable.instanceID = A01.ID and admsubtable.admSubjID in (select ur.RoleID from uba_userrole ur where ur.UserID = ? union select 10))) AND A01.mi_deleteDate=? LIMIT 1 OFFSET 0 
+20180416 09473347  )  -    				00.000.089
+20180416 09473347  )  -    			00.000.150
+20180416 09473347  ) debug 			Query result for entity "ubm_navshortcut" into data name "": row count=1
+20180416 09473347  )  -    		00.000.161
+20180416 09473347  )  -    	00.000.285
+20180416 09473347  ) http  	127.0.0.1 <- 200
+20180416 09473347  )  -    00.211.971
+20180416 09473351  "  +    ubql
+20180416 09473351  " http  	127.0.0.1 -> POST ubql
+20180416 09473351  " http  	[{"entity":"ubm_enum","method":"select","fieldList":["code"],"options":{"limit":1},"whereList":{"c1":{"expression":"[code]","condition":"equal","values":{"c1":"NEW"}}}}]
+20180416 09473351  " auth  	admin/145525405
+20180416 09473351  " call  	endpoint ubql
+20180416 09473351  "  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473351  " debug 		ubm_enum.select(TubStorageMixin)
+20180416 09473351  "  +    		ubApp.TubDataStore(0D358D18).Init
+20180416 09473351  "  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473351  "  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473351  " debug 					P1: String(3)	NEW
+20180416 09473351  " debug 					P2: DateTime	9999-12-31T00:00:00
+20180416 09473351  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7B8F0) SELECT A01.code  FROM ubm_enum A01  WHERE A01.code=? AND A01.mi_deleteDate=? LIMIT 1 OFFSET 0 
+20180416 09473351  "  -    				00.000.065
+20180416 09473351  "  -    			00.000.154
+20180416 09473351  " debug 			Query result for entity "ubm_enum" into data name "": row count=1
+20180416 09473351  "  -    		00.000.164
+20180416 09473351  "  -    	00.000.262
+20180416 09473351  " http  	127.0.0.1 <- 200
+20180416 09473351  "  -    00.000.653
+20180416 09473351  #  +    ubql
+20180416 09473351  # http  	127.0.0.1 -> POST ubql
+20180416 09473351  # http  	[{"entity":"ubm_enum","method":"select","fieldList":["code"],"options":{"limit":1},"whereList":{"c1":{"expression":"[code]","condition":"equal","values":{"c1":"PROCESSED"}}}}]
+20180416 09473351  # auth  	admin/145525405
+20180416 09473351  # call  	endpoint ubql
+20180416 09473351  #  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473351  # debug 		ubm_enum.select(TubStorageMixin)
+20180416 09473351  #  +    		ubApp.TubDataStore(0D358D40).Init
+20180416 09473351  #  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473351  #  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473351  #  +    					00856EC2 
+20180416 09473351  #  -    					00.002.177
+20180416 09473351  # SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(07563090) PRAGMA foreign_keys = ON
+20180416 09473351  # debug 					P1: String(9)	PROCESSED
+20180416 09473351  # debug 					P2: DateTime	9999-12-31T00:00:00
+20180416 09473351  # SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7B9B0) SELECT A01.code  FROM ubm_enum A01  WHERE A01.code=? AND A01.mi_deleteDate=? LIMIT 1 OFFSET 0 
+20180416 09473351  #  -    				00.002.311
+20180416 09473351  #  -    			00.002.366
+20180416 09473351  # debug 			Query result for entity "ubm_enum" into data name "": row count=1
+20180416 09473351  #  -    		00.002.378
+20180416 09473351  #  -    	00.002.466
+20180416 09473351  # http  	127.0.0.1 <- 200
+20180416 09473351  #  -    00.002.790
+20180416 09473352  $  +    ubql
+20180416 09473352  $ http  	127.0.0.1 -> POST ubql
+20180416 09473352  $ http  	[{"entity":"ubm_enum","method":"select","fieldList":["code"],"options":{"limit":1},"whereList":{"c1":{"expression":"[code]","condition":"equal","values":{"c1":"REJECTED"}}}}]
+20180416 09473352  $ auth  	admin/145525405
+20180416 09473352  $ call  	endpoint ubql
+20180416 09473352  $  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473352  $ debug 		ubm_enum.select(TubStorageMixin)
+20180416 09473352  $  +    		ubApp.TubDataStore(0D358F20).Init
+20180416 09473352  $  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473352  $  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473352  $ debug 					P1: String(8)	REJECTED
+20180416 09473352  $ debug 					P2: DateTime	9999-12-31T00:00:00
+20180416 09473352  $ SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(07563090) SELECT A01.code  FROM ubm_enum A01  WHERE A01.code=? AND A01.mi_deleteDate=? LIMIT 1 OFFSET 0 
+20180416 09473352  $  -    				00.000.060
+20180416 09473352  $  -    			00.000.140
+20180416 09473352  $ debug 			Query result for entity "ubm_enum" into data name "": row count=1
+20180416 09473352  $  -    		00.000.150
+20180416 09473352  $  -    	00.000.272
+20180416 09473352  $ http  	127.0.0.1 <- 200
+20180416 09473352  $  -    00.000.544
+20180416 09473352  %  +    ubql
+20180416 09473352  % http  	127.0.0.1 -> POST ubql
+20180416 09473352  % http  	[{"entity":"ubm_enum","method":"select","fieldList":["code"],"options":{"limit":1},"whereList":{"c1":{"expression":"[code]","condition":"equal","values":{"c1":"CLOSED"}}}}]
+20180416 09473352  % auth  	admin/145525405
+20180416 09473352  % call  	endpoint ubql
+20180416 09473352  %  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473352  % debug 		ubm_enum.select(TubStorageMixin)
+20180416 09473352  %  +    		ubApp.TubDataStore(0D358E80).Init
+20180416 09473352  %  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473352  %  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473352  % debug 					P1: String(6)	CLOSED
+20180416 09473352  % debug 					P2: DateTime	9999-12-31T00:00:00
+20180416 09473352  % SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(075630F0) SELECT A01.code  FROM ubm_enum A01  WHERE A01.code=? AND A01.mi_deleteDate=? LIMIT 1 OFFSET 0 
+20180416 09473352  %  -    				00.000.053
+20180416 09473352  %  -    			00.000.135
+20180416 09473352  % debug 			Query result for entity "ubm_enum" into data name "": row count=1
+20180416 09473352  %  -    		00.000.145
+20180416 09473352  %  -    	00.000.250
+20180416 09473352  % http  	127.0.0.1 <- 200
+20180416 09473352  %  -    00.000.541
+20180416 09473352  &  +    ubql
+20180416 09473352  & http  	127.0.0.1 -> POST ubql
+20180416 09473352  & http  	[{"entity":"req_depart","method":"select","fieldList":["ID"],"options":{"limit":1},"whereList":{"c1":{"expression":"[name]","condition":"equal","values":{"c1":"Departments of health"}}}}]
+20180416 09473352  & auth  	admin/145525405
+20180416 09473352  & call  	endpoint ubql
+20180416 09473352  &  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473352  & debug 		req_depart.select(TubStorageMixin)
+20180416 09473352  &  +    		ubApp.TubDataStore(0D358EF8).Init
+20180416 09473352  &  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473352  &  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473352  & debug 					P1: String(21)	Departments of health
+20180416 09473352  & SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02D7B7D0) SELECT A01.ID  FROM req_depart A01  WHERE A01.name=? LIMIT 1 OFFSET 0 
+20180416 09473352  &  -    				00.000.053
+20180416 09473352  &  -    			00.000.156
+20180416 09473352  & debug 			Query result for entity "req_depart" into data name "": row count=1
+20180416 09473352  &  -    		00.000.166
+20180416 09473352  &  -    	00.000.230
+20180416 09473352  & http  	127.0.0.1 <- 200
+20180416 09473352  &  -    00.000.487
+20180416 09473352  '  +    ubql
+20180416 09473352  ' http  	127.0.0.1 -> POST ubql
+20180416 09473352  ' http  	[{"entity":"req_depart","method":"select","fieldList":["ID"],"options":{"limit":1},"whereList":{"c1":{"expression":"[name]","condition":"equal","values":{"c1":"Departments of education"}}}}]
+20180416 09473352  ' auth  	admin/145525405
+20180416 09473352  ' call  	endpoint ubql
+20180416 09473352  '  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473352  ' debug 		req_depart.select(TubStorageMixin)
+20180416 09473352  '  +    		ubApp.TubDataStore(0D358E80).Init
+20180416 09473352  '  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473352  '  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473352  ' debug 					P1: String(24)	Departments of education
+20180416 09473352  ' SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(07563150) SELECT A01.ID  FROM req_depart A01  WHERE A01.name=? LIMIT 1 OFFSET 0 
+20180416 09473352  '  -    				00.000.043
+20180416 09473352  '  -    			00.000.120
+20180416 09473352  ' debug 			Query result for entity "req_depart" into data name "": row count=1
+20180416 09473352  '  -    		00.000.129
+20180416 09473352  '  -    	00.000.205
+20180416 09473352  ' http  	127.0.0.1 <- 200
+20180416 09473352  '  -    00.000.470
+20180416 09473353  (  +    ubql
+20180416 09473353  ( http  	127.0.0.1 -> POST ubql
+20180416 09473353  ( http  	[{"entity":"uba_user","method":"select","fieldList":["ID"],"options":{"limit":1},"whereList":{"lookup":{"expression":"name","condition":"equal","values":{"code":"hd_user"}}}}]
+20180416 09473353  ( auth  	admin/145525405
+20180416 09473353  ( call  	endpoint ubql
+20180416 09473353  (  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473353  ( debug 		uba_user.select(TubStorageMixin)
+20180416 09473353  (  +    		ubApp.TubDataStore(0D358EF8).Init
+20180416 09473353  (  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473353  (  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473353  ( debug 					P1: String(7)	hd_user
+20180416 09473353  ( SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(07563210) SELECT A01.ID  FROM uba_user A01  WHERE name=? LIMIT 1 OFFSET 0 
+20180416 09473353  (  -    				00.000.043
+20180416 09473353  (  -    			00.000.143
+20180416 09473353  ( debug 			Query result for entity "uba_user" into data name "": row count=1
+20180416 09473353  (  -    		00.000.153
+20180416 09473353  (  -    	00.000.219
+20180416 09473353  ( http  	127.0.0.1 <- 200
+20180416 09473353  (  -    00.000.503
+20180416 09473353  )  +    ubql
+20180416 09473353  ) http  	127.0.0.1 -> POST ubql
+20180416 09473353  ) http  	[{"entity":"uba_role","method":"select","fieldList":["ID"],"options":{"limit":1},"whereList":{"lookup":{"expression":"name","condition":"equal","values":{"name":"HealthDepartment"}}}}]
+20180416 09473353  ) auth  	admin/145525405
+20180416 09473353  ) call  	endpoint ubql
+20180416 09473353  )  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473353  ) debug 		uba_role.select(TubStorageMixin)
+20180416 09473353  )  +    		ubApp.TubDataStore(0D3590B0).Init
+20180416 09473353  )  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473353  )  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473353  ) debug 					P1: String(16)	HealthDepartment
+20180416 09473353  ) SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(07563270) SELECT A01.ID  FROM uba_role A01  WHERE name=? LIMIT 1 OFFSET 0 
+20180416 09473353  )  -    				00.000.087
+20180416 09473353  )  -    			00.000.173
+20180416 09473353  ) debug 			Query result for entity "uba_role" into data name "": row count=1
+20180416 09473353  )  -    		00.000.199
+20180416 09473353  )  -    	00.000.256
+20180416 09473353  ) http  	127.0.0.1 <- 200
+20180416 09473353  )  -    00.000.519
+20180416 09473353  "  +    ubql
+20180416 09473353  " http  	127.0.0.1 -> POST ubql
+20180416 09473353  " http  	[{"entity":"uba_userrole","method":"select","fieldList":["ID"],"options":{"limit":1},"whereList":{"c1":{"expression":"[userID]","condition":"equal","values":{"c1":335786699489281}},"c2":{"expression":"[roleID]","condition":"equal","values":{"c2":335786699489285}}}}]
+20180416 09473353  " auth  	admin/145525405
+20180416 09473353  " call  	endpoint ubql
+20180416 09473353  "  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473353  " debug 		uba_userrole.select(TubStorageMixin)
+20180416 09473353  "  +    		ubApp.TubDataStore(0D35AC08).Init
+20180416 09473353  "  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473353  "  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473353  " debug 					P1: Int64		335786699489281
+20180416 09473353  " debug 					P2: Int64		335786699489285
+20180416 09473353  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(07563330) SELECT A01.ID  FROM uba_userrole A01  WHERE A01.userID=? AND A01.roleID=? LIMIT 1 OFFSET 0 
+20180416 09473353  "  -    				00.000.065
+20180416 09473353  "  -    			00.000.159
+20180416 09473353  " debug 			Query result for entity "uba_userrole" into data name "": row count=1
+20180416 09473353  "  -    		00.000.170
+20180416 09473353  "  -    	00.000.279
+20180416 09473353  " http  	127.0.0.1 <- 200
+20180416 09473353  "  -    00.000.735
+20180416 09473353  #  +    ubql
+20180416 09473353  # http  	127.0.0.1 -> POST ubql
+20180416 09473353  # http  	[{"entity":"ubm_desktop_adm","method":"select","fieldList":["ID"],"options":{"limit":1},"whereList":{"c1":{"expression":"[instanceID]","condition":"equal","values":{"c1":335784125104129}},"c2":{"expression":"[admSubjID]","condition":"equal","values":{"c2":335786699489285}}}}]
+20180416 09473353  # auth  	admin/145525405
+20180416 09473353  # call  	endpoint ubql
+20180416 09473353  #  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473353  # debug 		ubm_desktop_adm.select(TubStorageMixin)
+20180416 09473353  #  +    		ubApp.TubDataStore(0D3590B0).Init
+20180416 09473353  #  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473353  #  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473353  # debug 					P1: Int64		335784125104129
+20180416 09473353  # debug 					P2: Int64		335786699489285
+20180416 09473353  # SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(075632D0) SELECT A01.ID  FROM ubm_desktop_adm A01  WHERE A01.instanceID=? AND A01.admSubjID=? LIMIT 1 OFFSET 0 
+20180416 09473353  #  -    				00.000.045
+20180416 09473353  #  -    			00.000.123
+20180416 09473353  # debug 			Query result for entity "ubm_desktop_adm" into data name "": row count=1
+20180416 09473353  #  -    		00.000.133
+20180416 09473353  #  -    	00.000.222
+20180416 09473353  # http  	127.0.0.1 <- 200
+20180416 09473353  #  -    00.000.701
+20180416 09473353  $  +    ubql
+20180416 09473353  $ http  	127.0.0.1 -> POST ubql
+20180416 09473353  $ http  	[{"entity":"ubm_navshortcut_adm","method":"select","fieldList":["ID"],"options":{"limit":1},"whereList":{"c1":{"expression":"[instanceID]","condition":"equal","values":{"c1":335785519153155}},"c2":{"expression":"[admSubjID]","condition":"equal","values":{"c2":335786699489285}}}}]
+20180416 09473353  $ auth  	admin/145525405
+20180416 09473353  $ call  	endpoint ubql
+20180416 09473353  $  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473353  $ debug 		ubm_navshortcut_adm.select(TubStorageMixin)
+20180416 09473353  $  +    		ubApp.TubDataStore(0D35C670).Init
+20180416 09473353  $  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473353  $  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473353  $ debug 					P1: Int64		335785519153155
+20180416 09473353  $ debug 					P2: Int64		335786699489285
+20180416 09473353  $ SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(075633F0) SELECT A01.ID  FROM ubm_navshortcut_adm A01  WHERE A01.instanceID=? AND A01.admSubjID=? LIMIT 1 OFFSET 0 
+20180416 09473353  $  -    				00.000.086
+20180416 09473353  $  -    			00.000.185
+20180416 09473353  $ debug 			Query result for entity "ubm_navshortcut_adm" into data name "": row count=1
+20180416 09473353  $  -    		00.000.294
+20180416 09473353  $  -    	00.000.439
+20180416 09473353  $ http  	127.0.0.1 <- 200
+20180416 09473353  $  -    00.000.890
+20180416 09473353  %  +    ubql
+20180416 09473353  % http  	127.0.0.1 -> POST ubql
+20180416 09473353  % http  	[{"entity":"uba_els","method":"select","fieldList":["ID"],"options":{"limit":1},"whereList":{"c1":{"expression":"[code]","condition":"equal","values":{"c1":"READ_UPD_REQ_HD"}}}}]
+20180416 09473353  % auth  	admin/145525405
+20180416 09473353  % call  	endpoint ubql
+20180416 09473353  %  +    	ubMixinClasses.TubStorageMixin(02D142C0).MixinMethod
+20180416 09473353  % debug 		uba_els.select(TubStorageMixin)
+20180416 09473353  %  +    		ubApp.TubDataStore(0D358E80).Init
+20180416 09473353  %  +    			ubApp.TubApp(02CC3EE0).DBExecute
+20180416 09473353  %  +    				ubApp.TubApp(02CC3EE0).TubApp.InternalDBExecute
+20180416 09473353  % debug 					P1: String(15)	READ_UPD_REQ_HD
+20180416 09473353  % SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(07563450) SELECT A01.ID  FROM uba_els A01  WHERE A01.code=? LIMIT 1 OFFSET 0 
+20180416 09473353  %  -    				00.000.060
+20180416 09473353  %  -    			00.000.184
+20180416 09473353  % debug 			Query result for entity "uba_els" into data name "": row count=1
+20180416 09473353  %  -    		00.000.196
+20180416 09473353  %  -    	00.000.267
+20180416 09473353  % http  	127.0.0.1 <- 200
+20180416 09473353  %  -    00.000.754
+20180416 09473361  ! info  ubApp.TubApp(02CC3EE0) {   "ClientsCurrent": 1,   "ClientsMax": 1,   "Invalid": 0,   "Responses": 20,   "Modified": 0,   "IncomingBytes": 10240,   "OutcomingBytes": 4523,   "OutcomingFiles": 0,   "ServiceCalls": 20,   "ProcessTime": "1.53s"  }

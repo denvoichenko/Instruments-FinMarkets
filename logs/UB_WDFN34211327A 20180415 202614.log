@@ -1,0 +1,536 @@
+c:\UnityBase\UB.exe 4.0.0.0 (2018-02-22 16:30:16)Host=WDFN34211327A User=D071860 CPU=4*9-6-19971:FFFBCBBF8373DAFEBF6F9C0000 OS=23.0=10.0.15063 Wow64=1 Freq=2437498Environment variables=ALLUSERSPROFILE=C:\ProgramData	ANSICON=121x32766 (121x26)	ANSICON_DEF=7	APPDATA=C:\Users\D071860\AppData\Roaming	CommonProgramFiles=C:\Program Files (x86)\Common Files	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files	CommonProgramW6432=C:\Program Files\Common Files	COMPUTERNAME=WDFN34211327A	ComSpec=C:\WINDOWS\system32\cmd.exe	ConEmuANSI=ON	ConEmuAnsiLog=	ConEmuArgs=	ConEmuArgs2=	ConEmuBackHWND=0x000B026E	ConEmuBaseDir=C:\Program Files\ConEmu\ConEmu	ConEmuBaseDirShort=C:\PROGRA~1\ConEmu\ConEmu	ConEmuBuild=180411	ConEmuCfgDir=	ConEmuConfig=	ConEmuDir=C:\Program Files\ConEmu	ConEmuDrawHWND=0x00180912	ConEmuDrive=C:	ConEmuHooks=Enabled	ConEmuHWND=0x001904C6	ConEmuPalette=<ConEmu>	ConEmuPID=1208	ConEmuPrompt0=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S	ConEmuPrompt1=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S$E[92m$P$E[90m	ConEmuPrompt2=$_$E[90m$G	ConEmuPrompt3=$E[m$S$E]9;12$E\	ConEmuServerPID=20132	ConEmuTask={Shells::cmd}	ConEmuWorkDir=C:\Users\D071860	ConEmuWorkDrive=C:	DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Security\Logs	HOMEDRIVE=C:	homeloc=D_WDF	HOMEPATH=\Users\D071860	KUBECONFIG=C:\Practice\kubernetes\RUSLAN-KUBECONFIG	LOCALAPPDATA=C:\Users\D071860\AppData\Local	LOGONSERVER=\\DS2WDF0004	NUMBER_OF_PROCESSORS=4	OneDrive=C:\Users\D071860\OneDrive	OS=Windows_NT	Path=C:\Program Files\ConEmu\ConEmu\Scripts;C:\Program Files\ConEmu;C:\Program Files\ConEmu\ConEmu;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Docker\Docker\Resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Minikube;C:\Program Files\Kubernetes;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;c:\UnityBase;C:\Users\D071860\AppData\Local\Microsoft\WindowsApps;C:\Users\D071860\AppData\Roaming\npm	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC	PROCESSOR_ARCHITECTURE=x86	PROCESSOR_ARCHITEW6432=AMD64	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel	PROCESSOR_LEVEL=6	PROCESSOR_REVISION=4e03	ProgramData=C:\ProgramData	ProgramFiles=C:\Program Files (x86)	ProgramFiles(x86)=C:\Program Files (x86)	ProgramW6432=C:\Program Files	PROMPT=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S$E[92m$P$E[90m$_$E[90m$G$E[m$S$E]9;12$E\	PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell	PUBLIC=C:\Users\Public	SESSIONNAME=Console	SNC_LIB=C:\Program Files (x86)\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SNC_LIB_64=C:\Program Files\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SSF_LIBRARY_PATH=C:\Program Files (x86)\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SSF_LIBRARY_PATH_64=C:\Program Files\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SystemDrive=C:	SystemRoot=C:\WINDOWS	TEMP=C:\Users\D071860\AppData\Local\Temp	TMP=C:\Users\D071860\AppData\Local\Temp	UATDATA=C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77	UB_HOME=c:\UnityBase	USERDNSDOMAIN=GLOBAL.CORP.SAP	USERDOMAIN=GLOBAL	USERDOMAIN_ROAMINGPROFILE=GLOBAL	USERNAME=D071860	USERPROFILE=C:\Users\D071860	windir=C:\WINDOWSTubLog 1.18.3488 FTS3 2018-04-15T18:26:1420180415 18261411  ! warn  WebSocket support are disabled because WSServer.host = '' in config
+20180415 18261412  !  +    ubServer.TubServer(029DE5C0).008863DB 
+20180415 18261412  !  +    	Init app
+20180415 18261412  ! srvr  		FTS is disabled
+20180415 18261412  ! info  		Check blob store "avatars" folder "C:\ubProject\CityPortal\avatars\": folder exists
+20180415 18261412  ! info  		Check blob store "attach" folder "C:\ubProject\CityPortal\docs\attach\": folder exists
+20180415 18261412  !  -    	00.001.264
+20180415 18261412  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ub\ modified
+20180415 18261412  !  +    		ubCommonClasses.TubThreadSafeCache(029DCB08).removeStartsWith
+20180415 18261412  !  -    		00.000.006
+20180415 18261412  !  -    	00.000.012
+20180415 18261412  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\uba\ modified
+20180415 18261412  !  +    		ubCommonClasses.TubThreadSafeCache(029DCB08).removeStartsWith
+20180415 18261412  !  -    		00.000.000
+20180415 18261412  !  -    	00.000.004
+20180415 18261412  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ubs\ modified
+20180415 18261412  !  +    		ubCommonClasses.TubThreadSafeCache(029DCB08).removeStartsWith
+20180415 18261412  !  -    		00.000.000
+20180415 18261412  !  -    	00.000.004
+20180415 18261412  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ubm\ modified
+20180415 18261412  !  +    		ubCommonClasses.TubThreadSafeCache(029DCB08).removeStartsWith
+20180415 18261412  !  -    		00.000.000
+20180415 18261412  !  -    	00.000.003
+20180415 18261412  !  +    	Folder C:\ubProject\CityPortal\_public_only_\ modified
+20180415 18261412  !  +    		ubCommonClasses.TubThreadSafeCache(029DCB08).removeStartsWith
+20180415 18261412  !  -    		00.000.001
+20180415 18261412  !  -    	00.000.030
+20180415 18261412  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\adminui-reg\ modified
+20180415 18261412  !  +    		ubCommonClasses.TubThreadSafeCache(029DCB08).removeStartsWith
+20180415 18261412  !  -    		00.000.000
+20180415 18261412  !  -    	00.000.006
+20180415 18261412  !  +    	Folder C:\ubProject\CityPortal\models\requests\ modified
+20180415 18261412  !  +    		ubCommonClasses.TubThreadSafeCache(029DCB08).removeStartsWith
+20180415 18261412  !  -    		00.000.001
+20180415 18261412  !  -    	00.000.014
+20180415 18261412  !  +    	ubApp.TubApp(02943EE0).init
+20180415 18261412  ! srvr  		Mime converters are disabled
+20180415 18261412  !  -    	00.000.003
+20180415 18261412  ! srvr  	Enable zip compresison
+20180415 18261412  ! srvr  	Send initialization request to http://localhost:888/init
+20180415 18261413  "  +    InitializationRequest
+20180415 18261413  "  +    	init
+20180415 18261413  " srvr  		Start application intialization...
+20180415 18261413  " info  		Loading domain...
+20180415 18261413  " info  		Loading model "UB" from "C:\ubProject\CityPortal\node_modules\@unitybase\ub\"
+20180415 18261413  " info  		Loading model "UBA" from "C:\ubProject\CityPortal\node_modules\@unitybase\uba\"
+20180415 18261414  " info  		Loading model "UBS" from "C:\ubProject\CityPortal\node_modules\@unitybase\ubs\"
+20180415 18261415  " info  		Loading model "UBM" from "C:\ubProject\CityPortal\node_modules\@unitybase\ubm\"
+20180415 18261415  " info  		Loading model "adminui-reg" from "C:\ubProject\CityPortal\node_modules\@unitybase\adminui-reg\"
+20180415 18261415  " info  		Loading model "RequestList" from "C:\ubProject\CityPortal\models\requests\"
+20180415 18261415  "  +    		ubApp.TubDataStore(04226028).Init
+20180415 18261415  "  +    			ubApp.TubApp(02943EE0).DBExecute
+20180415 18261415  "  +    				ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18261415  "  +    					00856EC2 
+20180415 18261415  "  -    					00.002.573
+20180415 18261415  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F6DF0) PRAGMA foreign_keys = ON
+20180415 18261415  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F67F0) SELECT A01.ID,A01.entity,A01.state,A01.attribute,A01.roleName,A01.actions  FROM uba_als A01  ORDER BY A01.entity ASC
+20180415 18261415  "  -    				00.002.688
+20180415 18261415  "  -    			00.002.720
+20180415 18261415  " debug 			Query result for entity "uba_als" into data name "": row count=0
+20180415 18261415  "  -    		00.002.749
+20180415 18261415  " srvr  		The domain loaded successfully with 3 entities
+20180415 18261415  " debug 		Create new JavaScript Engine for thread 39448
+20180415 18261429  "  +    		008C234A 
+20180415 18261429  "  +    			ubApp.TubDataStore(0D8D0F98).Init
+20180415 18261429  "  +    				ubApp.TubApp(02943EE0).DBExecute
+20180415 18261429  "  +    					ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18261429  " SQL   						ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F7150) SELECT A01.ID,A01.name,A01.sessionTimeout,A01.allowedAppMethods  FROM uba_role A01 
+20180415 18261429  "  -    					00.000.045
+20180415 18261429  "  -    				00.000.125
+20180415 18261429  " debug 				Query result for entity "uba_role" into data name "": row count=7
+20180415 18261429  "  -    			00.000.138
+20180415 18261429  "  +    			ubApp.TubDataStore(0D8D1010).Init
+20180415 18261429  "  +    				ubApp.TubApp(02943EE0).DBExecute
+20180415 18261429  "  +    					ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18261429  " SQL   						ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F70F0) SELECT A01.ID,A01.entityMask,A01.methodMask,A01.ruleType,A01.ruleRole,A01.disabled,A01.code  FROM uba_els A01 
+20180415 18261429  "  -    					00.000.030
+20180415 18261429  "  -    				00.000.115
+20180415 18261429  " debug 				Query result for entity "uba_els" into data name "": row count=34
+20180415 18261429  "  -    			00.000.131
+20180415 18261429  "  -    		00.001.164
+20180415 18261429  " auth  		New session admin/90247671 created at 127.0.0.1/-144115182170275794 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180415 18261429  " auth  		New session anonymous/90247670 created at 127.0.0.1/-144115182170275794 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180415 18261429  "  +    		ubApp.TubDataStore(0D8D1218).Init
+20180415 18261429  "  +    			ubApp.TubApp(02943EE0).DBExecute
+20180415 18261429  "  +    				ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18261429  " debug 					P1: String(34)	UBA.passwordPolicy.maxDurationDays
+20180415 18261429  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F7210) select settingValue from ubs_settings where settingKey =?
+20180415 18261429  "  -    				00.000.034
+20180415 18261429  "  -    			00.000.082
+20180415 18261429  " debug 			Query result for entity "ubs_settings" into data name "": row count=1
+20180415 18261429  "  -    		00.000.089
+20180415 18261429  "  +    		ubApp.TubDataStore(0D8D1218).Init
+20180415 18261429  "  +    			ubApp.TubApp(02943EE0).DBExecute
+20180415 18261429  "  +    				ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18261429  " debug 					P1: String(37)	UBA.passwordPolicy.maxInvalidAttempts
+20180415 18261429  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F7210) select settingValue from ubs_settings where settingKey =?
+20180415 18261429  "  -    				00.000.006
+20180415 18261429  "  -    			00.000.019
+20180415 18261429  " debug 			Query result for entity "ubs_settings" into data name "": row count=1
+20180415 18261429  "  -    		00.000.025
+20180415 18261429  "  -    	00.257.347
+20180415 18261429  "  -    00.257.361
+20180415 18261429  ! srvr  	ubServer.TubServer(029DE5C0) {"THttpApiServer(0290A990)":{"Cloned":false,"RegisteredUrl":"http://+:888/","HTTPQueueLength":1000,"MaxBandwidth":-1,"MaxConnections":-1,"APIVersion":"HTTP API 2.0","ServerName":"UnityBase","ProcessName":""}} initialized
+20180415 18261429  !  -    00.281.504
+20180415 18262207  "  +    logout
+20180415 18262207  " http  	127.0.0.1 -> POST logout
+20180415 18262207  " http  	{}
+20180415 18262207  " http  	<- 401
+20180415 18262207  "  -    00.000.048
+20180415 18262207  #  +    adm
+20180415 18262207  # http  	127.0.0.1 -> GET adm
+20180415 18262207  # debug 	Create new JavaScript Engine for thread 40888
+20180415 18262223  # call  	endpoint adm
+20180415 18262223  #  +    	ubApp.TubApp(02943EE0).008CA69A 
+20180415 18262223  # debug 		FOLDER_CHECKSUM: calc folder checksum C:\ubProject\CityPortal\node_modules\@unitybase\ub\public\
+20180415 18262223  # debug 		FOLDER_CHECKSUM: put folder checksum 00157f1fae1f03ef6a703e934be7d698 to UB_STATIC.checkSum_C:\ubProject\CityPortal\node_modules\@unitybase\ub\public\
+20180415 18262223  #  -    	00.003.822
+20180415 18262223  #  +    	ubApp.TubApp(02943EE0).008CA69A 
+20180415 18262223  # debug 		FOLDER_CHECKSUM: calc folder checksum C:\ubProject\CityPortal\node_modules\@unitybase\uba\public\
+20180415 18262223  # debug 		FOLDER_CHECKSUM: put folder checksum a32940308a4662e5435a97adb22e235d to UB_STATIC.checkSum_C:\ubProject\CityPortal\node_modules\@unitybase\uba\public\
+20180415 18262223  #  -    	00.005.579
+20180415 18262223  #  +    	ubApp.TubApp(02943EE0).008CA69A 
+20180415 18262223  # debug 		FOLDER_CHECKSUM: calc folder checksum C:\ubProject\CityPortal\node_modules\@unitybase\ubs\public\
+20180415 18262224  # debug 		FOLDER_CHECKSUM: put folder checksum 09ae0381f4412f542ab1aadbbe332ebf to UB_STATIC.checkSum_C:\ubProject\CityPortal\node_modules\@unitybase\ubs\public\
+20180415 18262224  #  -    	00.012.497
+20180415 18262224  #  +    	ubApp.TubApp(02943EE0).008CA69A 
+20180415 18262224  # debug 		FOLDER_CHECKSUM: calc folder checksum C:\ubProject\CityPortal\node_modules\@unitybase\ubm\public\
+20180415 18262224  # debug 		FOLDER_CHECKSUM: put folder checksum dc6e83da37c06ee25743d7dbdcd06b0e to UB_STATIC.checkSum_C:\ubProject\CityPortal\node_modules\@unitybase\ubm\public\
+20180415 18262224  #  -    	00.004.776
+20180415 18262224  #  +    	ubApp.TubApp(02943EE0).008CA69A 
+20180415 18262224  # debug 		FOLDER_CHECKSUM: calc folder checksum C:\ubProject\CityPortal\node_modules\@unitybase\ub-pub\
+20180415 18262225  # debug 		FOLDER_CHECKSUM: put folder checksum cbdc3e54b9e8fec97c835c258b8ab6ad to UB_STATIC.checkSum_C:\ubProject\CityPortal\node_modules\@unitybase\ub-pub\
+20180415 18262225  #  -    	00.007.138
+20180415 18262225  #  +    	ubApp.TubApp(02943EE0).008CA69A 
+20180415 18262225  # debug 		FOLDER_CHECKSUM: calc folder checksum C:\ubProject\CityPortal\node_modules\@unitybase\adminui-pub\
+20180415 18262240  # debug 		FOLDER_CHECKSUM: put folder checksum d8933199bb724b06e155d3bbe71a5c41 to UB_STATIC.checkSum_C:\ubProject\CityPortal\node_modules\@unitybase\adminui-pub\
+20180415 18262240  #  -    	00.243.030
+20180415 18262240  #  +    	ubApp.TubApp(02943EE0).008CA69A 
+20180415 18262240  # debug 		FOLDER_CHECKSUM: calc folder checksum C:\ubProject\CityPortal\node_modules\@unitybase\adminui-reg\public\
+20180415 18262240  # debug 		FOLDER_CHECKSUM: put folder checksum f1d3ff8443297732862df21dc4e57262 to UB_STATIC.checkSum_C:\ubProject\CityPortal\node_modules\@unitybase\adminui-reg\public\
+20180415 18262240  #  -    	00.000.066
+20180415 18262240  #  +    	ubApp.TubApp(02943EE0).008CA69A 
+20180415 18262240  # debug 		FOLDER_CHECKSUM: calc folder checksum C:\ubProject\CityPortal\models\requests\public\
+20180415 18262241  # debug 		FOLDER_CHECKSUM: put folder checksum 76af31ebdb00701a3b4cdf2c71988eff to UB_STATIC.checkSum_C:\ubProject\CityPortal\models\requests\public\
+20180415 18262241  #  -    	00.016.593
+20180415 18262242  # ERROR 	invalid path models/adminui-pub/themes/UBGrayTheme/UBGrayTheme-all.css 
+20180415 18262242  #  +    	ubApp.TubApp(02943EE0).008CA40C 
+20180415 18262242  # debug 		STATIC_SCECKSUM: Calc file checksum 
+20180415 18262242  # debug 		STATIC_SCECKSUM: put file checksum d41d8cd98f00b204e9800998ecf8427e to UB_STATIC.checkSum_
+20180415 18262242  #  -    	00.000.004
+20180415 18262242  # ERROR 	invalid path models/adminui-pub/ub-css-all.css 
+20180415 18262242  # ERROR 	invalid path models/adminui-pub/themes/UBGrayTheme/ub.css 
+20180415 18262242  # ERROR 	invalid path clientRequire/systemjs/dist/system.js 
+20180415 18262242  # ERROR 	invalid path models/adminui-pub/dist/ext-all.min.js 
+20180415 18262242  # info  	Generate index.mustache from template C:\ubProject\CityPortal\node_modules\@unitybase\adminui-pub\index.mustache 
+20180415 18262242  # http  	127.0.0.1 <- 200
+20180415 18262242  #  -    00.563.907
+20180415 18262246  $  +    models/adminui-pub/themes/UBGrayTheme/UBGrayTheme-all.css?ver=d41d8cd98f00b204e9800998ecf8427e
+20180415 18262246  $ http  	127.0.0.1 -> GET models/adminui-pub/themes/UBGrayTheme/UBGrayTheme-all.css?ver=d41d8cd98f00b204e9800998ecf8427e
+20180415 18262246  $ debug 	Create new JavaScript Engine for thread 39072
+20180415 18262246  %  +    models/adminui-pub/ub-css-all.css?ver=d41d8cd98f00b204e9800998ecf8427e
+20180415 18262246  % http  	127.0.0.1 -> GET models/adminui-pub/ub-css-all.css?ver=d41d8cd98f00b204e9800998ecf8427e
+20180415 18262246  &  +    clientRequire/font-awesome/css/font-awesome.min.css
+20180415 18262246  & http  	127.0.0.1 -> GET clientRequire/font-awesome/css/font-awesome.min.css
+20180415 18262246  '  +    models/adminui-pub/themes/UBGrayTheme/ub.css?ver=d41d8cd98f00b204e9800998ecf8427e
+20180415 18262246  ' http  	127.0.0.1 -> GET models/adminui-pub/themes/UBGrayTheme/ub.css?ver=d41d8cd98f00b204e9800998ecf8427e
+20180415 18262246  (  +    clientRequire/es6-promise/dist/es6-promise.auto.min.js
+20180415 18262246  ( http  	127.0.0.1 -> GET clientRequire/es6-promise/dist/es6-promise.auto.min.js
+20180415 18262246  )  +    clientRequire/systemjs/dist/system.js?ver=d41d8cd98f00b204e9800998ecf8427e
+20180415 18262246  ) http  	127.0.0.1 -> GET clientRequire/systemjs/dist/system.js?ver=d41d8cd98f00b204e9800998ecf8427e
+20180415 18262251  % debug 	Create new JavaScript Engine for thread 31012
+20180415 18262255  & debug 	Create new JavaScript Engine for thread 40688
+20180415 18262259  ' debug 	Create new JavaScript Engine for thread 39556
+20180415 18262302  ( debug 	Create new JavaScript Engine for thread 38652
+20180415 18262308  ) debug 	Create new JavaScript Engine for thread 28868
+20180415 18262313  $ call  	endpoint models
+20180415 18262317  % call  	endpoint models
+20180415 18262323  & call  	endpoint clientRequire
+20180415 18262323  & info  	Call clientRequire 
+20180415 18262323  $ http  	127.0.0.1 <- 200
+20180415 18262323  $  -    00.638.504
+20180415 18262323  % http  	127.0.0.1 <- 200
+20180415 18262323  %  -    00.642.345
+20180415 18262326  "  +    models/adminui-pub/dist/ext-all.min.js?ver=d41d8cd98f00b204e9800998ecf8427e
+20180415 18262326  " http  	127.0.0.1 -> GET models/adminui-pub/dist/ext-all.min.js?ver=d41d8cd98f00b204e9800998ecf8427e
+20180415 18262326  " call  	endpoint models
+20180415 18262327  ' call  	endpoint models
+20180415 18262330  & http  	127.0.0.1 <- 200
+20180415 18262330  &  -    00.737.587
+20180415 18262332  " http  	127.0.0.1 <- 200
+20180415 18262332  "  -    00.093.991
+20180415 18262335  ( call  	endpoint clientRequire
+20180415 18262335  ' http  	127.0.0.1 <- 200
+20180415 18262335  '  -    00.824.978
+20180415 18262335  ( info  	Call clientRequire 
+20180415 18262338  ) call  	endpoint clientRequire
+20180415 18262338  ) info  	Call clientRequire 
+20180415 18262338  #  +    clientRequire/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+20180415 18262338  # http  	127.0.0.1 -> GET clientRequire/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+20180415 18262338  # call  	endpoint clientRequire
+20180415 18262338  # info  	Call clientRequire 
+20180415 18262339  ( http  	127.0.0.1 <- 200
+20180415 18262339  (  -    00.893.157
+20180415 18262342  ) http  	127.0.0.1 <- 200
+20180415 18262342  )  -    00.940.219
+20180415 18262343  # http  	127.0.0.1 <- 200
+20180415 18262343  #  -    00.074.032
+20180415 18262361  %  +    clientRequire/@unitybase/adminui-pub/package.json
+20180415 18262361  % http  	127.0.0.1 -> GET clientRequire/@unitybase/adminui-pub/package.json
+20180415 18262361  % call  	endpoint clientRequire
+20180415 18262361  % info  	Call clientRequire 
+20180415 18262361  % http  	127.0.0.1 <- 200
+20180415 18262361  %  -    00.001.917
+20180415 18262362  $  +    clientRequire/@unitybase/adminui-pub/dist/adminui.app.min.js
+20180415 18262362  $ http  	127.0.0.1 -> GET clientRequire/@unitybase/adminui-pub/dist/adminui.app.min.js
+20180415 18262362  $ call  	endpoint clientRequire
+20180415 18262362  $ info  	Call clientRequire 
+20180415 18262362  $ http  	127.0.0.1 <- 200
+20180415 18262362  $  -    00.002.009
+20180415 18262403  &  +    models/UB/img/UBLogo32.png
+20180415 18262403  & http  	127.0.0.1 -> GET models/UB/img/UBLogo32.png
+20180415 18262403  & call  	endpoint models
+20180415 18262403  & http  	127.0.0.1 <- 200
+20180415 18262403  &  -    00.002.172
+20180415 18262404  "  +    models/UB/img/UBLogo48.png
+20180415 18262404  " http  	127.0.0.1 -> GET models/UB/img/UBLogo48.png
+20180415 18262404  " call  	endpoint models
+20180415 18262404  " http  	127.0.0.1 <- 200
+20180415 18262404  "  -    00.001.184
+20180415 18262414  '  +    getAppInfo
+20180415 18262414  ' http  	127.0.0.1 -> GET getAppInfo
+20180415 18262414  ' call  	endpoint getAppInfo
+20180415 18262414  (  +    clientRequire/@unitybase/adminui-pub/themes/UBGrayTheme/UBGrayTheme.js
+20180415 18262414  ( http  	127.0.0.1 -> GET clientRequire/@unitybase/adminui-pub/themes/UBGrayTheme/UBGrayTheme.js
+20180415 18262414  ( call  	endpoint clientRequire
+20180415 18262414  ' http  	127.0.0.1 <- 304
+20180415 18262414  ( info  	Call clientRequire 
+20180415 18262414  '  -    00.001.059
+20180415 18262414  ( http  	127.0.0.1 <- 200
+20180415 18262414  (  -    00.002.972
+20180415 18262414  )  +    models/UB/img/UBLogo128.png
+20180415 18262414  ) http  	127.0.0.1 -> GET models/UB/img/UBLogo128.png
+20180415 18262414  ) call  	endpoint models
+20180415 18262414  ) http  	127.0.0.1 <- 200
+20180415 18262414  )  -    00.001.606
+20180415 18262414  #  +    models/adminui-pub/locale/lang-en.js?ubver=d8933199bb724b06e155d3bbe71a5c41
+20180415 18262414  # http  	127.0.0.1 -> GET models/adminui-pub/locale/lang-en.js?ubver=d8933199bb724b06e155d3bbe71a5c41
+20180415 18262414  # call  	endpoint models
+20180415 18262414  # http  	127.0.0.1 <- 200
+20180415 18262414  #  -    00.001.163
+20180415 18262415  %  +    models/UB/img/UBLogo16.ico
+20180415 18262415  % http  	127.0.0.1 -> GET models/UB/img/UBLogo16.ico
+20180415 18262415  % call  	endpoint models
+20180415 18262415  % http  	127.0.0.1 <- 200
+20180415 18262415  %  -    00.000.988
+20180415 18262417  $  +    models/adminui-pub/themes/UBGrayTheme/images/form/exclamation.png
+20180415 18262417  $ http  	127.0.0.1 -> GET models/adminui-pub/themes/UBGrayTheme/images/form/exclamation.png
+20180415 18262417  $ call  	endpoint models
+20180415 18262417  $ http  	127.0.0.1 <- 200
+20180415 18262417  $  -    00.000.863
+20180415 18262540  &  +    auth?AUTHTYPE=UB&userName=admin
+20180415 18262540  & http  	127.0.0.1 -> POST auth?AUTHTYPE=UB&userName=admin
+20180415 18262540  & call  	endpoint auth
+20180415 18262541  & http  	127.0.0.1 <- 200
+20180415 18262541  &  -    00.005.112
+20180415 18262541  "  +    auth?AUTHTYPE=UB&clientNonce=18ab2af54132341248b398ea44a8208cce6977f0ad7e21fc7116f3f9d7e79e72&password=4d7444b2f10ab098d139cc1c0fd2ebe799810ea1ed947665cdf45f3309a1999f&userName=admin
+20180415 18262541  " http  	127.0.0.1 -> POST auth?AUTHTYPE=UB&clientNonce=18ab2af54132341248b398ea44a8208cce6977f0ad7e21fc7116f3f9d7e79e72&password=4d7444b2f10ab098d139cc1c0fd2ebe799810ea1ed947665cdf45f3309a1999f&userName=admin
+20180415 18262541  " call  	endpoint auth
+20180415 18262541  "  +    	ubApp.TubDataStore(0F18D550).Init
+20180415 18262541  "  +    		ubApp.TubApp(02943EE0).DBExecute
+20180415 18262541  "  +    			ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18262541  " debug 				P1: String(5)	admin
+20180415 18262541  " SQL   				ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F7630) select id, name, uPasswordHashHexa, uData, isPending, trustedIP from UBA_USER where name=? and disabled=0
+20180415 18262541  "  -    			00.000.064
+20180415 18262541  "  -    		00.000.153
+20180415 18262541  " debug 		Query result for entity "uba_user" into data name "": row count=1
+20180415 18262541  "  -    	00.000.166
+20180415 18262541  "  +    	ubApp.TubDataStore(0F18D550).Init
+20180415 18262541  "  +    		ubApp.TubApp(02943EE0).DBExecute
+20180415 18262541  "  +    			ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18262541  " debug 				P1: Int64		10
+20180415 18262541  " SQL   				ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F76F0) SELECT lastPasswordChangeDate FROM uba_user WHERE id=?
+20180415 18262541  "  -    			00.000.020
+20180415 18262541  "  -    		00.000.043
+20180415 18262541  " debug 		Query result for entity "uba_user" into data name "__expireDate": row count=1
+20180415 18262541  "  -    	00.000.053
+20180415 18262541  "  +    	ubApp.TubDataStore(0F18DBB8).Init
+20180415 18262541  "  +    		ubApp.TubApp(02943EE0).DBExecute
+20180415 18262541  "  +    			ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18262541  " debug 				P1: Int64		10
+20180415 18262541  " SQL   				ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F8AD0) SELECT A01.roleID,A02.name,A02.description  FROM uba_userrole A01  INNER JOIN uba_role A02 ON A02.ID=A01.roleID  WHERE A01.userID=?
+20180415 18262541  "  -    			00.000.045
+20180415 18262541  "  -    		00.000.085
+20180415 18262541  " debug 		Query result for entity "uba_userrole" into data name "": row count=1
+20180415 18262541  "  -    	00.000.094
+20180415 18262541  " auth  	New session admin/90247665 created at 127.0.0.1/-576460750692810697 using Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+20180415 18262541  "  +    	ubMixinClasses.TubStorageMixin(029942C0).MixinMethod
+20180415 18262541  " debug 		uba_user.select(TubStorageMixin)
+20180415 18262541  "  +    		ubApp.TubDataStore(0F18DBB8).Init
+20180415 18262541  "  +    			ubApp.TubApp(02943EE0).DBExecute
+20180415 18262541  "  +    				ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18262541  " debug 					P1: Int64		10
+20180415 18262541  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F8CB0) SELECT A01.name  FROM uba_user A01  WHERE A01.ID=?
+20180415 18262541  "  -    				00.000.038
+20180415 18262541  "  -    			00.000.079
+20180415 18262541  " debug 			Query result for entity "uba_user" into data name "": row count=1
+20180415 18262541  "  -    		00.000.091
+20180415 18262541  "  -    	00.000.153
+20180415 18262541  "  +    	ubMixinClasses.TubStorageMixin(029942C0).MixinMethod
+20180415 18262541  " debug 		uba_advSecurity.select(TubStorageMixin)
+20180415 18262541  "  +    		ubApp.TubDataStore(0F18DBB8).Init
+20180415 18262541  "  +    			ubApp.TubApp(02943EE0).DBExecute
+20180415 18262541  "  +    				ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18262541  " debug 					P1: Int64		10
+20180415 18262541  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F8D10) SELECT A01.ID,A01.allowedIP,A01.refreshIP,A01.fp,A01.refreshFp,A01.keyMediaName,A01.refreshKeyMedia,A01.mi_modifyDate  FROM uba_advSecurity A01  WHERE A01.userID=?
+20180415 18262541  "  -    				00.000.062
+20180415 18262541  "  -    			00.000.160
+20180415 18262541  " debug 			Query result for entity "uba_advSecurity" into data name "": row count=0
+20180415 18262541  "  -    		00.000.186
+20180415 18262541  "  -    	00.000.269
+20180415 18262541  "  +    	ubMixinClasses.TubStorageMixin(029942C0).MixinMethod
+20180415 18262541  " debug 		uba_userrole.select(TubStorageMixin)
+20180415 18262541  "  +    		ubApp.TubDataStore(0F18DBB8).Init
+20180415 18262541  "  +    			ubApp.TubApp(02943EE0).DBExecute
+20180415 18262541  "  +    				ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18262541  " debug 					P1: Int64		10
+20180415 18262541  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F8DD0) SELECT A01.ID,A02.name,A01.roleID  FROM uba_userrole A01  INNER JOIN uba_role A02 ON A02.ID=A01.roleID  WHERE A01.userID=?
+20180415 18262541  "  -    				00.000.059
+20180415 18262541  "  -    			00.000.126
+20180415 18262541  " debug 			Query result for entity "uba_userrole" into data name "": row count=1
+20180415 18262541  "  -    		00.000.134
+20180415 18262541  "  -    	00.000.218
+20180415 18262541  "  +    	ubMixinClasses.TubStorageMixin(029942C0).MixinMethod
+20180415 18262541  " debug 		uba_audit.beforeinsert(TubStorageMixin)
+20180415 18262541  "  -    	00.000.009
+20180415 18262541  "  +    	ubMixinClasses.TubStorageMixin(029942C0).MixinMethod
+20180415 18262541  " debug 		uba_audit.insert(TubStorageMixin)
+20180415 18262541  "  +    		ubApp.TubDataStore(0D8D0DE0).TubDataStore.ExecuteInsertFromList
+20180415 18262541  "  +    			ubApp.TubDataStore(0D8D0DE0).TubDataStore.ExecuteInsertFromSQL
+20180415 18262541  "  +    				ubApp.TubApp(02943EE0).DBExecute
+20180415 18262541  "  +    					ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18262541  " debug 						P1: String(8)	uba_user
+20180415 18262541  " debug 						P2: Int64		10
+20180415 18262541  " debug 						P3: String(5)	LOGIN
+20180415 18262541  " debug 						P4: Int64		10
+20180415 18262541  " debug 						P5: DateTime	2018-04-15T18:26:25
+20180415 18262541  " debug 						P6: String(9)	127.0.0.1
+20180415 18262541  " debug 						P7: String(5)	admin
+20180415 18262541  " debug 						P8: String(0)	
+20180415 18262541  " debug 						P9: Int64		335786036920321
+20180415 18262541  " debug 						P10: String(556..)	Connection: keep-alive  Content-Length: 0  Accept: application/json, text/plain, */*  Accept-Encodin...
+20180415 18262541  " DB    						StartTransaction for connection "main"
+20180415 18262541  " SQL   						ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F8E90) INSERT INTO uba_audit (entity,entityinfo_id,actionType,actionUser,actionTime,remoteIP,targetUser,targetRole,ID,fromValue) VALUES (?,?,?,?,?,?,?,?,?,?)
+20180415 18262541  "  -    					00.000.153
+20180415 18262541  "  -    				00.000.155
+20180415 18262541  "  -    			00.000.260
+20180415 18262541  "  -    		00.000.272
+20180415 18262541  "  -    	00.000.274
+20180415 18262541  "  +    	ubMixinClasses.TubStorageMixin(029942C0).MixinMethod
+20180415 18262541  " debug 		uba_audit.afterinsert(TubStorageMixin)
+20180415 18262541  "  -    	00.000.005
+20180415 18262541  " DB    	Commit connection "main"
+20180415 18262541  " http  	127.0.0.1 <- 200
+20180415 18262541  "  -    00.006.354
+20180415 18262541  '  +    getDomainInfo?userName=admin&v=4
+20180415 18262541  ' http  	127.0.0.1 -> GET getDomainInfo?userName=admin&v=4
+20180415 18262541  ' auth  	admin/90247665
+20180415 18262541  ' call  	endpoint getDomainInfo
+20180415 18262541  ' http  	127.0.0.1 <- 304
+20180415 18262541  '  -    00.001.766
+20180415 18262543  (  +    models/UB/locale/lang-en.js?ubver=00157f1fae1f03ef6a703e934be7d698
+20180415 18262543  ( http  	127.0.0.1 -> GET models/UB/locale/lang-en.js?ubver=00157f1fae1f03ef6a703e934be7d698
+20180415 18262543  ( call  	endpoint models
+20180415 18262543  )  +    models/UBA/locale/lang-en.js?ubver=a32940308a4662e5435a97adb22e235d
+20180415 18262543  ) http  	127.0.0.1 -> GET models/UBA/locale/lang-en.js?ubver=a32940308a4662e5435a97adb22e235d
+20180415 18262543  ) call  	endpoint models
+20180415 18262543  #  +    models/UBS/locale/lang-en.js?ubver=09ae0381f4412f542ab1aadbbe332ebf
+20180415 18262543  # http  	127.0.0.1 -> GET models/UBS/locale/lang-en.js?ubver=09ae0381f4412f542ab1aadbbe332ebf
+20180415 18262543  # call  	endpoint models
+20180415 18262543  ) http  	127.0.0.1 <- 200
+20180415 18262543  )  -    00.000.815
+20180415 18262543  ( http  	127.0.0.1 <- 200
+20180415 18262543  (  -    00.001.293
+20180415 18262543  # http  	127.0.0.1 <- 200
+20180415 18262543  #  -    00.000.818
+20180415 18262543  %  +    models/UBM/locale/lang-en.js?ubver=dc6e83da37c06ee25743d7dbdcd06b0e
+20180415 18262543  % http  	127.0.0.1 -> GET models/UBM/locale/lang-en.js?ubver=dc6e83da37c06ee25743d7dbdcd06b0e
+20180415 18262543  % call  	endpoint models
+20180415 18262543  % http  	127.0.0.1 <- 200
+20180415 18262543  %  -    00.000.780
+20180415 18262543  $  +    clientRequire/@unitybase/ubs/package.json
+20180415 18262543  $ http  	127.0.0.1 -> GET clientRequire/@unitybase/ubs/package.json
+20180415 18262543  $ call  	endpoint clientRequire
+20180415 18262543  $ info  	Call clientRequire 
+20180415 18262543  $ http  	127.0.0.1 <- 200
+20180415 18262543  $  -    00.000.975
+20180415 18262545  &  +    clientRequire/@unitybase/ubs/public/initModel.js
+20180415 18262545  & http  	127.0.0.1 -> GET clientRequire/@unitybase/ubs/public/initModel.js
+20180415 18262545  & call  	endpoint clientRequire
+20180415 18262545  & info  	Call clientRequire 
+20180415 18262545  & http  	127.0.0.1 <- 200
+20180415 18262545  &  -    00.001.067
+20180415 18262545  "  +    clientRequire/@unitybase/ubs/public/dist/ubs.main.min.js?ubver=2018-04-15T20:26:14
+20180415 18262545  " http  	127.0.0.1 -> GET clientRequire/@unitybase/ubs/public/dist/ubs.main.min.js?ubver=2018-04-15T20:26:14
+20180415 18262545  " call  	endpoint clientRequire
+20180415 18262545  '  +    clientRequire/@unitybase/ubm/package.json
+20180415 18262545  ' http  	127.0.0.1 -> GET clientRequire/@unitybase/ubm/package.json
+20180415 18262545  ' call  	endpoint clientRequire
+20180415 18262545  " info  	Call clientRequire 
+20180415 18262545  ' info  	Call clientRequire 
+20180415 18262545  " http  	127.0.0.1 <- 200
+20180415 18262545  "  -    00.001.675
+20180415 18262545  ' http  	127.0.0.1 <- 200
+20180415 18262545  '  -    00.001.254
+20180415 18262546  )  +    clientRequire/@unitybase/ubm/public/initModel.js
+20180415 18262546  ) http  	127.0.0.1 -> GET clientRequire/@unitybase/ubm/public/initModel.js
+20180415 18262546  ) call  	endpoint clientRequire
+20180415 18262546  ) info  	Call clientRequire 
+20180415 18262546  ) http  	127.0.0.1 <- 200
+20180415 18262546  )  -    00.001.259
+20180415 18262549  (  +    ubql
+20180415 18262549  ( http  	127.0.0.1 -> POST ubql
+20180415 18262549  ( http  	[{"entity":"ubs_settings","method":"select","fieldList":["ID","settingKey","name","description","type","settingValue","defaultValue"],"version":"1523736113"},{"entity":"ubm_desktop","method":"select","fieldList":["ID","caption","code","url","isDefault","mi_owner","mi_createDate","mi_createUser","mi_modifyDate","mi_modifyUser","mi_deleteDate","mi_deleteUser"],"version":"-1"},{"entity":"ubm_form","method":"select","fieldList":["ID","code","description","caption","formType","formDef","formCode","model","entity","isDefault","mi_owner","mi_createDate","mi_createUser","mi_modifyDate","mi_modifyUser"],"version":3604090486},{"entity":"ubm_enum","method":"select","fieldList":["ID","eGroup","code","shortName","name","sortOrder","mi_owner","mi_createDate","mi_createUser","mi_modifyDate","mi_modifyUser","mi_deleteDate","mi_deleteUser"],"version":"1523803103"}]
+20180415 18262549  ( auth  	admin/90247665
+20180415 18262549  ( call  	endpoint ubql
+20180415 18262549  (  +    	ubMixinClasses.TubStorageMixin(029942C0).MixinMethod
+20180415 18262549  ( debug 		ubs_settings.select(TubStorageMixin)
+20180415 18262549  (  +    		ubApp.TubDataStore(0F18DE88).Init
+20180415 18262549  (  +    			ubApp.TubApp(02943EE0).DBExecute
+20180415 18262549  (  +    				ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18262549  (  +    					00856EC2 
+20180415 18262549  (  -    					00.007.561
+20180415 18262549  ( SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F95B0) PRAGMA foreign_keys = ON
+20180415 18262549  ( SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F8F50) SELECT ( (SELECT COALESCE(strftime('%s',  MAX(mi_modifyDate)),1) FROM ubs_settings) ) AS dataVersion
+20180415 18262549  (  -    				00.007.603
+20180415 18262549  (  -    			00.007.646
+20180415 18262549  ( debug 			Query result for entity "ubs_settings" into data name "": row count=1
+20180415 18262549  (  -    		00.007.655
+20180415 18262549  (  -    	00.007.746
+20180415 18262549  (  +    	ubMixinClasses.TubRLSMixin(02994E20).MixinMethod
+20180415 18262549  ( debug 		ubm_desktop.select(TubRLSMixin)
+20180415 18262549  ( debug 		Prepare RLS expression for ubm_desktop
+20180415 18262549  (  +    		ubApp.TubDataStore(0F18E018).Init
+20180415 18262549  (  +    			ubApp.TubApp(02943EE0).DBExecute
+20180415 18262549  (  +    				ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18262549  ( SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F8C50) select ID, name FROM uba_role
+20180415 18262549  (  -    				00.000.042
+20180415 18262549  (  -    			00.000.129
+20180415 18262549  ( debug 			Query result for entity "uba_role" into data name "": row count=7
+20180415 18262549  (  -    		00.000.139
+20180415 18262549  (  -    	00.001.293
+20180415 18262549  (  +    	ubMixinClasses.TubStorageMixin(029942C0).MixinMethod
+20180415 18262549  ( debug 		ubm_desktop.select(TubStorageMixin)
+20180415 18262549  (  +    		ubApp.TubDataStore(0F18DE10).Init
+20180415 18262549  (  +    			ubApp.TubApp(02943EE0).DBExecute
+20180415 18262549  (  +    				ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18262549  ( debug 					P1: Int64		10
+20180415 18262549  ( debug 					P2: Int64		10
+20180415 18262549  ( debug 					P3: DateTime	9999-12-31T00:00:00
+20180415 18262549  ( SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F95B0) SELECT A01.ID,A01.caption,A01.code,A01.url,A01.isDefault,A01.mi_owner,A01.mi_createDate,A01.mi_createUser,A01.mi_modifyDate,A01.mi_modifyUser,A01.mi_deleteDate,A01.mi_deleteUser  FROM ubm_desktop A01  WHERE (( A01.mi_owner = ? ) OR (1=1) OR exists (select 1 from ubm_desktop_adm admsubtable where admsubtable.instanceID = A01.ID and admsubtable.admSubjID in (select ur.RoleID from uba_userrole ur where ur.UserID = ? union select 10))) AND A01.mi_deleteDate=?
+20180415 18262549  (  -    				00.000.114
+20180415 18262549  (  -    			00.000.174
+20180415 18262549  ( debug 			Query result for entity "ubm_desktop" into data name "": row count=2
+20180415 18262549  (  -    		00.000.190
+20180415 18262549  (  -    	00.000.334
+20180415 18262551  (  +    	ubMixinClasses.TubStorageMixin(029942C0).MixinMethod
+20180415 18262551  ( debug 		ubm_enum.select(TubStorageMixin)
+20180415 18262551  (  +    		ubApp.TubDataStore(0F18FD28).Init
+20180415 18262551  (  +    			ubApp.TubApp(02943EE0).DBExecute
+20180415 18262551  (  +    				ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18262551  ( SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F9670) SELECT ( (SELECT COALESCE(strftime('%s',  MAX(mi_modifyDate)),1) FROM ubm_enum) ) AS dataVersion
+20180415 18262551  (  -    				00.000.060
+20180415 18262551  (  -    			00.000.138
+20180415 18262551  ( debug 			Query result for entity "ubm_enum" into data name "": row count=1
+20180415 18262551  (  -    		00.000.145
+20180415 18262551  (  -    	00.000.261
+20180415 18262551  ( http  	127.0.0.1 <- 200
+20180415 18262551  (  -    00.043.429
+20180415 18262554  #  +    ubql
+20180415 18262554  # http  	127.0.0.1 -> POST ubql
+20180415 18262554  # http  	[{"entity":"ubm_navshortcut","method":"select","fieldList":["ID","desktopID","parentID","code","isFolder","caption","inWindow","isCollapsed","displayOrder","iconCls","mi_modifyDate"],"orderList":{"0":{"expression":"desktopID","order":"asc"},"1":{"expression":"parentID","order":"asc"},"2":{"expression":"displayOrder","order":"asc"},"3":{"expression":"caption","order":"asc"}}}]
+20180415 18262554  # auth  	admin/90247665
+20180415 18262554  # call  	endpoint ubql
+20180415 18262554  #  +    	ubMixinClasses.TubRLSMixin(02994E20).MixinMethod
+20180415 18262554  # debug 		ubm_navshortcut.select(TubRLSMixin)
+20180415 18262554  # debug 		Prepare RLS expression for ubm_navshortcut
+20180415 18262554  #  +    		ubApp.TubDataStore(0F18E090).Init
+20180415 18262554  #  +    			ubApp.TubApp(02943EE0).DBExecute
+20180415 18262554  #  +    				ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18262554  #  +    					00856EC2 
+20180415 18262554  #  -    					00.003.117
+20180415 18262554  # SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F9C70) PRAGMA foreign_keys = ON
+20180415 18262554  # SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F8BF0) select ID, name FROM uba_role
+20180415 18262554  #  -    				00.003.152
+20180415 18262554  #  -    			00.003.199
+20180415 18262554  # debug 			Query result for entity "uba_role" into data name "": row count=7
+20180415 18262554  #  -    		00.003.210
+20180415 18262554  #  -    	00.004.207
+20180415 18262554  #  +    	ubMixinClasses.TubStorageMixin(029942C0).MixinMethod
+20180415 18262554  # debug 		ubm_navshortcut.select(TubStorageMixin)
+20180415 18262554  #  +    		ubApp.TubDataStore(0F18DE10).Init
+20180415 18262554  #  +    			ubApp.TubApp(02943EE0).DBExecute
+20180415 18262554  #  +    				ubApp.TubApp(02943EE0).TubApp.InternalDBExecute
+20180415 18262554  # debug 					P1: Int64		10
+20180415 18262554  # debug 					P2: Int64		10
+20180415 18262554  # debug 					P3: DateTime	9999-12-31T00:00:00
+20180415 18262554  # SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(029F9D30) SELECT A01.ID,A01.desktopID,A01.parentID,A01.code,A01.isFolder,A01.caption,A01.inWindow,A01.isCollapsed,A01.displayOrder,A01.iconCls,A01.mi_modifyDate  FROM ubm_navshortcut A01  WHERE (( A01.mi_owner = ? ) OR                (1=1) OR                              exists (select 1 from ubm_navshortcut_adm admsubtable where admsubtable.instanceID = A01.ID and admsubtable.admSubjID in (select ur.RoleID from uba_userrole ur where ur.UserID = ? union select 10))) AND A01.mi_deleteDate=? ORDER BY 2 ASC,3 ASC,9 ASC,... (truncated) length=517
+20180415 18262554  #  -    				00.000.122
+20180415 18262554  #  -    			00.000.331
+20180415 18262554  # debug 			Query result for entity "ubm_navshortcut" into data name "": row count=33
+20180415 18262554  #  -    		00.000.363
+20180415 18262554  #  -    	00.000.522
+20180415 18262554  # http  	127.0.0.1 <- 200
+20180415 18262554  #  -    00.005.503
+20180415 18262559  %  +    models/adminui-pub/themes/UBGrayTheme/images/toolbar/more.png
+20180415 18262559  % http  	127.0.0.1 -> GET models/adminui-pub/themes/UBGrayTheme/images/toolbar/more.png
+20180415 18262559  % call  	endpoint models
+20180415 18262559  $  +    models/adminui-pub/themes/UBGrayTheme/images/grid/hd-pop.png
+20180415 18262559  $ http  	127.0.0.1 -> GET models/adminui-pub/themes/UBGrayTheme/images/grid/hd-pop.png
+20180415 18262559  $ call  	endpoint models
+20180415 18262559  $ http  	127.0.0.1 <- 200
+20180415 18262559  $  -    00.001.053
+20180415 18262559  % http  	127.0.0.1 <- 200
+20180415 18262559  %  -    00.001.237
+20180415 18262559  &  +    models/adminui-pub/themes/UBGrayTheme/images/button/default-toolbar-small-arrow.png
+20180415 18262559  & http  	127.0.0.1 -> GET models/adminui-pub/themes/UBGrayTheme/images/button/default-toolbar-small-arrow.png
+20180415 18262559  & call  	endpoint models
+20180415 18262559  & http  	127.0.0.1 <- 200
+20180415 18262559  &  -    00.000.968
+20180415 18263318  "  +    logout
+20180415 18263318  " http  	127.0.0.1 -> POST logout
+20180415 18263318  " http  	{}
+20180415 18263318  " http  	<- 401
+20180415 18263318  "  -    00.000.073
+20180415 18265026  ! info  ubApp.TubApp(02943EE0) {   "ClientsCurrent": 1,   "ClientsMax": 1,   "Invalid": 2,   "Responses": 36,   "Modified": 0,   "IncomingBytes": 23080,   "OutcomingBytes": 25649,   "OutcomingFiles": 29,   "ServiceCalls": 36,   "ProcessTime": "5.50s"  }

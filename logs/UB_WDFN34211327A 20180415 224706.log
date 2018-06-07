@@ -1,0 +1,541 @@
+c:\UnityBase\UB.exe 4.0.0.0 (2018-02-22 16:30:16)Host=WDFN34211327A User=D071860 CPU=4*9-6-19971:FFFBCBBF8373DAFEBF6F9C0000 OS=23.0=10.0.15063 Wow64=1 Freq=2437498Environment variables=ALLUSERSPROFILE=C:\ProgramData	ANSICON=121x32766 (121x26)	ANSICON_DEF=7	APPDATA=C:\Users\D071860\AppData\Roaming	CommonProgramFiles=C:\Program Files (x86)\Common Files	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files	CommonProgramW6432=C:\Program Files\Common Files	COMPUTERNAME=WDFN34211327A	ComSpec=C:\WINDOWS\system32\cmd.exe	ConEmuANSI=ON	ConEmuAnsiLog=	ConEmuArgs=	ConEmuArgs2=	ConEmuBackHWND=0x001105EE	ConEmuBaseDir=C:\Program Files\ConEmu\ConEmu	ConEmuBaseDirShort=C:\PROGRA~1\ConEmu\ConEmu	ConEmuBuild=180411	ConEmuCfgDir=	ConEmuConfig=	ConEmuDir=C:\Program Files\ConEmu	ConEmuDrawHWND=0x001B0306	ConEmuDrive=C:	ConEmuHooks=Enabled	ConEmuHWND=0x001904C6	ConEmuPalette=<ConEmu>	ConEmuPID=1208	ConEmuPrompt0=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S	ConEmuPrompt1=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S$E[92m$P$E[90m	ConEmuPrompt2=$_$E[90m$G	ConEmuPrompt3=$E[m$S$E]9;12$E\	ConEmuServerPID=5468	ConEmuTask={Shells::cmd}	ConEmuWorkDir=C:\Users\D071860	ConEmuWorkDrive=C:	DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Security\Logs	HOMEDRIVE=C:	homeloc=D_WDF	HOMEPATH=\Users\D071860	KUBECONFIG=C:\Practice\kubernetes\RUSLAN-KUBECONFIG	LOCALAPPDATA=C:\Users\D071860\AppData\Local	LOGONSERVER=\\DS2WDF0004	NUMBER_OF_PROCESSORS=4	OneDrive=C:\Users\D071860\OneDrive	OS=Windows_NT	Path=C:\Program Files\ConEmu\ConEmu\Scripts;C:\Program Files\ConEmu;C:\Program Files\ConEmu\ConEmu;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Docker\Docker\Resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Minikube;C:\Program Files\Kubernetes;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;c:\UnityBase;C:\Users\D071860\AppData\Local\Microsoft\WindowsApps;C:\Users\D071860\AppData\Roaming\npm	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JSE;.WSF;.WSH;.MSC	PROCESSOR_ARCHITECTURE=x86	PROCESSOR_ARCHITEW6432=AMD64	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel	PROCESSOR_LEVEL=6	PROCESSOR_REVISION=4e03	ProgramData=C:\ProgramData	ProgramFiles=C:\Program Files (x86)	ProgramFiles(x86)=C:\Program Files (x86)	ProgramW6432=C:\Program Files	PROMPT=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S$E[92m$P$E[90m$_$E[90m$G$E[m$S$E]9;12$E\	PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell	PUBLIC=C:\Users\Public	SESSIONNAME=Console	SNC_LIB=C:\Program Files (x86)\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SNC_LIB_64=C:\Program Files\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SSF_LIBRARY_PATH=C:\Program Files (x86)\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SSF_LIBRARY_PATH_64=C:\Program Files\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SystemDrive=C:	SystemRoot=C:\WINDOWS	TEMP=C:\Users\D071860\AppData\Local\Temp	TMP=C:\Users\D071860\AppData\Local\Temp	UATDATA=C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77	UB_HOME=c:\UnityBase	USERDNSDOMAIN=GLOBAL.CORP.SAP	USERDOMAIN=GLOBAL	USERDOMAIN_ROAMINGPROFILE=GLOBAL	USERNAME=D071860	USERPROFILE=C:\Users\D071860	windir=C:\WINDOWSTubLog 1.18.3488 FTS3 2018-04-15T20:47:0620180415 20470609  ! warn  WebSocket support are disabled because WSServer.host = '' in config
+20180415 20470609  !  +    ubServer.TubServer(042474E8).008863DB 
+20180415 20470609  !  +    	Init app
+20180415 20470609  ! srvr  		FTS is disabled
+20180415 20470609  ! info  		Check blob store "avatars" folder "C:\ubProject\CityPortal\avatars\": folder exists
+20180415 20470609  ! info  		Check blob store "attach" folder "C:\ubProject\CityPortal\docs\attach\": folder exists
+20180415 20470609  !  -    	00.000.490
+20180415 20470609  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ub\ modified
+20180415 20470609  !  +    		ubCommonClasses.TubThreadSafeCache(029FCB08).removeStartsWith
+20180415 20470609  !  -    		00.000.004
+20180415 20470609  !  -    	00.000.009
+20180415 20470609  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\uba\ modified
+20180415 20470609  !  +    		ubCommonClasses.TubThreadSafeCache(029FCB08).removeStartsWith
+20180415 20470609  !  -    		00.000.000
+20180415 20470609  !  -    	00.000.004
+20180415 20470609  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ubs\ modified
+20180415 20470609  !  +    		ubCommonClasses.TubThreadSafeCache(029FCB08).removeStartsWith
+20180415 20470609  !  -    		00.000.000
+20180415 20470609  !  -    	00.000.004
+20180415 20470609  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ubm\ modified
+20180415 20470609  !  +    		ubCommonClasses.TubThreadSafeCache(029FCB08).removeStartsWith
+20180415 20470609  !  -    		00.000.000
+20180415 20470609  !  -    	00.000.003
+20180415 20470609  !  +    	Folder C:\ubProject\CityPortal\_public_only_\ modified
+20180415 20470609  !  +    		ubCommonClasses.TubThreadSafeCache(029FCB08).removeStartsWith
+20180415 20470609  !  -    		00.000.000
+20180415 20470609  !  -    	00.000.004
+20180415 20470609  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\adminui-reg\ modified
+20180415 20470609  !  +    		ubCommonClasses.TubThreadSafeCache(029FCB08).removeStartsWith
+20180415 20470609  !  -    		00.000.000
+20180415 20470609  !  -    	00.000.003
+20180415 20470609  !  +    	Folder C:\ubProject\CityPortal\models\requests\ modified
+20180415 20470609  !  +    		ubCommonClasses.TubThreadSafeCache(029FCB08).removeStartsWith
+20180415 20470609  !  -    		00.000.000
+20180415 20470609  !  -    	00.000.003
+20180415 20470610  !  +    	ubApp.TubApp(02963EE0).init
+20180415 20470610  ! srvr  		Mime converters are disabled
+20180415 20470610  !  -    	00.000.004
+20180415 20470610  ! srvr  	Enable zip compresison
+20180415 20470610  ! srvr  	Send initialization request to http://localhost:888/init
+20180415 20470610  "  +    InitializationRequest
+20180415 20470610  "  +    	init
+20180415 20470610  " srvr  		Start application intialization...
+20180415 20470610  " info  		Loading domain...
+20180415 20470610  " info  		Loading model "UB" from "C:\ubProject\CityPortal\node_modules\@unitybase\ub\"
+20180415 20470610  " info  		Loading model "UBA" from "C:\ubProject\CityPortal\node_modules\@unitybase\uba\"
+20180415 20470612  " info  		Loading model "UBS" from "C:\ubProject\CityPortal\node_modules\@unitybase\ubs\"
+20180415 20470612  " info  		Loading model "UBM" from "C:\ubProject\CityPortal\node_modules\@unitybase\ubm\"
+20180415 20470612  " info  		Loading model "adminui-reg" from "C:\ubProject\CityPortal\node_modules\@unitybase\adminui-reg\"
+20180415 20470612  " info  		Loading model "RequestList" from "C:\ubProject\CityPortal\models\requests\"
+20180415 20470613  "  +    		ubApp.TubDataStore(041DFF98).Init
+20180415 20470613  "  +    			ubApp.TubApp(02963EE0).DBExecute
+20180415 20470613  "  +    				ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470613  "  +    					00856EC2 
+20180415 20470613  "  -    					00.007.968
+20180415 20470613  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A169D0) PRAGMA foreign_keys = ON
+20180415 20470613  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A16910) SELECT A01.ID,A01.entity,A01.state,A01.attribute,A01.roleName,A01.actions  FROM uba_als A01  ORDER BY A01.entity ASC
+20180415 20470613  "  -    				00.008.077
+20180415 20470613  "  -    			00.008.115
+20180415 20470613  " debug 			Query result for entity "uba_als" into data name "": row count=0
+20180415 20470613  "  -    		00.008.139
+20180415 20470613  " srvr  		The domain loaded successfully with 3 entities
+20180415 20470613  " debug 		Create new JavaScript Engine for thread 52172
+20180415 20470626  "  +    		008C234A 
+20180415 20470626  "  +    			ubApp.TubDataStore(075B2A28).Init
+20180415 20470626  "  +    				ubApp.TubApp(02963EE0).DBExecute
+20180415 20470626  "  +    					ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470626  " SQL   						ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A16D30) SELECT A01.ID,A01.name,A01.sessionTimeout,A01.allowedAppMethods  FROM uba_role A01 
+20180415 20470626  "  -    					00.000.050
+20180415 20470626  "  -    				00.000.123
+20180415 20470626  " debug 				Query result for entity "uba_role" into data name "": row count=7
+20180415 20470626  "  -    			00.000.134
+20180415 20470626  "  +    			ubApp.TubDataStore(075B2AA0).Init
+20180415 20470626  "  +    				ubApp.TubApp(02963EE0).DBExecute
+20180415 20470626  "  +    					ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470626  " SQL   						ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A16CD0) SELECT A01.ID,A01.entityMask,A01.methodMask,A01.ruleType,A01.ruleRole,A01.disabled,A01.code  FROM uba_els A01 
+20180415 20470626  "  -    					00.000.028
+20180415 20470626  "  -    				00.000.060
+20180415 20470626  " debug 				Query result for entity "uba_els" into data name "": row count=1
+20180415 20470626  "  -    			00.000.066
+20180415 20470626  "  -    		00.000.537
+20180415 20470626  " auth  		New session admin/98699543 created at 127.0.0.1/-504403148064947963 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180415 20470626  " auth  		New session anonymous/98699542 created at 127.0.0.1/-504403148064947963 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180415 20470626  "  +    		ubApp.TubDataStore(075B2CA8).Init
+20180415 20470626  "  +    			ubApp.TubApp(02963EE0).DBExecute
+20180415 20470626  "  +    				ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470626  " debug 					P1: String(34)	UBA.passwordPolicy.maxDurationDays
+20180415 20470626  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A16DF0) select settingValue from ubs_settings where settingKey =?
+20180415 20470626  "  -    				00.000.059
+20180415 20470626  "  -    			00.000.091
+20180415 20470626  " debug 			Query result for entity "ubs_settings" into data name "": row count=0
+20180415 20470626  "  -    		00.000.099
+20180415 20470626  "  +    		ubApp.TubDataStore(075B2CA8).Init
+20180415 20470626  "  +    			ubApp.TubApp(02963EE0).DBExecute
+20180415 20470626  "  +    				ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470626  " debug 					P1: String(37)	UBA.passwordPolicy.maxInvalidAttempts
+20180415 20470626  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A16DF0) select settingValue from ubs_settings where settingKey =?
+20180415 20470626  "  -    				00.000.007
+20180415 20470626  "  -    			00.000.020
+20180415 20470626  " debug 			Query result for entity "ubs_settings" into data name "": row count=0
+20180415 20470626  "  -    		00.000.025
+20180415 20470626  "  -    	00.251.972
+20180415 20470626  "  -    00.251.989
+20180415 20470626  ! srvr  	ubServer.TubServer(042474E8) {"THttpApiServer(0292A990)":{"Cloned":false,"RegisteredUrl":"http://+:888/","HTTPQueueLength":1000,"MaxBandwidth":-1,"MaxConnections":-1,"APIVersion":"HTTP API 2.0","ServerName":"UnityBase","ProcessName":""}} initialized
+20180415 20470626  !  -    00.260.864
+20180415 20470627  "  +    getAppInfo
+20180415 20470627  " http  	127.0.0.1 -> GET getAppInfo
+20180415 20470627  " call  	endpoint getAppInfo
+20180415 20470627  " http  	127.0.0.1 <- 200
+20180415 20470627  "  -    00.000.623
+20180415 20470627  #  +    auth?AUTHTYPE=UB&userName=admin
+20180415 20470627  # http  	127.0.0.1 -> GET auth?AUTHTYPE=UB&userName=admin
+20180415 20470627  # debug 	Create new JavaScript Engine for thread 52924
+20180415 20470640  # call  	endpoint auth
+20180415 20470640  # http  	127.0.0.1 <- 200
+20180415 20470640  #  -    00.205.257
+20180415 20470640  $  +    auth?AUTHTYPE=UB&clientNonce=e2e341f6fa3acba08f713aafefd0be5d2a738e8a52c64d24e2ff6efeb08a1c8c&password=d671c700a8400e845afb20d4486ea246fbc358318a3b1a55542232fd9dd09d13&userName=admin
+20180415 20470640  $ http  	127.0.0.1 -> GET auth?AUTHTYPE=UB&clientNonce=e2e341f6fa3acba08f713aafefd0be5d2a738e8a52c64d24e2ff6efeb08a1c8c&password=d671c700a8400e845afb20d4486ea246fbc358318a3b1a55542232fd9dd09d13&userName=admin
+20180415 20470640  $ debug 	Create new JavaScript Engine for thread 52956
+20180415 20470652  $ call  	endpoint auth
+20180415 20470652  $  +    	ubApp.TubDataStore(07D48FC8).Init
+20180415 20470652  $  +    		ubApp.TubApp(02963EE0).DBExecute
+20180415 20470652  $  +    			ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470652  $  +    				00856EC2 
+20180415 20470652  $  -    				00.004.287
+20180415 20470652  $ SQL   				ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A17630) PRAGMA foreign_keys = ON
+20180415 20470652  $ debug 				P1: String(5)	admin
+20180415 20470652  $ SQL   				ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A17510) select id, name, uPasswordHashHexa, uData, isPending, trustedIP from UBA_USER where name=? and disabled=0
+20180415 20470652  $  -    			00.004.336
+20180415 20470652  $  -    		00.004.383
+20180415 20470652  $ debug 		Query result for entity "uba_user" into data name "": row count=1
+20180415 20470652  $  -    	00.004.399
+20180415 20470652  $  +    	ubApp.TubDataStore(07D48FF0).Init
+20180415 20470652  $  +    		ubApp.TubApp(02963EE0).DBExecute
+20180415 20470652  $  +    			ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470652  $ debug 				P1: Int64		10
+20180415 20470652  $ SQL   				ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A17690) SELECT A01.roleID,A02.name,A02.description  FROM uba_userrole A01  INNER JOIN uba_role A02 ON A02.ID=A01.roleID  WHERE A01.userID=?
+20180415 20470652  $  -    			00.000.036
+20180415 20470652  $  -    		00.000.082
+20180415 20470652  $ debug 		Query result for entity "uba_userrole" into data name "": row count=1
+20180415 20470652  $  -    	00.000.090
+20180415 20470652  $ auth  	New session admin/98699537 created at 127.0.0.1/-504403148064947963 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180415 20470652  $  +    	ubMixinClasses.TubStorageMixin(029B42C0).MixinMethod
+20180415 20470652  $ debug 		uba_user.select(TubStorageMixin)
+20180415 20470652  $  +    		ubApp.TubDataStore(07D48FF0).Init
+20180415 20470652  $  +    			ubApp.TubApp(02963EE0).DBExecute
+20180415 20470652  $  +    				ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470652  $ debug 					P1: Int64		10
+20180415 20470652  $ SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A177B0) SELECT A01.name  FROM uba_user A01  WHERE A01.ID=?
+20180415 20470652  $  -    				00.000.032
+20180415 20470652  $  -    			00.000.101
+20180415 20470652  $ debug 			Query result for entity "uba_user" into data name "": row count=1
+20180415 20470652  $  -    		00.000.110
+20180415 20470652  $  -    	00.000.171
+20180415 20470655  $  +    	ubMixinClasses.TubStorageMixin(029B42C0).MixinMethod
+20180415 20470655  $ debug 		uba_advSecurity.select(TubStorageMixin)
+20180415 20470655  $  +    		ubApp.TubDataStore(07D48FF0).Init
+20180415 20470655  $  +    			ubApp.TubApp(02963EE0).DBExecute
+20180415 20470655  $  +    				ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470655  $ EXC   					ESQLite3Exception {"ErrorCode":1,"SQLite3ErrorCode":"ERROR","Message":"Error SQLITE_ERROR (1) [SELECT A01.ID,A01.allowedIP,A01.refreshIP,A01.fp,A01.refreshFp,A01.keyMediaName,A01.refreshKeyMedia,A01.mi_modifyDate  FROM uba_advSecurity A01  WHERE A01.userID=?] using 3.17.0 - no such table: uba_advSecurity, extended_errcode=1"} at 00625076 
+20180415 20470655  $ EXC   					EMetabaseException {"errorCode":0,"Message":"Internal server error"} at 008C4B3B 
+20180415 20470655  $ EXC   					EMetabaseException {"errorCode":0,"Message":"Internal server error"} at 008C4B3B 
+20180415 20470655  $  -    				00.004.976
+20180415 20470655  $  -    			00.004.979
+20180415 20470655  $  -    		00.004.987
+20180415 20470655  $  -    	00.005.146
+20180415 20470655  $ warn  	Advanced security is disabled because table uba_advSecurity does not exists 
+20180415 20470655  $  +    	ubMixinClasses.TubStorageMixin(029B42C0).MixinMethod
+20180415 20470655  $ debug 		uba_userrole.select(TubStorageMixin)
+20180415 20470655  $  +    		ubApp.TubDataStore(07D49BF8).Init
+20180415 20470655  $  +    			ubApp.TubApp(02963EE0).DBExecute
+20180415 20470655  $  +    				ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470655  $ debug 					P1: Int64		10
+20180415 20470655  $ SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A17810) SELECT A01.ID,A02.name,A01.roleID  FROM uba_userrole A01  INNER JOIN uba_role A02 ON A02.ID=A01.roleID  WHERE A01.userID=?
+20180415 20470655  $  -    				00.000.071
+20180415 20470655  $  -    			00.000.137
+20180415 20470655  $ debug 			Query result for entity "uba_userrole" into data name "": row count=1
+20180415 20470655  $  -    		00.000.152
+20180415 20470655  $  -    	00.000.235
+20180415 20470655  $  +    	ubMixinClasses.TubStorageMixin(029B42C0).MixinMethod
+20180415 20470655  $ debug 		uba_audit.beforeinsert(TubStorageMixin)
+20180415 20470655  $  -    	00.000.010
+20180415 20470655  $  +    	ubMixinClasses.TubStorageMixin(029B42C0).MixinMethod
+20180415 20470655  $ debug 		uba_audit.insert(TubStorageMixin)
+20180415 20470655  $  +    		ubApp.TubDataStore(075B7D20).TubDataStore.ExecuteInsertFromList
+20180415 20470655  $  +    			ubApp.TubDataStore(075B7D20).TubDataStore.ExecuteInsertFromSQL
+20180415 20470655  $  +    				ubApp.TubApp(02963EE0).DBExecute
+20180415 20470655  $  +    					ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470655  $ debug 						P1: String(8)	uba_user
+20180415 20470655  $ debug 						P2: Int64		10
+20180415 20470655  $ debug 						P3: String(5)	LOGIN
+20180415 20470655  $ debug 						P4: Int64		10
+20180415 20470655  $ debug 						P5: DateTime	2018-04-15T20:47:06
+20180415 20470655  $ debug 						P6: String(9)	127.0.0.1
+20180415 20470655  $ debug 						P7: String(5)	admin
+20180415 20470655  $ debug 						P8: String(0)	
+20180415 20470655  $ debug 						P9: Int64		335787117379585
+20180415 20470655  $ debug 						P10: String(313..)	Cache-Control: no-cache  Connection: Keep-Alive  Pragma: no-cache  Accept: */*  Accept-Encoding: gzi...
+20180415 20470655  $ DB    						StartTransaction for connection "main"
+20180415 20470655  $ SQL   						ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A178D0) INSERT INTO uba_audit (entity,entityinfo_id,actionType,actionUser,actionTime,remoteIP,targetUser,targetRole,ID,fromValue) VALUES (?,?,?,?,?,?,?,?,?,?)
+20180415 20470655  $  -    					00.000.119
+20180415 20470655  $  -    				00.000.121
+20180415 20470655  $  -    			00.000.209
+20180415 20470655  $  -    		00.000.235
+20180415 20470655  $  -    	00.000.240
+20180415 20470655  $  +    	ubMixinClasses.TubStorageMixin(029B42C0).MixinMethod
+20180415 20470655  $ debug 		uba_audit.afterinsert(TubStorageMixin)
+20180415 20470655  $  -    	00.000.003
+20180415 20470655  $ DB    	Commit connection "main"
+20180415 20470655  $ http  	127.0.0.1 <- 200
+20180415 20470655  $  -    00.246.001
+20180415 20470655  %  +    getDomainInfo?extended=true&userName=admin&v=4
+20180415 20470655  % http  	127.0.0.1 -> GET getDomainInfo?extended=true&userName=admin&v=4
+20180415 20470655  % debug 	Create new JavaScript Engine for thread 52984
+20180415 20470705  % auth  	admin/98699537
+20180415 20470705  % call  	endpoint getDomainInfo
+20180415 20470705  % http  	127.0.0.1 <- 200
+20180415 20470705  %  -    00.202.093
+20180415 20470711  &  +    runSQL?CONNECTION=main
+20180415 20470711  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470711  & http  	select name, tbl_name as caption from sqlite_master where type='table' and name not like 'sqlite_%'
+20180415 20470711  & debug 	Create new JavaScript Engine for thread 52992
+20180415 20470724  & auth  	admin/98699537
+20180415 20470724  & call  	endpoint runSQL
+20180415 20470724  &  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470724  &  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470724  &  +    			00856EC2 
+20180415 20470725  &  -    			00.007.234
+20180415 20470725  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A180B0) PRAGMA foreign_keys = ON
+20180415 20470725  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A17F90) select name, tbl_name as caption from sqlite_master where type='table' and name not like 'sqlite_%'
+20180415 20470725  &  -    		00.007.283
+20180415 20470725  &  -    	00.007.321
+20180415 20470725  & http  	127.0.0.1 <- 200
+20180415 20470725  &  -    00.221.328
+20180415 20470725  '  +    runSQL?CONNECTION=main
+20180415 20470725  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470725  ' http  	PRAGMA table_info('uba_user')
+20180415 20470725  ' debug 	Create new JavaScript Engine for thread 53000
+20180415 20470737  ' auth  	admin/98699537
+20180415 20470737  ' call  	endpoint runSQL
+20180415 20470737  '  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470737  '  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470737  '  +    			00856EC2 
+20180415 20470737  '  -    			00.001.308
+20180415 20470737  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18470) PRAGMA foreign_keys = ON
+20180415 20470737  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18350) PRAGMA table_info('uba_user')
+20180415 20470737  '  -    		00.001.335
+20180415 20470737  '  -    	00.001.366
+20180415 20470737  ' http  	127.0.0.1 <- 200
+20180415 20470737  '  -    00.204.357
+20180415 20470737  (  +    runSQL?CONNECTION=main
+20180415 20470737  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470737  ( http  	PRAGMA foreign_key_list('uba_user')
+20180415 20470737  ( debug 	Create new JavaScript Engine for thread 52960
+20180415 20470751  ( auth  	admin/98699537
+20180415 20470751  ( call  	endpoint runSQL
+20180415 20470751  (  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470751  (  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470751  (  +    			00856EC2 
+20180415 20470751  (  -    			00.001.260
+20180415 20470751  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18890) PRAGMA foreign_keys = ON
+20180415 20470751  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18770) PRAGMA foreign_key_list('uba_user')
+20180415 20470751  (  -    		00.001.291
+20180415 20470751  (  -    	00.001.316
+20180415 20470751  ( http  	127.0.0.1 <- 200
+20180415 20470751  (  -    00.210.579
+20180415 20470751  )  +    runSQL?CONNECTION=main
+20180415 20470751  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470751  ) http  	PRAGMA index_list('uba_user')
+20180415 20470751  ) debug 	Create new JavaScript Engine for thread 52996
+20180415 20470801  ) auth  	admin/98699537
+20180415 20470801  ) call  	endpoint runSQL
+20180415 20470801  )  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470801  )  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470801  )  +    			00856EC2 
+20180415 20470801  )  -    			00.001.392
+20180415 20470801  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18C50) PRAGMA foreign_keys = ON
+20180415 20470801  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA index_list('uba_user')
+20180415 20470801  )  -    		00.001.413
+20180415 20470801  )  -    	00.001.436
+20180415 20470801  ) http  	127.0.0.1 <- 200
+20180415 20470801  )  -    00.203.603
+20180415 20470801  "  +    runSQL?CONNECTION=main
+20180415 20470801  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470801  " http  	PRAGMA table_info('uba_role')
+20180415 20470801  " auth  	admin/98699537
+20180415 20470801  " call  	endpoint runSQL
+20180415 20470801  "  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470801  "  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470801  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA table_info('uba_role')
+20180415 20470801  "  -    		00.000.071
+20180415 20470801  "  -    	00.000.133
+20180415 20470801  " http  	127.0.0.1 <- 200
+20180415 20470801  "  -    00.000.339
+20180415 20470801  #  +    runSQL?CONNECTION=main
+20180415 20470801  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470801  # http  	PRAGMA foreign_key_list('uba_role')
+20180415 20470801  # auth  	admin/98699537
+20180415 20470801  # call  	endpoint runSQL
+20180415 20470801  #  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470801  #  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470801  #  +    			00856EC2 
+20180415 20470801  #  -    			00.001.325
+20180415 20470801  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18D10) PRAGMA foreign_keys = ON
+20180415 20470801  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA foreign_key_list('uba_role')
+20180415 20470801  #  -    		00.001.349
+20180415 20470801  #  -    	00.001.372
+20180415 20470801  # http  	127.0.0.1 <- 200
+20180415 20470801  #  -    00.001.558
+20180415 20470801  $  +    runSQL?CONNECTION=main
+20180415 20470801  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470801  $ http  	PRAGMA index_list('uba_role')
+20180415 20470801  $ auth  	admin/98699537
+20180415 20470801  $ call  	endpoint runSQL
+20180415 20470801  $  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470801  $  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470801  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA index_list('uba_role')
+20180415 20470801  $  -    		00.000.024
+20180415 20470801  $  -    	00.000.066
+20180415 20470801  $ http  	127.0.0.1 <- 200
+20180415 20470801  $  -    00.000.226
+20180415 20470801  %  +    runSQL?CONNECTION=main
+20180415 20470801  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470801  % http  	PRAGMA table_info('uba_els')
+20180415 20470801  % auth  	admin/98699537
+20180415 20470801  % call  	endpoint runSQL
+20180415 20470801  %  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470801  %  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470801  %  +    			00856EC2 
+20180415 20470801  %  -    			00.001.340
+20180415 20470801  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18DD0) PRAGMA foreign_keys = ON
+20180415 20470801  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA table_info('uba_els')
+20180415 20470801  %  -    		00.001.366
+20180415 20470801  %  -    	00.001.396
+20180415 20470801  % http  	127.0.0.1 <- 200
+20180415 20470801  %  -    00.001.642
+20180415 20470801  &  +    runSQL?CONNECTION=main
+20180415 20470801  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470801  & http  	PRAGMA foreign_key_list('uba_els')
+20180415 20470801  & auth  	admin/98699537
+20180415 20470801  & call  	endpoint runSQL
+20180415 20470801  &  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470801  &  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470801  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA foreign_key_list('uba_els')
+20180415 20470801  &  -    		00.000.026
+20180415 20470801  &  -    	00.000.072
+20180415 20470801  & http  	127.0.0.1 <- 200
+20180415 20470801  &  -    00.000.231
+20180415 20470802  '  +    runSQL?CONNECTION=main
+20180415 20470802  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470802  ' http  	PRAGMA index_list('uba_els')
+20180415 20470802  ' auth  	admin/98699537
+20180415 20470802  ' call  	endpoint runSQL
+20180415 20470802  '  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470802  '  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470802  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA index_list('uba_els')
+20180415 20470802  '  -    		00.000.023
+20180415 20470802  '  -    	00.000.067
+20180415 20470802  ' http  	127.0.0.1 <- 200
+20180415 20470802  '  -    00.000.224
+20180415 20470802  (  +    runSQL?CONNECTION=main
+20180415 20470802  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470802  ( http  	PRAGMA table_info('uba_subject')
+20180415 20470802  ( auth  	admin/98699537
+20180415 20470802  ( call  	endpoint runSQL
+20180415 20470802  (  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470802  (  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470802  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA table_info('uba_subject')
+20180415 20470802  (  -    		00.000.024
+20180415 20470802  (  -    	00.000.064
+20180415 20470802  ( http  	127.0.0.1 <- 200
+20180415 20470802  (  -    00.000.210
+20180415 20470802  )  +    runSQL?CONNECTION=main
+20180415 20470802  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470802  ) http  	PRAGMA foreign_key_list('uba_subject')
+20180415 20470802  ) auth  	admin/98699537
+20180415 20470802  ) call  	endpoint runSQL
+20180415 20470802  )  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470802  )  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470802  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA foreign_key_list('uba_subject')
+20180415 20470802  )  -    		00.000.022
+20180415 20470802  )  -    	00.000.033
+20180415 20470802  ) http  	127.0.0.1 <- 200
+20180415 20470802  )  -    00.000.174
+20180415 20470802  "  +    runSQL?CONNECTION=main
+20180415 20470802  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470802  " http  	PRAGMA index_list('uba_subject')
+20180415 20470802  " auth  	admin/98699537
+20180415 20470802  " call  	endpoint runSQL
+20180415 20470802  "  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470802  "  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470802  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA index_list('uba_subject')
+20180415 20470802  "  -    		00.000.044
+20180415 20470802  "  -    	00.000.106
+20180415 20470802  " http  	127.0.0.1 <- 200
+20180415 20470802  "  -    00.000.319
+20180415 20470802  #  +    runSQL?CONNECTION=main
+20180415 20470802  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470802  # http  	PRAGMA table_info('uba_userrole')
+20180415 20470802  # auth  	admin/98699537
+20180415 20470802  # call  	endpoint runSQL
+20180415 20470802  #  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470802  #  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470802  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA table_info('uba_userrole')
+20180415 20470802  #  -    		00.000.027
+20180415 20470802  #  -    	00.000.083
+20180415 20470802  # http  	127.0.0.1 <- 200
+20180415 20470802  #  -    00.000.221
+20180415 20470802  $  +    runSQL?CONNECTION=main
+20180415 20470802  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470802  $ http  	PRAGMA foreign_key_list('uba_userrole')
+20180415 20470802  $ auth  	admin/98699537
+20180415 20470802  $ call  	endpoint runSQL
+20180415 20470802  $  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470802  $  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470802  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA foreign_key_list('uba_userrole')
+20180415 20470802  $  -    		00.000.029
+20180415 20470802  $  -    	00.000.084
+20180415 20470802  $ http  	127.0.0.1 <- 200
+20180415 20470802  $  -    00.000.273
+20180415 20470802  %  +    runSQL?CONNECTION=main
+20180415 20470802  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470802  % http  	PRAGMA index_list('uba_userrole')
+20180415 20470802  % auth  	admin/98699537
+20180415 20470802  % call  	endpoint runSQL
+20180415 20470802  %  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470802  %  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470802  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA index_list('uba_userrole')
+20180415 20470802  %  -    		00.000.032
+20180415 20470802  %  -    	00.000.074
+20180415 20470802  % http  	127.0.0.1 <- 200
+20180415 20470802  %  -    00.000.251
+20180415 20470802  &  +    runSQL?CONNECTION=main
+20180415 20470802  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470802  & http  	PRAGMA table_info('uba_als')
+20180415 20470802  & auth  	admin/98699537
+20180415 20470802  & call  	endpoint runSQL
+20180415 20470802  &  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470802  &  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470802  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA table_info('uba_als')
+20180415 20470802  &  -    		00.000.029
+20180415 20470802  &  -    	00.000.074
+20180415 20470802  & http  	127.0.0.1 <- 200
+20180415 20470802  &  -    00.000.217
+20180415 20470802  '  +    runSQL?CONNECTION=main
+20180415 20470802  ' http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470802  ' http  	PRAGMA foreign_key_list('uba_als')
+20180415 20470802  ' auth  	admin/98699537
+20180415 20470802  ' call  	endpoint runSQL
+20180415 20470802  '  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470802  '  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470802  ' SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA foreign_key_list('uba_als')
+20180415 20470802  '  -    		00.000.022
+20180415 20470802  '  -    	00.000.034
+20180415 20470802  ' http  	127.0.0.1 <- 200
+20180415 20470802  '  -    00.000.180
+20180415 20470802  (  +    runSQL?CONNECTION=main
+20180415 20470802  ( http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470802  ( http  	PRAGMA index_list('uba_als')
+20180415 20470802  ( auth  	admin/98699537
+20180415 20470802  ( call  	endpoint runSQL
+20180415 20470802  (  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470802  (  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470802  ( SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA index_list('uba_als')
+20180415 20470802  (  -    		00.000.021
+20180415 20470802  (  -    	00.000.062
+20180415 20470802  ( http  	127.0.0.1 <- 200
+20180415 20470802  (  -    00.000.218
+20180415 20470803  )  +    runSQL?CONNECTION=main
+20180415 20470803  ) http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470803  ) http  	PRAGMA table_info('uba_audit')
+20180415 20470803  ) auth  	admin/98699537
+20180415 20470803  ) call  	endpoint runSQL
+20180415 20470803  )  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470803  )  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470803  ) SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA table_info('uba_audit')
+20180415 20470803  )  -    		00.000.027
+20180415 20470803  )  -    	00.000.076
+20180415 20470803  ) http  	127.0.0.1 <- 200
+20180415 20470803  )  -    00.000.220
+20180415 20470803  "  +    runSQL?CONNECTION=main
+20180415 20470803  " http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470803  " http  	PRAGMA foreign_key_list('uba_audit')
+20180415 20470803  " auth  	admin/98699537
+20180415 20470803  " call  	endpoint runSQL
+20180415 20470803  "  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470803  "  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470803  " SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA foreign_key_list('uba_audit')
+20180415 20470803  "  -    		00.000.039
+20180415 20470803  "  -    	00.000.049
+20180415 20470803  " http  	127.0.0.1 <- 200
+20180415 20470803  "  -    00.000.188
+20180415 20470803  #  +    runSQL?CONNECTION=main
+20180415 20470803  # http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470803  # http  	PRAGMA index_list('uba_audit')
+20180415 20470803  # auth  	admin/98699537
+20180415 20470803  # call  	endpoint runSQL
+20180415 20470803  #  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470803  #  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470803  # SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA index_list('uba_audit')
+20180415 20470803  #  -    		00.000.115
+20180415 20470803  #  -    	00.000.155
+20180415 20470803  # http  	127.0.0.1 <- 200
+20180415 20470803  #  -    00.000.325
+20180415 20470803  $  +    runSQL?CONNECTION=main
+20180415 20470803  $ http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470803  $ http  	PRAGMA table_info('ubs_settings')
+20180415 20470803  $ auth  	admin/98699537
+20180415 20470803  $ call  	endpoint runSQL
+20180415 20470803  $  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470803  $  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470803  $ SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA table_info('ubs_settings')
+20180415 20470803  $  -    		00.000.034
+20180415 20470803  $  -    	00.000.085
+20180415 20470803  $ http  	127.0.0.1 <- 200
+20180415 20470803  $  -    00.000.284
+20180415 20470803  %  +    runSQL?CONNECTION=main
+20180415 20470803  % http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470803  % http  	PRAGMA foreign_key_list('ubs_settings')
+20180415 20470803  % auth  	admin/98699537
+20180415 20470803  % call  	endpoint runSQL
+20180415 20470803  %  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470803  %  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470803  % SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA foreign_key_list('ubs_settings')
+20180415 20470803  %  -    		00.000.025
+20180415 20470803  %  -    	00.000.076
+20180415 20470803  % http  	127.0.0.1 <- 200
+20180415 20470803  %  -    00.000.223
+20180415 20470803  &  +    runSQL?CONNECTION=main
+20180415 20470803  & http  	127.0.0.1 -> POST runSQL?CONNECTION=main
+20180415 20470803  & http  	PRAGMA index_list('ubs_settings')
+20180415 20470803  & auth  	admin/98699537
+20180415 20470803  & call  	endpoint runSQL
+20180415 20470803  &  +    	ubApp.TubApp(02963EE0).DBExecute
+20180415 20470803  &  +    		ubApp.TubApp(02963EE0).TubApp.InternalDBExecute
+20180415 20470803  & SQL   			ubDBSQLite3ThreadSafe.TubSQLite3Statement(02A18B30) PRAGMA index_list('ubs_settings')
+20180415 20470803  &  -    		00.000.023
+20180415 20470803  &  -    	00.000.072
+20180415 20470803  & http  	127.0.0.1 <- 200
+20180415 20470803  &  -    00.000.228
+20180415 20470812  ! info  ubApp.TubApp(02963EE0) {   "ClientsCurrent": 1,   "ClientsMax": 1,   "Invalid": 0,   "Responses": 29,   "Modified": 0,   "IncomingBytes": 11252,   "OutcomingBytes": 174599,   "OutcomingFiles": 0,   "ServiceCalls": 29,   "ProcessTime": "1.50s"  }

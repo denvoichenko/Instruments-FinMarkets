@@ -1,0 +1,106 @@
+c:\UnityBase\UB.exe 4.0.0.0 (2018-02-22 16:30:16)Host=WDFN34211327A User=D071860 CPU=4*9-6-19971:FFFBCBBF8373DAFEBF6F9C0000 OS=23.0=10.0.15063 Wow64=1 Freq=2437498Environment variables=ALLUSERSPROFILE=C:\ProgramData	ANSICON=121x32766 (121x26)	ANSICON_DEF=7	APPDATA=C:\Users\D071860\AppData\Roaming	CommonProgramFiles=C:\Program Files (x86)\Common Files	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files	CommonProgramW6432=C:\Program Files\Common Files	COMPUTERNAME=WDFN34211327A	ComSpec=C:\WINDOWS\system32\cmd.exe	ConEmuANSI=ON	ConEmuAnsiLog=	ConEmuArgs=	ConEmuArgs2=	ConEmuBackHWND=0x000B026E	ConEmuBaseDir=C:\Program Files\ConEmu\ConEmu	ConEmuBaseDirShort=C:\PROGRA~1\ConEmu\ConEmu	ConEmuBuild=180411	ConEmuCfgDir=	ConEmuConfig=	ConEmuDir=C:\Program Files\ConEmu	ConEmuDrawHWND=0x00180912	ConEmuDrive=C:	ConEmuHooks=Enabled	ConEmuHWND=0x001904C6	ConEmuPalette=<ConEmu>	ConEmuPID=1208	ConEmuPrompt0=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S	ConEmuPrompt1=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S$E[92m$P$E[90m	ConEmuPrompt2=$_$E[90m$G	ConEmuPrompt3=$E[m$S$E]9;12$E\	ConEmuServerPID=20132	ConEmuTask={Shells::cmd}	ConEmuWorkDir=C:\Users\D071860	ConEmuWorkDrive=C:	DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Security\Logs	HOMEDRIVE=C:	homeloc=D_WDF	HOMEPATH=\Users\D071860	KUBECONFIG=C:\Practice\kubernetes\RUSLAN-KUBECONFIG	LOCALAPPDATA=C:\Users\D071860\AppData\Local	LOGONSERVER=\\DS2WDF0004	NUMBER_OF_PROCESSORS=4	OneDrive=C:\Users\D071860\OneDrive	OS=Windows_NT	Path=C:\Program Files\ConEmu\ConEmu\Scripts;C:\Program Files\ConEmu;C:\Program Files\ConEmu\ConEmu;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Docker\Docker\Resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Minikube;C:\Program Files\Kubernetes;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;c:\UnityBase;C:\Users\D071860\AppData\Local\Microsoft\WindowsApps;C:\Users\D071860\AppData\Roaming\npm	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC	PROCESSOR_ARCHITECTURE=x86	PROCESSOR_ARCHITEW6432=AMD64	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel	PROCESSOR_LEVEL=6	PROCESSOR_REVISION=4e03	ProgramData=C:\ProgramData	ProgramFiles=C:\Program Files (x86)	ProgramFiles(x86)=C:\Program Files (x86)	ProgramW6432=C:\Program Files	PROMPT=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S$E[92m$P$E[90m$_$E[90m$G$E[m$S$E]9;12$E\	PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell	PUBLIC=C:\Users\Public	SESSIONNAME=Console	SNC_LIB=C:\Program Files (x86)\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SNC_LIB_64=C:\Program Files\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SSF_LIBRARY_PATH=C:\Program Files (x86)\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SSF_LIBRARY_PATH_64=C:\Program Files\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SystemDrive=C:	SystemRoot=C:\WINDOWS	TEMP=C:\Users\D071860\AppData\Local\Temp	TMP=C:\Users\D071860\AppData\Local\Temp	UATDATA=C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77	UB_HOME=c:\UnityBase	USERDNSDOMAIN=GLOBAL.CORP.SAP	USERDOMAIN=GLOBAL	USERDOMAIN_ROAMINGPROFILE=GLOBAL	USERNAME=D071860	USERPROFILE=C:\Users\D071860	windir=C:\WINDOWSTubLog 1.18.3488 FTS3 2018-04-15T18:25:5920180415 18255906  ! warn  WebSocket support are disabled because WSServer.host = '' in config
+20180415 18255906  !  +    ubServer.TubServer(02D8E5C0).008863DB 
+20180415 18255906  !  +    	Init app
+20180415 18255906  ! srvr  		FTS is disabled
+20180415 18255906  ! info  		Check blob store "avatars" folder "C:\ubProject\CityPortal\avatars\": folder exists
+20180415 18255906  ! info  		Check blob store "attach" folder "C:\ubProject\CityPortal\docs\attach\": folder exists
+20180415 18255906  !  -    	00.000.603
+20180415 18255906  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ub\ modified
+20180415 18255906  !  +    		ubCommonClasses.TubThreadSafeCache(02D8CB08).removeStartsWith
+20180415 18255906  !  -    		00.000.004
+20180415 18255906  !  -    	00.000.009
+20180415 18255906  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\uba\ modified
+20180415 18255906  !  +    		ubCommonClasses.TubThreadSafeCache(02D8CB08).removeStartsWith
+20180415 18255906  !  -    		00.000.000
+20180415 18255906  !  -    	00.000.004
+20180415 18255906  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ubs\ modified
+20180415 18255906  !  +    		ubCommonClasses.TubThreadSafeCache(02D8CB08).removeStartsWith
+20180415 18255906  !  -    		00.000.000
+20180415 18255906  !  -    	00.000.003
+20180415 18255906  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ubm\ modified
+20180415 18255906  !  +    		ubCommonClasses.TubThreadSafeCache(02D8CB08).removeStartsWith
+20180415 18255906  !  -    		00.000.000
+20180415 18255906  !  -    	00.000.003
+20180415 18255906  !  +    	Folder C:\ubProject\CityPortal\_public_only_\ modified
+20180415 18255906  !  +    		ubCommonClasses.TubThreadSafeCache(02D8CB08).removeStartsWith
+20180415 18255906  !  -    		00.000.000
+20180415 18255906  !  -    	00.000.003
+20180415 18255906  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\adminui-reg\ modified
+20180415 18255906  !  +    		ubCommonClasses.TubThreadSafeCache(02D8CB08).removeStartsWith
+20180415 18255906  !  -    		00.000.000
+20180415 18255906  !  -    	00.000.003
+20180415 18255906  !  +    	Folder C:\ubProject\CityPortal\models\requests\ modified
+20180415 18255906  !  +    		ubCommonClasses.TubThreadSafeCache(02D8CB08).removeStartsWith
+20180415 18255906  !  -    		00.000.000
+20180415 18255906  !  -    	00.000.004
+20180415 18255906  !  +    	ubApp.TubApp(02CF3EE0).init
+20180415 18255906  ! srvr  		Mime converters are disabled
+20180415 18255906  !  -    	00.000.003
+20180415 18255906  ! srvr  	Enable zip compresison
+20180415 18255906  ! srvr  	Send initialization request to http://localhost:888/init
+20180415 18255907  "  +    InitializationRequest
+20180415 18255907  "  +    	init
+20180415 18255907  " srvr  		Start application intialization...
+20180415 18255907  " info  		Loading domain...
+20180415 18255907  " info  		Loading model "UB" from "C:\ubProject\CityPortal\node_modules\@unitybase\ub\"
+20180415 18255907  " info  		Loading model "UBA" from "C:\ubProject\CityPortal\node_modules\@unitybase\uba\"
+20180415 18255909  " info  		Loading model "UBS" from "C:\ubProject\CityPortal\node_modules\@unitybase\ubs\"
+20180415 18255909  " info  		Loading model "UBM" from "C:\ubProject\CityPortal\node_modules\@unitybase\ubm\"
+20180415 18255909  " info  		Loading model "adminui-reg" from "C:\ubProject\CityPortal\node_modules\@unitybase\adminui-reg\"
+20180415 18255909  " info  		Loading model "RequestList" from "C:\ubProject\CityPortal\models\requests\"
+20180415 18255909  "  +    		ubApp.TubDataStore(04216028).Init
+20180415 18255909  "  +    			ubApp.TubApp(02CF3EE0).DBExecute
+20180415 18255909  "  +    				ubApp.TubApp(02CF3EE0).TubApp.InternalDBExecute
+20180415 18255909  "  +    					00856EC2 
+20180415 18255910  "  -    					00.003.432
+20180415 18255910  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02DA6DF0) PRAGMA foreign_keys = ON
+20180415 18255910  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02DA67F0) SELECT A01.ID,A01.entity,A01.state,A01.attribute,A01.roleName,A01.actions  FROM uba_als A01  ORDER BY A01.entity ASC
+20180415 18255910  "  -    				00.003.584
+20180415 18255910  "  -    			00.003.622
+20180415 18255910  " debug 			Query result for entity "uba_als" into data name "": row count=0
+20180415 18255910  "  -    		00.003.647
+20180415 18255910  " srvr  		The domain loaded successfully with 3 entities
+20180415 18255910  " debug 		Create new JavaScript Engine for thread 38920
+20180415 18255926  "  +    		008C234A 
+20180415 18255926  "  +    			ubApp.TubDataStore(058B0F98).Init
+20180415 18255926  "  +    				ubApp.TubApp(02CF3EE0).DBExecute
+20180415 18255926  "  +    					ubApp.TubApp(02CF3EE0).TubApp.InternalDBExecute
+20180415 18255926  " SQL   						ubDBSQLite3ThreadSafe.TubSQLite3Statement(02DA7150) SELECT A01.ID,A01.name,A01.sessionTimeout,A01.allowedAppMethods  FROM uba_role A01 
+20180415 18255926  "  -    					00.000.053
+20180415 18255926  "  -    				00.000.162
+20180415 18255926  " debug 				Query result for entity "uba_role" into data name "": row count=7
+20180415 18255926  "  -    			00.000.177
+20180415 18255926  "  +    			ubApp.TubDataStore(058B1010).Init
+20180415 18255926  "  +    				ubApp.TubApp(02CF3EE0).DBExecute
+20180415 18255926  "  +    					ubApp.TubApp(02CF3EE0).TubApp.InternalDBExecute
+20180415 18255926  " SQL   						ubDBSQLite3ThreadSafe.TubSQLite3Statement(02DA70F0) SELECT A01.ID,A01.entityMask,A01.methodMask,A01.ruleType,A01.ruleRole,A01.disabled,A01.code  FROM uba_els A01 
+20180415 18255926  "  -    					00.000.036
+20180415 18255926  "  -    				00.000.134
+20180415 18255926  " debug 				Query result for entity "uba_els" into data name "": row count=34
+20180415 18255926  "  -    			00.000.153
+20180415 18255926  "  -    		00.001.434
+20180415 18255926  " auth  		New session admin/90232457 created at 127.0.0.1/-144115177875308462 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180415 18255926  " auth  		New session anonymous/90232456 created at 127.0.0.1/-144115177875308462 using Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20180415 18255926  "  +    		ubApp.TubDataStore(058B1218).Init
+20180415 18255926  "  +    			ubApp.TubApp(02CF3EE0).DBExecute
+20180415 18255926  "  +    				ubApp.TubApp(02CF3EE0).TubApp.InternalDBExecute
+20180415 18255926  " debug 					P1: String(34)	UBA.passwordPolicy.maxDurationDays
+20180415 18255926  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02DA7210) select settingValue from ubs_settings where settingKey =?
+20180415 18255926  "  -    				00.000.035
+20180415 18255926  "  -    			00.000.092
+20180415 18255926  " debug 			Query result for entity "ubs_settings" into data name "": row count=1
+20180415 18255926  "  -    		00.000.101
+20180415 18255926  "  +    		ubApp.TubDataStore(058B1218).Init
+20180415 18255926  "  +    			ubApp.TubApp(02CF3EE0).DBExecute
+20180415 18255926  "  +    				ubApp.TubApp(02CF3EE0).TubApp.InternalDBExecute
+20180415 18255926  " debug 					P1: String(37)	UBA.passwordPolicy.maxInvalidAttempts
+20180415 18255926  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(02DA7210) select settingValue from ubs_settings where settingKey =?
+20180415 18255926  "  -    				00.000.009
+20180415 18255926  "  -    			00.000.024
+20180415 18255926  " debug 			Query result for entity "ubs_settings" into data name "": row count=1
+20180415 18255926  "  -    		00.000.031
+20180415 18255926  "  -    	00.293.212
+20180415 18255926  "  -    00.293.226
+20180415 18255926  ! srvr  	ubServer.TubServer(02D8E5C0) {"THttpApiServer(02CBA990)":{"Cloned":false,"RegisteredUrl":"http://+:888/","HTTPQueueLength":1000,"MaxBandwidth":-1,"MaxConnections":-1,"APIVersion":"HTTP API 2.0","ServerName":"UnityBase","ProcessName":""}} initialized
+20180415 18255926  !  -    00.315.469
+20180415 18260248  ! info  ubApp.TubApp(02CF3EE0) {   "ClientsCurrent": 0,   "ClientsMax": 0,   "Invalid": 0,   "Responses": 0,   "Modified": 0,   "IncomingBytes": 0,   "OutcomingBytes": 0,   "OutcomingFiles": 0,   "ServiceCalls": 0,   "ProcessTime": "0us"  }

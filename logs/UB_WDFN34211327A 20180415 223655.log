@@ -1,0 +1,71 @@
+c:\UnityBase\UB.exe 4.0.0.0 (2018-02-22 16:30:16)Host=WDFN34211327A User=D071860 CPU=4*9-6-19971:FFFBCBBF8373DAFEBF6F9C0000 OS=23.0=10.0.15063 Wow64=1 Freq=2437498Environment variables=ALLUSERSPROFILE=C:\ProgramData	ANSICON=121x32766 (121x26)	ANSICON_DEF=7	APPDATA=C:\Users\D071860\AppData\Roaming	CommonProgramFiles=C:\Program Files (x86)\Common Files	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files	CommonProgramW6432=C:\Program Files\Common Files	COMPUTERNAME=WDFN34211327A	ComSpec=C:\WINDOWS\system32\cmd.exe	ConEmuANSI=ON	ConEmuAnsiLog=	ConEmuArgs=	ConEmuArgs2=	ConEmuBackHWND=0x001105EE	ConEmuBaseDir=C:\Program Files\ConEmu\ConEmu	ConEmuBaseDirShort=C:\PROGRA~1\ConEmu\ConEmu	ConEmuBuild=180411	ConEmuCfgDir=	ConEmuConfig=	ConEmuDir=C:\Program Files\ConEmu	ConEmuDrawHWND=0x001B0306	ConEmuDrive=C:	ConEmuHooks=Enabled	ConEmuHWND=0x001904C6	ConEmuPalette=<ConEmu>	ConEmuPID=1208	ConEmuPrompt0=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S	ConEmuPrompt1=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S$E[92m$P$E[90m	ConEmuPrompt2=$_$E[90m$G	ConEmuPrompt3=$E[m$S$E]9;12$E\	ConEmuServerPID=5468	ConEmuTask={Shells::cmd}	ConEmuWorkDir=C:\Users\D071860	ConEmuWorkDrive=C:	DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Security\Logs	HOMEDRIVE=C:	homeloc=D_WDF	HOMEPATH=\Users\D071860	KUBECONFIG=C:\Practice\kubernetes\RUSLAN-KUBECONFIG	LOCALAPPDATA=C:\Users\D071860\AppData\Local	LOGONSERVER=\\DS2WDF0004	NUMBER_OF_PROCESSORS=4	OneDrive=C:\Users\D071860\OneDrive	OS=Windows_NT	Path=C:\Program Files\ConEmu\ConEmu\Scripts;C:\Program Files\ConEmu;C:\Program Files\ConEmu\ConEmu;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Docker\Docker\Resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Minikube;C:\Program Files\Kubernetes;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;c:\UnityBase;C:\Users\D071860\AppData\Local\Microsoft\WindowsApps;C:\Users\D071860\AppData\Roaming\npm	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JSE;.WSF;.WSH;.MSC	PROCESSOR_ARCHITECTURE=x86	PROCESSOR_ARCHITEW6432=AMD64	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel	PROCESSOR_LEVEL=6	PROCESSOR_REVISION=4e03	ProgramData=C:\ProgramData	ProgramFiles=C:\Program Files (x86)	ProgramFiles(x86)=C:\Program Files (x86)	ProgramW6432=C:\Program Files	PROMPT=$E[m$E[32m$E]9;8;"USERNAME"$E\@$E]9;8;"COMPUTERNAME"$E\$S$E[92m$P$E[90m$_$E[90m$G$E[m$S$E]9;12$E\	PSModulePath=C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell	PUBLIC=C:\Users\Public	SESSIONNAME=Console	SNC_LIB=C:\Program Files (x86)\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SNC_LIB_64=C:\Program Files\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SSF_LIBRARY_PATH=C:\Program Files (x86)\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SSF_LIBRARY_PATH_64=C:\Program Files\SAP\FrontEnd\SecureLogin\lib\sapcrypto.dll	SystemDrive=C:	SystemRoot=C:\WINDOWS	TEMP=C:\Users\D071860\AppData\Local\Temp	TMP=C:\Users\D071860\AppData\Local\Temp	UATDATA=C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77	UB_HOME=c:\UnityBase	USERDNSDOMAIN=GLOBAL.CORP.SAP	USERDOMAIN=GLOBAL	USERDOMAIN_ROAMINGPROFILE=GLOBAL	USERNAME=D071860	USERPROFILE=C:\Users\D071860	windir=C:\WINDOWSTubLog 1.18.3488 FTS3 2018-04-15T20:36:5520180415 20365537  ! warn  WebSocket support are disabled because WSServer.host = '' in config
+20180415 20365537  !  +    ubServer.TubServer(042074E8).008863DB 
+20180415 20365537  !  +    	Init app
+20180415 20365537  ! srvr  		FTS is disabled
+20180415 20365537  ! info  		Check blob store "avatars" folder "C:\ubProject\CityPortal\avatars\": folder exists
+20180415 20365537  ! info  		Check blob store "attach" folder "C:\ubProject\CityPortal\docs\attach\": folder exists
+20180415 20365537  !  -    	00.000.559
+20180415 20365537  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ub\ modified
+20180415 20365537  !  +    		ubCommonClasses.TubThreadSafeCache(028ACB08).removeStartsWith
+20180415 20365537  !  -    		00.000.007
+20180415 20365537  !  -    	00.000.015
+20180415 20365537  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\uba\ modified
+20180415 20365537  !  +    		ubCommonClasses.TubThreadSafeCache(028ACB08).removeStartsWith
+20180415 20365537  !  -    		00.000.000
+20180415 20365537  !  -    	00.000.004
+20180415 20365537  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ubs\ modified
+20180415 20365537  !  +    		ubCommonClasses.TubThreadSafeCache(028ACB08).removeStartsWith
+20180415 20365537  !  -    		00.000.000
+20180415 20365537  !  -    	00.000.004
+20180415 20365537  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\ubm\ modified
+20180415 20365537  !  +    		ubCommonClasses.TubThreadSafeCache(028ACB08).removeStartsWith
+20180415 20365537  !  -    		00.000.000
+20180415 20365537  !  -    	00.000.003
+20180415 20365537  !  +    	Folder C:\ubProject\CityPortal\_public_only_\ modified
+20180415 20365537  !  +    		ubCommonClasses.TubThreadSafeCache(028ACB08).removeStartsWith
+20180415 20365537  !  -    		00.000.000
+20180415 20365537  !  -    	00.000.004
+20180415 20365537  !  +    	Folder C:\ubProject\CityPortal\node_modules\@unitybase\adminui-reg\ modified
+20180415 20365537  !  +    		ubCommonClasses.TubThreadSafeCache(028ACB08).removeStartsWith
+20180415 20365537  !  -    		00.000.000
+20180415 20365537  !  -    	00.000.003
+20180415 20365537  !  +    	Folder C:\ubProject\CityPortal\models\requests\ modified
+20180415 20365537  !  +    		ubCommonClasses.TubThreadSafeCache(028ACB08).removeStartsWith
+20180415 20365537  !  -    		00.000.000
+20180415 20365537  !  -    	00.000.003
+20180415 20365538  !  +    	ubApp.TubApp(02813EE0).init
+20180415 20365538  ! srvr  		Mime converters are disabled
+20180415 20365538  !  -    	00.000.003
+20180415 20365538  ! srvr  	Enable zip compresison
+20180415 20365538  ! srvr  	Send initialization request to http://localhost:888/init
+20180415 20365538  "  +    InitializationRequest
+20180415 20365538  "  +    	init
+20180415 20365538  " srvr  		Start application intialization...
+20180415 20365538  " info  		Loading domain...
+20180415 20365538  " info  		Loading model "UB" from "C:\ubProject\CityPortal\node_modules\@unitybase\ub\"
+20180415 20365538  " info  		Loading model "UBA" from "C:\ubProject\CityPortal\node_modules\@unitybase\uba\"
+20180415 20365539  " info  		Loading model "UBS" from "C:\ubProject\CityPortal\node_modules\@unitybase\ubs\"
+20180415 20365539  " info  		Loading model "UBM" from "C:\ubProject\CityPortal\node_modules\@unitybase\ubm\"
+20180415 20365541  " info  		Loading model "adminui-reg" from "C:\ubProject\CityPortal\node_modules\@unitybase\adminui-reg\"
+20180415 20365541  " info  		Loading model "RequestList" from "C:\ubProject\CityPortal\models\requests\"
+20180415 20365541  " ERROR 		Error loading entity file C:\ubProject\CityPortal\models\requests\req_reqList.meta, at line 45 "    q"
+20180415 20365541  "  +    		ubApp.TubDataStore(0419F728).Init
+20180415 20365541  "  +    			ubApp.TubApp(02813EE0).DBExecute
+20180415 20365541  "  +    				ubApp.TubApp(02813EE0).TubApp.InternalDBExecute
+20180415 20365541  "  +    					00856EC2 
+20180415 20365541  "  -    					00.008.288
+20180415 20365541  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(028C6970) PRAGMA foreign_keys = ON
+20180415 20365541  " SQL   					ubDBSQLite3ThreadSafe.TubSQLite3Statement(028C68B0) SELECT A01.ID,A01.entity,A01.state,A01.attribute,A01.roleName,A01.actions  FROM uba_als A01  ORDER BY A01.entity ASC
+20180415 20365541  "  -    				00.008.412
+20180415 20365541  "  -    			00.008.452
+20180415 20365541  " debug 			Query result for entity "uba_als" into data name "": row count=0
+20180415 20365541  "  -    		00.008.480
+20180415 20365541  " warn  		The domain loaded with errors: 1 valid entities, 1 invalid entities
+20180415 20365541  " ERROR 		Error load domain. See server log for details
+20180415 20365541  "  -    	00.059.417
+20180415 20365541  "  -    00.059.455
+20180415 20365541  ! ERROR 	Errors inside initialization process
+20180415 20365541  !  -    00.069.695
+20180415 20365541  ! EXC   EMetabaseException {"errorCode":0,"Message":"Failed to start - exception during initialization"} at 008A4E96 
+20180415 20365541  ! EXC   C:\\Users\\D071860\\AppData\\Roaming\\npm\\node_modules\\@unitybase\\ubcli\\node_modules\\@unitybase\\base\\argv.js:157\r\rError: Failed to start - exception during initialization\nestablishConnectionFromCmdLineAttributes@C:\\Users\\D071860\\AppData\\Roaming\\npm\\node_modules\\@unitybase\\ubcli\\node_modules\\@unitybase\\base\\argv.js:157:11\ngenerateDDL@C:\\Users\\D071860\\AppData\\Roaming\\npm\\node_modules\\@unitybase\\ubcli\\lib\\generateDDL.js:51:17\n@C:\\Users\\D071860\\AppData\\Roaming\\npm\\node_modules\\@unitybase\\ubcli\\bin\\ubcli.js:20:40\nModule.prototype._compile@module.js:579:16\nModule._extensions[\".js\"]@module.js:588:3\nModule.prototype.load@module.js:496:3\ntryModuleLoad@module.js:455:5\nModule._load@module.js:447:3\nModule.prototype.require@module.js:506:10\n@shell.js:1:16\n
+20180415 20365543  ! info  ubApp.TubApp(02813EE0) {   "ClientsCurrent": 0,   "ClientsMax": 0,   "Invalid": 0,   "Responses": 0,   "Modified": 0,   "IncomingBytes": 0,   "OutcomingBytes": 0,   "OutcomingFiles": 0,   "ServiceCalls": 0,   "ProcessTime": "0us"  }
